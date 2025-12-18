@@ -1,0 +1,342 @@
+{
+  "phones": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "release_year": 2023,
+      "price": 1400,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "1TB"],
+        "cpu": "Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.8 inch", "resolution": "3088x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "200MP", "ultrawide": "12MP", "telephoto": "10MP", "periscope": "10MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
+        "front": {"main": "12MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "Green", "Cream", "Lavender"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "S Pen"],
+      "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2025-01", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "234g", "dimensions": "163.4x78.1x8.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "release_year": 2023,
+      "price": 1200,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.1 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "3900mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "12MP", "telephoto": "10MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "12MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Black", "White", "Green", "Pink"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2025-01", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "168g", "dimensions": "146.3x70.9x7.6mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "release_year": 2023,
+      "price": 1300,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB"],
+        "cpu": "Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.6 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4700mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "12MP", "telephoto": "10MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "12MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Black", "Cream", "Green", "Lavender"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2025-01", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "196g", "dimensions": "157.8x76.2x7.6mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "release_year": 2022,
+      "price": 1300,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "1TB"],
+        "cpu": "Snapdragon 8 Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.8 inch", "resolution": "3088x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "108MP", "ultrawide": "12MP", "telephoto": "10MP", "periscope": "10MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
+        "front": {"main": "40MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "White", "Burgundy", "Green"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "S Pen"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "228g", "dimensions": "163.3x77.9x8.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.2", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "release_year": 2022,
+      "price": 1000,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 8 Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.1 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "3700mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "12MP", "telephoto": "10MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "White", "Pink Gold", "Green"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "167g", "dimensions": "146.0x70.6x7.6mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.2", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22+",
+      "release_year": 2022,
+      "price": 1100,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 8 Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.6 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "12MP", "telephoto": "10MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "White", "Pink Gold", "Green"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "195g", "dimensions": "157.4x75.8x7.6mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.2", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "release_year": 2021,
+      "price": 1200,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.8 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "108MP", "ultrawide": "12MP", "telephoto": "10MP", "periscope": "10MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
+        "front": {"main": "40MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "Phantom Silver", "Phantom Titanium", "Phantom Navy", "Phantom Brown"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "S Pen support"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "227g", "dimensions": "165.1x75.6x8.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.2", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "release_year": 2021,
+      "price": 900,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.2 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "64MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Gray", "Phantom White", "Phantom Violet", "Phantom Pink"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "171g", "dimensions": "151.7x71.2x7.9mm", "material": "Aluminum + Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21+",
+      "release_year": 2021,
+      "price": 1000,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4800mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "64MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Phantom Black", "Phantom Silver", "Phantom Violet"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "200g", "dimensions": "161.5x75.6x7.8mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20 Ultra",
+      "release_year": 2020,
+      "price": 1400,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.9 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "108MP", "ultrawide": "12MP", "telephoto": "48MP", "depth": "0.3MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
+        "front": {"main": "40MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Cosmic Gray", "Cosmic Black"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "220g", "dimensions": "166.9x76.0x8.8mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20",
+      "release_year": 2020,
+      "price": 1000,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB"],
+        "cpu": "Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.2 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "64MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Cosmic Gray", "Cloud Blue", "Cloud Pink"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "163g", "dimensions": "151.7x69.1x7.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20+",
+      "release_year": 2020,
+      "price": 1200,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.7 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "64MP", "depth": "0.3MP", "features": ["OIS", "HDR", "8K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Cosmic Gray", "Cosmic Black", "Cloud Blue"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "186g", "dimensions": "161.9x73.7x7.8mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20 FE",
+      "release_year": 2020,
+      "price": 700,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "8MP", "features": ["OIS", "HDR", "4K video"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Cloud Navy", "Cloud Lavender", "Cloud Mint", "Cloud Red", "Cloud White", "Cloud Orange"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "190g", "dimensions": "159.8x74.5x8.4mm", "material": "Aluminum + Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    }
+]
+}
