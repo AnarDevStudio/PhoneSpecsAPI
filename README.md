@@ -60,7 +60,8 @@ This technology stack enables the API to remain **extremely fast, efficient, and
 ```http
 GET phonespecsapi/samsung
 GET phonespecsapi/samsung/{model}
-GET phonespecsapi/samsung/{model}/{year}
+GET phonespecsapi/samsung/{model}?query=hardware
+
 ```
 
 ### Sample JSON Response
