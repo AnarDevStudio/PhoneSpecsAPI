@@ -1,24 +1,21 @@
-#ifndef ROUTES_PHONE_ENDPOINTS_HPP
-#define ROUTES_PHONE_ENDPOINTS_HPP
-#include <string>
-#include "../include/crow_all.h"
-#include "../include/nlohmann/json.hpp"
+#ifndef PHONE_ENDPOINTS_HPP
+#define PHONE_ENDPOINTS_HPP
 
-namespace routes {
-    void register_phone_endpoints(crow::App<>& app);
-}
+#include "../include/nlohmann/json.hpp"
+#include <string>
 
 class PhoneBrandEndpoints {
 public:
-    crow::json::wvalue getApple();
-    crow::json::wvalue getSamsung();
-    crow::json::wvalue getXiaomi();
-    crow::json::wvalue getGoogle();
-    crow::json::wvalue getHuawei();
-    crow::json::wvalue getNokia();
+    nlohmann::json getSamsung();
+    nlohmann::json getApple();
+    nlohmann::json getXiaomi();
+    nlohmann::json getGoogle();
+    nlohmann::json getHuawei();
+    nlohmann::json getNokia();
+
+private:
+    nlohmann::json readJsonFile(const std::string& path);
+    const std::string file_path = "data/"; // programı çalıştırdığın dizine göre
 };
 
-
-
-
-#endif // ROUTES_PHONE_ENDPOINTS_HPP
+#endif
