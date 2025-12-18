@@ -115,8 +115,12 @@ This makes the API suitable for both personal projects and production‑level sy
 
 ## Installation (Summary)
 
-1. Compile using C++17 or later
-2. Start the server
+```bash
+git clone https://github.com/AnarDevStudio/PhoneSpecsAPI.git
+cd PhoneSpecsAPI
+make all
+./app
+```
 
 ---
 
