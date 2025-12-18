@@ -8,7 +8,7 @@ phoneSpecsAPI is a **high‑performance REST API** that provides **detailed tech
 
 ## Supported Brands
 
-<p align="left">
+<p align="left" style="background:red;">
   <img src="https://cdn.simpleicons.org/samsung/000000" alt="Samsung" width="40" />
   <img src="https://cdn.simpleicons.org/apple/000000" alt="Apple" width="40" />
   <img src="https://cdn.simpleicons.org/xiaomi/000000" alt="Xiaomi" width="40" />
