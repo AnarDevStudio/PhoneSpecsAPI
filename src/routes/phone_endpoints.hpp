@@ -15,7 +15,7 @@ public:
 
 private:
     nlohmann::json readJsonFile(const std::string& path);
-    const std::string file_path = "data/"; // programı çalıştırdığın dizine göre
+    const std::string file_path = "data/"; 
 };
 
 #endif

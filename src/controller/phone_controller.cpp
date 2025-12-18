@@ -3,7 +3,7 @@
 #include <sstream>
 #include <iomanip>
 
-// URL decode fonksiyonu
+
 std::string urlDecode(const std::string& str) {
     std::string result;
     char ch;
@@ -34,13 +34,12 @@ void registerPhoneRoutes(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
         return res;
     });
 
-    // Belirli model ve optional query
+
     CROW_ROUTE(app, "/samsung/<string>")
     ([&phoneEndpoints](const crow::request& req, const std::string& model_param){
         nlohmann::json full_json = phoneEndpoints.getSamsung();
         nlohmann::json response_json;
 
-        // Normalize fonksiyonu: case-insensitive, boşluk ve tireleri kaldır
         auto normalize = [](const std::string& s){
             std::string result = s;
             std::transform(result.begin(), result.end(), result.begin(), ::tolower);
@@ -49,7 +48,6 @@ void registerPhoneRoutes(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
             return result;
         };
 
-        // URL decode işlemi
         std::string decoded_model = urlDecode(model_param);
         std::string norm_model = normalize(decoded_model);
         bool found = false;
@@ -65,12 +63,10 @@ void registerPhoneRoutes(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
         if (!found)
             return crow::response(404, R"({"error":"Model not found"})");
 
-        // Query parametreyi kontrol et
-        auto query = req.url_params.get("query"); // ?query=colors
+        auto query = req.url_params.get("query"); 
         if (query) {
             std::string q = query;
 
-            // Eğer JSON key'i varsa (object) veya array ise döndür
             if (response_json.contains(q)) {
                 response_json = response_json[q];
             } else {
