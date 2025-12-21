@@ -337,6 +337,2327 @@
       "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C 3.2"],
       "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps"]},
       "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
-    }
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10",
+      "release_year": 2019,
+      "price": 900,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "512GB"],
+        "cpu": "Exynos 9820 / Snapdragon 855",
+        "gpu": "Mali-G76 MP12 / Adreno 640",
+        "screen": {"size": "6.1 inch", "resolution": "3040x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "16MP", "telephoto": "12MP", "features": ["OIS", "HDR", "4K video"]},
+        "front": {"main": "10MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Black", "Prism White", "Prism Green", "Prism Blue", "Flamingo Pink"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Ultrasonic Fingerprint", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-03", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "157g", "dimensions": "149.9x70.4x7.8mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10+",
+      "release_year": 2019,
+      "price": 1000,
+      "hardware": {
+        "ram": "8GB / 12GB",
+        "storage": ["128GB", "512GB", "1TB"],
+        "cpu": "Exynos 9820 / Snapdragon 855",
+        "gpu": "Mali-G76 MP12 / Adreno 640",
+        "screen": {"size": "6.4 inch", "resolution": "3040x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4100mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "16MP", "telephoto": "12MP", "features": ["OIS", "HDR", "4K video"]},
+        "front": {"main": "10MP", "secondary": "8MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Black", "Prism White", "Prism Green", "Ceramic Black", "Ceramic White"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "PowerShare", "Water Resistant", "Face Recognition", "Ultrasonic Fingerprint", "Samsung Pay"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-03", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "175g", "dimensions": "157.6x74.1x7.8mm", "material": "Aluminum + Glass / Ceramic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+  },
+  {
+      "brand": "Samsung",
+      "model": "Galaxy S9+",
+      "release_year": 2018,
+      "price": 840,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Exynos 9810 / Snapdragon 845",
+        "gpu": "Mali-G72 MP18 / Adreno 630",
+        "screen": {"size": "6.2 inch", "resolution": "2960x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3500mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["Dual Aperture f/1.5-2.4", "OIS", "HDR", "4K video", "Super Slow-mo 960fps"]},
+        "front": {"main": "8MP", "features": ["HDR", "1440p video"]}
+      },
+      "colors": ["Midnight Black", "Coral Blue", "Lilac Purple", "Titanium Gray"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Face Recognition", "Iris Scanner", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Stereo Speakers (AKG)"],
+      "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2021-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "Bixby"]},
+      "physical": {"weight": "189g", "dimensions": "158.1x73.8x8.5mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Iris Scanner", "Heart Rate", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C 3.1", "NFC"],
+      "media": {"speakers": "Stereo (AKG)", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face Recognition", "Iris Scanner", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S9",
+      "release_year": 2018,
+      "price": 720,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Exynos 9810 / Snapdragon 845",
+        "gpu": "Mali-G72 MP18 / Adreno 630",
+        "screen": {"size": "5.8 inch", "resolution": "2960x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual Aperture f/1.5-2.4", "OIS", "HDR", "4K video", "Super Slow-mo 960fps"]},
+        "front": {"main": "8MP", "features": ["HDR", "1440p video"]}
+      },
+      "colors": ["Midnight Black", "Coral Blue", "Lilac Purple", "Titanium Gray"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Face Recognition", "Iris Scanner", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Stereo Speakers (AKG)"],
+      "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2021-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "Bixby"]},
+      "physical": {"weight": "163g", "dimensions": "147.7x68.7x8.5mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Iris Scanner", "Heart Rate", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C 3.1", "NFC"],
+      "media": {"speakers": "Stereo (AKG)", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face Recognition", "Iris Scanner", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S8+",
+      "release_year": 2017,
+      "price": 825,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Exynos 8895 / Snapdragon 835",
+        "gpu": "Mali-G71 MP20 / Adreno 540",
+        "screen": {"size": "6.2 inch", "resolution": "2960x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3500mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual Pixel AF", "OIS", "f/1.7", "HDR", "4K video"]},
+        "front": {"main": "8MP", "features": ["f/1.7", "HDR", "1440p video"]}
+      },
+      "colors": ["Midnight Black", "Orchid Gray", "Arctic Silver", "Coral Blue", "Maple Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Face Recognition", "Iris Scanner", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Bixby"],
+      "software": {"OS": "Android 9", "UI": "Samsung Experience 9.5", "SecurityPatch": "2020-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "Bixby"]},
+      "physical": {"weight": "173g", "dimensions": "159.5x73.4x8.1mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Iris Scanner", "Heart Rate", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C 3.1", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Iris Scanner", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S8",
+      "release_year": 2017,
+      "price": 720,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB"],
+        "cpu": "Exynos 8895 / Snapdragon 835",
+        "gpu": "Mali-G71 MP20 / Adreno 540",
+        "screen": {"size": "5.8 inch", "resolution": "2960x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual Pixel AF", "OIS", "f/1.7", "HDR", "4K video"]},
+        "front": {"main": "8MP", "features": ["f/1.7", "HDR", "1440p video"]}
+      },
+      "colors": ["Midnight Black", "Orchid Gray", "Arctic Silver", "Coral Blue", "Maple Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Face Recognition", "Iris Scanner", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Bixby"],
+      "software": {"OS": "Android 9", "UI": "Samsung Experience 9.5", "SecurityPatch": "2020-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "Bixby"]},
+      "physical": {"weight": "155g", "dimensions": "148.9x68.1x8.0mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Iris Scanner", "Heart Rate", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C 3.1", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Iris Scanner", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S7 Edge",
+      "release_year": 2016,
+      "price": 770,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Exynos 8890 / Snapdragon 820",
+        "gpu": "Mali-T880 MP12 / Adreno 530",
+        "screen": {"size": "5.5 inch", "resolution": "2560x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3600mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual Pixel AF", "OIS", "f/1.7", "HDR", "4K video"]},
+        "front": {"main": "5MP", "features": ["f/1.7", "1440p video"]}
+      },
+      "colors": ["Black Onyx", "Gold Platinum", "Silver Titanium", "White Pearl", "Pink Gold", "Blue Coral"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Heart Rate Monitor", "Edge Display"],
+      "software": {"OS": "Android 8", "UI": "Samsung Experience 9.0", "SecurityPatch": "2019-06", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "S Health"]},
+      "physical": {"weight": "157g", "dimensions": "150.9x72.6x7.7mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "SpO2", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "USB-C 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S7",
+      "release_year": 2016,
+      "price": 670,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "Exynos 8890 / Snapdragon 820",
+        "gpu": "Mali-T880 MP12 / Adreno 530",
+        "screen": {"size": "5.1 inch", "resolution": "2560x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual Pixel AF", "OIS", "f/1.7", "HDR", "4K video"]},
+        "front": {"main": "5MP", "features": ["f/1.7", "1440p video"]}
+      },
+      "colors": ["Black Onyx", "Gold Platinum", "Silver Titanium", "White Pearl", "Pink Gold", "Blue Coral"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant IP68", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack", "Heart Rate Monitor"],
+      "software": {"OS": "Android 8", "UI": "Samsung Experience 9.0", "SecurityPatch": "2019-06", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health", "S Health"]},
+      "physical": {"weight": "152g", "dimensions": "142.4x69.6x7.9mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "SpO2", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "USB-C 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6 Edge+",
+      "release_year": 2015,
+      "price": 815,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "Exynos 7420",
+        "gpu": "Mali-T760 MP8",
+        "screen": {"size": "5.7 inch", "resolution": "2560x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": ["OIS", "f/1.9", "HDR", "4K video"]},
+        "front": {"main": "5MP", "features": ["f/1.9", "1440p video"]}
+      },
+      "colors": ["Black Sapphire", "Gold Platinum", "Silver Titanium", "White Pearl"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Fingerprint Sensor", "Samsung Pay", "Heart Rate Monitor", "Edge Display"],
+      "software": {"OS": "Android 7", "UI": "Samsung Experience 8.5", "SecurityPatch": "2018-03", "preinstalled_apps": ["Samsung Notes", "Galaxy Apps", "S Health"]},
+      "physical": {"weight": "153g", "dimensions": "154.4x75.8x6.9mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "SpO2", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "Micro-USB 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6 Edge",
+      "release_year": 2015,
+      "price": 815,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Exynos 7420",
+        "gpu": "Mali-T760 MP8",
+        "screen": {"size": "5.1 inch", "resolution": "2560x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2600mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": ["OIS", "f/1.9", "HDR", "4K video"]},
+        "front": {"main": "5MP", "features": ["f/1.9", "1440p video"]}
+      },
+      "colors": ["Black Sapphire", "Gold Platinum", "White Pearl", "Green Emerald"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Fingerprint Sensor", "Samsung Pay", "Heart Rate Monitor", "Edge Display"],
+      "software": {"OS": "Android 7", "UI": "Samsung Experience 8.5", "SecurityPatch": "2018-03", "preinstalled_apps": ["Samsung Notes", "Galaxy Apps", "S Health"]},
+      "physical": {"weight": "132g", "dimensions": "142.1x70.1x7.0mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "SpO2", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6",
+      "release_year": 2015,
+      "price": 685,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Exynos 7420",
+        "gpu": "Mali-T760 MP8",
+        "screen": {"size": "5.1 inch", "resolution": "2560x1440", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2550mAh", "fast_charging": "15W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": ["OIS", "f/1.9", "HDR", "4K video"]},
+        "front": {"main": "5MP", "features": ["f/1.9", "1440p video"]}
+      },
+      "colors": ["Black Sapphire", "Gold Platinum", "White Pearl", "Blue Topaz"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Fingerprint Sensor", "Samsung Pay", "Heart Rate Monitor"],
+      "software": {"OS": "Android 7", "UI": "Samsung Experience 8.5", "SecurityPatch": "2018-03", "preinstalled_apps": ["Samsung Notes", "Galaxy Apps", "S Health"]},
+      "physical": {"weight": "138g", "dimensions": "143.4x70.5x6.8mm", "material": "Aluminum + Glass", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "SpO2", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S5",
+      "release_year": 2014,
+      "price": 660,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Snapdragon 801 / Exynos 5422",
+        "gpu": "Adreno 330 / Mali-T628 MP6",
+        "screen": {"size": "5.1 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2800mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": ["AF", "f/2.2", "HDR", "4K video"]},
+        "front": {"main": "2MP", "features": ["f/2.4", "1080p video"]}
+      },
+      "colors": ["Charcoal Black", "Shimmery White", "Electric Blue", "Copper Gold"],
+      "features": ["4G LTE", "NFC", "Water Resistant IP67", "Fingerprint Sensor", "Heart Rate Monitor", "3.5mm headphone jack", "Removable Battery", "IR Blaster"],
+      "software": {"OS": "Android 6", "UI": "TouchWiz", "SecurityPatch": "2016-11", "preinstalled_apps": ["S Health", "S Voice"]},
+      "physical": {"weight": "145g", "dimensions": "142.0x72.5x8.1mm", "material": "Plastic", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Heart Rate", "Gesture", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.0", "GPS", "Micro-USB 2.0", "NFC", "IR"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S4",
+      "release_year": 2013,
+      "price": 640,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB", "64GB"],
+        "cpu": "Snapdragon 600 / Exynos 5410",
+        "gpu": "Adreno 320 / PowerVR SGX544 MP3",
+        "screen": {"size": "5.0 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2600mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": ["AF", "f/2.2", "HDR", "1080p video", "LED flash"]},
+        "front": {"main": "2MP", "features": ["f/2.4", "1080p video"]}
+      },
+      "colors": ["Black Mist", "White Frost", "Arctic Blue", "Purple Mirage", "Brown Autumn", "Red Aurora"],
+      "features": ["4G LTE", "NFC", "IR Blaster", "3.5mm headphone jack", "Removable Battery", "Air View", "Air Gesture", "Smart Scroll", "Smart Pause"],
+      "software": {"OS": "Android 5", "UI": "TouchWiz", "SecurityPatch": "N/A", "preinstalled_apps": ["S Health", "S Voice", "S Translator"]},
+      "physical": {"weight": "130g", "dimensions": "136.6x69.8x7.9mm", "material": "Plastic", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Temperature", "Humidity", "Gesture", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.0", "GPS", "Micro-USB 2.0", "NFC", "IR"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S III",
+      "release_year": 2012,
+      "price": 600,
+      "hardware": {
+        "ram": "1GB / 2GB",
+        "storage": ["16GB", "32GB", "64GB"],
+        "cpu": "Exynos 4412 / Snapdragon S4 Plus",
+        "gpu": "Mali-400 MP4 / Adreno 225",
+        "screen": {"size": "4.8 inch", "resolution": "1280x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2100mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["AF", "f/2.6", "HDR", "1080p video", "LED flash", "Zero shutter lag"]},
+        "front": {"main": "1.9MP", "features": ["720p video"]}
+      },
+      "colors": ["Pebble Blue", "Marble White", "Amber Brown", "Garnet Red", "Sapphire Black", "Titanium Grey"],
+      "features": ["4G LTE", "NFC", "3.5mm headphone jack", "Removable Battery", "S Voice", "Smart Stay", "Direct Call", "Pop Up Play"],
+      "software": {"OS": "Android 4.3", "UI": "TouchWiz", "SecurityPatch": "N/A", "preinstalled_apps": ["S Voice", "S Planner", "AllShare"]},
+      "physical": {"weight": "133g", "dimensions": "136.6x70.6x8.6mm", "material": "Plastic", "SIM": "Single/Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.0", "GPS", "Micro-USB 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Unlock"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S II",
+      "release_year": 2011,
+      "price": 570,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Exynos 4210",
+        "gpu": "Mali-400 MP4",
+        "screen": {"size": "4.3 inch", "resolution": "800x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1650mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["AF", "f/2.6", "1080p video", "LED flash"]},
+        "front": {"main": "2MP", "features": ["VGA video"]}
+      },
+      "colors": ["Noble Black", "Ceramic White", "Pink"],
+      "features": ["4G (HSPA+)", "NFC", "3.5mm headphone jack", "Removable Battery", "TV-out (MHL)", "DLNA"],
+      "software": {"OS": "Android 4.1", "UI": "TouchWiz 4.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Samsung Apps", "Social Hub"]},
+      "physical": {"weight": "116g", "dimensions": "125.3x66.1x8.49mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 3.0", "GPS", "Micro-USB 2.0", "NFC"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["None"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S",
+      "release_year": 2010,
+      "price": 499,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["8GB", "16GB"],
+        "cpu": "Hummingbird (Cortex-A8)",
+        "gpu": "PowerVR SGX540",
+        "screen": {"size": "4.0 inch", "resolution": "800x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1500mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP", "features": ["AF", "720p video", "LED flash"]},
+        "front": {"main": "0.3MP (VGA)", "features": ["VGA video"]}
+      },
+      "colors": ["Elegant Black", "Brilliant White"],
+      "features": ["3G", "3.5mm headphone jack", "Removable Battery", "TV-out", "DLNA", "Swype keyboard"],
+      "software": {"OS": "Android 2.3.6", "UI": "TouchWiz 3.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Samsung Apps", "ThinkFree Office"]},
+      "physical": {"weight": "119g", "dimensions": "122.4x64.2x9.9mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 3.0", "GPS", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["720p@30fps"]},
+      "security": ["None"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S",
+      "release_year": 2010,
+      "price": 499,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["8GB", "16GB"],
+        "cpu": "Hummingbird (Cortex-A8)",
+        "gpu": "PowerVR SGX540",
+        "screen": {"size": "4.0 inch", "resolution": "800x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1500mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP", "features": ["AF", "720p video", "LED flash"]},
+        "front": {"main": "0.3MP (VGA)", "features": ["VGA video"]}
+      },
+      "colors": ["Elegant Black", "Brilliant White"],
+      "features": ["3G", "3.5mm headphone jack", "Removable Battery", "TV-out", "DLNA", "Swype keyboard"],
+      "software": {"OS": "Android 2.3.6", "UI": "TouchWiz 3.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Samsung Apps", "ThinkFree Office"]},
+      "physical": {"weight": "119g", "dimensions": "122.4x64.2x9.9mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 3.0", "GPS", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["720p@30fps"]},
+      "security": ["None"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A54 5G",
+      "release_year": 2023,
+      "price": 450,
+      "hardware": {
+        "ram": "6GB / 8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Exynos 1380",
+        "gpu": "Mali-G68 MP5",
+        "screen": {"size": "6.4 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "12MP", "macro": "5MP", "features": ["OIS", "HDR", "4K video", "Night mode"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Awesome Graphite", "Awesome Violet", "Awesome Lime", "Awesome White"],
+      "features": ["5G", "NFC", "Water Resistant IP67", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "Knox Vault"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "202g", "dimensions": "158.2x76.7x8.2mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light", "Hall", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A34 5G",
+      "release_year": 2023,
+      "price": 350,
+      "hardware": {
+        "ram": "6GB / 8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "MediaTek Dimensity 1080",
+        "gpu": "Mali-G68 MC4",
+        "screen": {"size": "6.6 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "macro": "5MP", "features": ["OIS", "HDR", "4K video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Awesome Graphite", "Awesome Violet", "Awesome Lime", "Awesome Silver"],
+      "features": ["5G", "NFC", "Water Resistant IP67", "Face Recognition", "Fingerprint Sensor", "Samsung Pay"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "199g", "dimensions": "161.3x78.1x8.2mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A24 4G",
+      "release_year": 2023,
+      "price": 230,
+      "hardware": {
+        "ram": "4GB / 6GB / 8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "MediaTek Helio G99",
+        "gpu": "Mali-G57 MP2",
+        "screen": {"size": "6.5 inch", "resolution": "2340x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "5MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Green", "Lime"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "195g", "dimensions": "162.1x77.6x8.3mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.3", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A24",
+      "release_year": 2023,
+      "price": 250,
+      "hardware": {
+        "ram": "4GB / 6GB / 8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "MediaTek Dimensity 700",
+        "gpu": "Mali-G57 MC2",
+        "screen": {"size": "6.5 inch", "resolution": "2340x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "5MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Green", "Lime"],
+      "features": ["5G", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "195g", "dimensions": "162.1x77.6x8.3mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.3", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A14 5G",
+      "release_year": 2023,
+      "price": 200,
+      "hardware": {
+        "ram": "4GB / 6GB / 8GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "MediaTek Dimensity 700 / Exynos 1330",
+        "gpu": "Mali-G57 MP2 / Mali-G68 MP2",
+        "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "macro": "2MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Dark Red", "Light Green"],
+      "features": ["5G", "NFC", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "202g", "dimensions": "167.7x78.0x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.2", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A14",
+      "release_year": 2023,
+      "price": 170,
+      "hardware": {
+        "ram": "4GB / 6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "MediaTek Helio G80",
+        "gpu": "Mali-G52 MP2",
+        "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "macro": "2MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Dark Red", "Light Green"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-11", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "201g", "dimensions": "167.7x78.0x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.2", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A05s",
+      "release_year": 2023,
+      "price": 150,
+      "hardware": {
+        "ram": "4GB / 6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Snapdragon 680",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.7 inch", "resolution": "2340x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Light Green", "Violet"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-10", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "194g", "dimensions": "168.0x77.8x8.8mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light", "NFC"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.1", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A05",
+      "release_year": 2023,
+      "price": 120,
+      "hardware": {
+        "ram": "4GB / 6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "MediaTek Helio G85",
+        "gpu": "Mali-G52 MP2",
+        "screen": {"size": "6.7 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "8MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "Silver", "Light Green"],
+      "features": ["4G LTE", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2024-10", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "195g", "dimensions": "168.8x78.2x8.8mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.3", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A04s",
+      "release_year": 2022,
+      "price": 140,
+      "hardware": {
+        "ram": "3GB / 4GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Exynos 850",
+        "gpu": "Mali-G52",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "White", "Green", "Copper"],
+      "features": ["4G LTE", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "195g", "dimensions": "164.7x76.7x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A04e",
+      "release_year": 2022,
+      "price": 110,
+      "hardware": {
+        "ram": "3GB / 4GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "MediaTek Helio P35",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["720p video"]}
+      },
+      "colors": ["Black", "Copper", "Light Blue"],
+      "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "188g", "dimensions": "164.2x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A04",
+      "release_year": 2022,
+      "price": 100,
+      "hardware": {
+        "ram": "3GB / 4GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "MediaTek Helio P35",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "Green", "Copper", "White"],
+      "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "192g", "dimensions": "164.4x76.3x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition"]
+    },
+    {
+    "brand": "Samsung",
+    "model": "Galaxy A13",
+    "release_year": 2022,
+    "price": 180,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Exynos 850",
+      "gpu": "Mali-G52",
+      "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "50MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Red"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "195g", "dimensions": "165.1x76.4x8.8mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A13 5G",
+    "release_year": 2022,
+    "price": 250,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "MediaTek Dimensity 700",
+      "gpu": "Mali-G57 MC2",
+      "screen": {"size": "6.5 inch", "resolution": "2408x1080", "refresh_rate": "90Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "50MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "Blue", "White"],
+    "features": ["5G", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "195g", "dimensions": "164.5x76.5x8.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A23",
+    "release_year": 2022,
+    "price": 230,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Qualcomm Snapdragon 695",
+      "gpu": "Adreno 619",
+      "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "90Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "50MP", "ultra_wide": "5MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "4K video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Red"],
+    "features": ["5G", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "195g", "dimensions": "165.4x76.9x8.4mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps", "4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A23 5G",
+    "release_year": 2022,
+    "price": 300,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Qualcomm Snapdragon 695",
+      "gpu": "Adreno 619",
+      "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "120Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "50MP", "ultra_wide": "5MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "4K video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Red"],
+    "features": ["5G", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "200g", "dimensions": "165.4x76.9x8.4mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps", "4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A33 5G",
+    "release_year": 2022,
+    "price": 350,
+    "hardware": {
+      "ram": "6GB / 8GB",
+      "storage": ["128GB", "256GB"],
+      "cpu": "Exynos 1280",
+      "gpu": "Mali-G68",
+      "screen": {"size": "6.4 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultra_wide": "8MP", "depth": "2MP", "macro": "5MP", "features": ["HDR", "4K video"]},
+      "front": {"main": "13MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Peach"],
+    "features": ["5G", "Face Recognition", "IP67 water resistance", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "186g", "dimensions": "159.7x74.0x8.1mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps", "4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A53 5G",
+    "release_year": 2022,
+    "price": 450,
+    "hardware": {
+      "ram": "6GB / 8GB",
+      "storage": ["128GB", "256GB"],
+      "cpu": "Exynos 1280",
+      "gpu": "Mali-G68",
+      "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "64MP", "ultra_wide": "12MP", "depth": "5MP", "macro": "5MP", "features": ["HDR", "4K video"]},
+      "front": {"main": "32MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Peach"],
+    "features": ["5G", "Face Recognition", "IP67 water resistance", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "189g", "dimensions": "159.9x74.7x8.4mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps", "4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A73 5G",
+    "release_year": 2022,
+    "price": 500,
+    "hardware": {
+      "ram": "8GB",
+      "storage": ["128GB", "256GB"],
+      "cpu": "Qualcomm Snapdragon 778G",
+      "gpu": "Adreno 642L",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "108MP", "ultra_wide": "12MP", "depth": "5MP", "macro": "5MP", "features": ["HDR", "4K video"]},
+      "front": {"main": "32MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Peach"],
+    "features": ["5G", "Face Recognition", "IP67 water resistance", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "181g", "dimensions": "163.7x76.1x7.6mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps", "4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A02",
+    "release_year": 2021,
+    "price": 150,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB"],
+      "cpu": "MediaTek MT6739W",
+      "gpu": "PowerVR GE8100",
+      "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "Blue", "Red", "White"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 10", "UI": "One UI 2.0", "SecurityPatch": "2023-06", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "206g", "dimensions": "164.2x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A03",
+    "release_year": 2021,
+    "price": 170,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB"],
+      "cpu": "Unisoc T606",
+      "gpu": "Mali-G57",
+      "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "Blue", "Red", "White"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2023-07", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "196g", "dimensions": "164.2x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A03s",
+    "release_year": 2021,
+    "price": 180,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB", "128GB"],
+      "cpu": "MediaTek Helio P35",
+      "gpu": "PowerVR GE8320",
+      "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2023-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "196g", "dimensions": "164.2x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A12",
+    "release_year": 2020,
+    "price": 230,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "MediaTek Helio P35",
+      "gpu": "PowerVR GE8320",
+      "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultra_wide": "5MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Red"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2023-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "205g", "dimensions": "164.0x75.8x8.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A12 Nacho",
+    "release_year": 2021,
+    "price": 200,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Exynos 850",
+      "gpu": "Mali-G52",
+      "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultra_wide": "5MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2023-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "205g", "dimensions": "164.0x75.8x8.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A13",
+    "release_year": 2022,
+    "price": 230,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Exynos 850",
+      "gpu": "Mali-G52",
+      "screen": {"size": "6.6 inch", "resolution": "2408x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "50MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": ["1080p video"]}
+    },
+    "colors": ["Black", "White", "Blue", "Red"],
+    "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2024-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "195g", "dimensions": "165.1x76.4x8.8mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Ambient light", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+    "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+      "brand": "Samsung",
+      "model": "Galaxy A71 5G",
+      "release_year": 2020,
+      "price": 600,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB"],
+        "cpu": "Exynos 980",
+        "gpu": "Mali-G76 MP5",
+        "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP", "ultrawide": "12MP", "macro": "5MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Cube Black", "Prism Cube Silver", "Prism Cube Blue"],
+      "features": ["5G", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-07", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "185g", "dimensions": "162.5x75.5x8.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A71",
+      "release_year": 2020,
+      "price": 450,
+      "hardware": {
+        "ram": "6GB / 8GB",
+        "storage": ["128GB"],
+        "cpu": "Snapdragon 730",
+        "gpu": "Adreno 618",
+        "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP", "ultrawide": "12MP", "macro": "5MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Crush Black", "Prism Crush Silver", "Prism Crush Blue", "Prism Crush Pink"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-07", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "179g", "dimensions": "163.6x76.0x7.7mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A51 5G",
+      "release_year": 2020,
+      "price": 500,
+      "hardware": {
+        "ram": "6GB / 8GB",
+        "storage": ["128GB"],
+        "cpu": "Exynos 980",
+        "gpu": "Mali-G76 MP5",
+        "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "macro": "5MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Cube Black", "Prism Cube White", "Prism Cube Pink"],
+      "features": ["5G", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-07", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "187g", "dimensions": "158.9x73.6x8.7mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A51",
+      "release_year": 2019,
+      "price": 400,
+      "hardware": {
+        "ram": "4GB / 6GB / 8GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Exynos 9611",
+        "gpu": "Mali-G72 MP3",
+        "screen": {"size": "6.5 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "macro": "5MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "32MP", "features": ["HDR", "4K video"]}
+      },
+      "colors": ["Prism Crush Black", "Prism Crush White", "Prism Crush Blue", "Prism Crush Pink"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-07", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "172g", "dimensions": "158.5x73.6x7.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A42 5G",
+      "release_year": 2020,
+      "price": 400,
+      "hardware": {
+        "ram": "4GB / 6GB / 8GB",
+        "storage": ["128GB"],
+        "cpu": "Snapdragon 750G",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.6 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "macro": "5MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "20MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Prism Dot Black", "Prism Dot Gray", "Prism Dot White"],
+      "features": ["5G", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-06", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "190g", "dimensions": "164.4x75.9x8.6mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "5G", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A41",
+      "release_year": 2020,
+      "price": 300,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB"],
+        "cpu": "MediaTek Helio P65",
+        "gpu": "Mali-G52 MP2",
+        "screen": {"size": "6.1 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3500mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "25MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Prism Crush Black", "Prism Crush White", "Prism Crush Blue"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "152g", "dimensions": "149.9x69.8x7.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A31",
+      "release_year": 2020,
+      "price": 300,
+      "hardware": {
+        "ram": "4GB / 6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "MediaTek Helio P65",
+        "gpu": "Mali-G52 MP2",
+        "screen": {"size": "6.4 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "5MP", "macro": "5MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "20MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Prism Crush Black", "Prism Crush White", "Prism Crush Blue", "Prism Crush Red"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-12", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "185g", "dimensions": "159.3x73.1x8.6mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A21s",
+      "release_year": 2020,
+      "price": 250,
+      "hardware": {
+        "ram": "3GB / 4GB / 6GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Exynos 850",
+        "gpu": "Mali-G52",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "White", "Blue", "Red"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "192g", "dimensions": "163.7x75.3x8.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A21",
+      "release_year": 2020,
+      "price": 250,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "MediaTek Helio P35",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "ultrawide": "8MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "13MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "White", "Blue"],
+      "features": ["4G LTE", "NFC", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-08", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "192g", "dimensions": "167.0x77.0x8.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A12",
+      "release_year": 2020,
+      "price": 180,
+      "hardware": {
+        "ram": "3GB / 4GB / 6GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "MediaTek Helio P35",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "5MP", "depth": "2MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "8MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "White", "Blue", "Red"],
+      "features": ["4G LTE", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-09", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "205g", "dimensions": "164.0x75.8x8.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A11",
+      "release_year": 2020,
+      "price": 180,
+      "hardware": {
+        "ram": "2GB / 3GB",
+        "storage": ["32GB"],
+        "cpu": "Snapdragon 450",
+        "gpu": "Adreno 506",
+        "screen": {"size": "6.4 inch", "resolution": "1560x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "5MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "8MP", "features": ["HDR", "1080p video"]}
+      },
+      "colors": ["Black", "White", "Blue", "Red"],
+      "features": ["4G LTE", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 11", "UI": "One UI 3.1", "SecurityPatch": "2022-06", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "177g", "dimensions": "161.4x76.3x8.0mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "4G LTE", "USB-C 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A02s",
+      "release_year": 2021,
+      "price": 150,
+      "hardware": {
+        "ram": "3GB / 4GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "Snapdragon 450",
+        "gpu": "Adreno 506",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "macro": "2MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "White", "Blue", "Red"],
+      "features": ["4G LTE", "Face Recognition", "Fingerprint Sensor", "3.5mm headphone jack"],
+      "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2022-05", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "196g", "dimensions": "164.2x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "4G LTE", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition", "Fingerprint"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A02",
+      "release_year": 2021,
+      "price": 110,
+      "hardware": {
+        "ram": "2GB / 3GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "MediaTek MT6739W",
+        "gpu": "PowerVR GE8100",
+        "screen": {"size": "6.5 inch", "resolution": "1600x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "macro": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["720p video"]}
+      },
+      "colors": ["Black", "Blue", "Gray", "Red"],
+      "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+      "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2022-04", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "206g", "dimensions": "164.0x75.9x9.1mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "4G LTE", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A01 Core",
+      "release_year": 2020,
+      "price": 90,
+      "hardware": {
+        "ram": "1GB / 2GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "MediaTek MT6739",
+        "gpu": "PowerVR GE8100",
+        "screen": {"size": "5.3 inch", "resolution": "1480x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["720p video"]}
+      },
+      "colors": ["Black", "Blue", "Red"],
+      "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack", "Removable Battery"],
+      "software": {"OS": "Android 10 Go", "UI": "One UI 2.0", "SecurityPatch": "2021-09", "preinstalled_apps": ["Samsung Notes"]},
+      "physical": {"weight": "149g", "dimensions": "141.6x67.9x8.6mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "4G LTE", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A01",
+      "release_year": 2019,
+      "price": 150,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB"],
+        "cpu": "Snapdragon 439",
+        "gpu": "Adreno 505",
+        "screen": {"size": "5.7 inch", "resolution": "1520x720", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+        "front": {"main": "5MP", "features": ["720p video"]}
+      },
+      "colors": ["Black", "Blue", "Red"],
+      "features": ["4G LTE", "Face Recognition", "3.5mm headphone jack"],
+      "software": {"OS": "Android 10", "UI": "One UI 2.0", "SecurityPatch": "2021-10", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+      "physical": {"weight": "149g", "dimensions": "146.2x70.9x8.3mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "4G LTE", "Micro-USB 2.0"],
+      "media": {"speakers": "Single", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Recognition"]
+    },
+    {
+    "brand": "Samsung",
+    "model": "Galaxy A10",
+    "release_year": 2019,
+    "price": 150,
+    "hardware": {
+      "ram": "2GB",
+      "storage": ["32GB"],
+      "cpu": "Exynos 7884",
+      "gpu": "Mali-G52",
+      "screen": {"size": "6.2 inch", "resolution": "1520x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3400mAh", "fast_charging": "No", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["HDR"]}
+    },
+    "colors": ["Black", "Blue", "Red"],
+    "features": ["4G LTE"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Samsung Notes", "Galaxy Store"]},
+    "physical": {"weight": "168g", "dimensions": "155.6x75.6x7.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["1080p@30fps"]},
+    "security": []
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A10e",
+    "release_year": 2019,
+    "price": 140,
+    "hardware": {
+      "ram": "2GB / 3GB",
+      "storage": ["32GB"],
+      "cpu": "Exynos 7884",
+      "gpu": "Mali-G71 MP2",
+      "screen": {"size": "5.83 inch", "resolution": "1560x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3000mAh", "fast_charging": "No", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "8MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "5MP", "features": ["HDR"]}
+    },
+    "colors": ["Black", "Blue"],
+    "features": ["4G LTE"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "141g", "dimensions": "147.3x69.6x8.4mm", "material": "Plastic", "SIM": "Single / Dual"},
+    "sensors": ["Accelerometer", "Proximity"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": []
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A10s",
+    "release_year": 2019,
+    "price": 170,
+    "hardware": {
+      "ram": "2GB / 3GB",
+      "storage": ["32GB"],
+      "cpu": "MediaTek Helio P22",
+      "gpu": "PowerVR GE8320",
+      "screen": {"size": "6.2 inch", "resolution": "1520x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "No", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "depth": "2MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": []}
+    },
+    "colors": ["Black", "Blue", "Green", "Red"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "168g", "dimensions": "156.9x75.8x7.8mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A20",
+    "release_year": 2019,
+    "price": 220,
+    "hardware": {
+      "ram": "3GB",
+      "storage": ["32GB"],
+      "cpu": "Exynos 7884",
+      "gpu": "Mali-G52",
+      "screen": {"size": "6.4 inch", "resolution": "1560x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "Yes", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "ultrawide": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": []}
+    },
+    "colors": ["Black", "Deep Blue", "Red", "Coral Orange"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "169g", "dimensions": "158.4x74.7x7.8mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A20e",
+    "release_year": 2019,
+    "price": 200,
+    "hardware": {
+      "ram": "3GB",
+      "storage": ["32GB"],
+      "cpu": "Exynos 7884",
+      "gpu": "Mali-G52",
+      "screen": {"size": "5.8 inch", "resolution": "1560x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3000mAh", "fast_charging": "Yes", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "ultrawide": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": []}
+    },
+    "colors": ["Black", "White", "Blue"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "141g", "dimensions": "147.4x69.7x8.4mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A20s",
+    "release_year": 2019,
+    "price": 230,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB"],
+      "cpu": "Snapdragon 450",
+      "gpu": "Adreno 506",
+      "screen": {"size": "6.5 inch", "resolution": "1560x720", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "Yes", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "13MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "8MP", "features": []}
+    },
+    "colors": ["Black", "Blue", "Green", "Red"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "163.3x77.5x8.0mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A30",
+    "release_year": 2019,
+    "price": 250,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB"],
+      "cpu": "Exynos 7904",
+      "gpu": "Mali-G71 MP2",
+      "screen": {"size": "6.4 inch", "resolution": "2340x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "16MP", "ultrawide": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "16MP", "features": []}
+    },
+    "colors": ["Black", "Blue", "White"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "165g", "dimensions": "158.5x74.7x7.7mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A30s",
+    "release_year": 2019,
+    "price": 270,
+    "hardware": {
+      "ram": "3GB / 4GB",
+      "storage": ["32GB", "64GB"],
+      "cpu": "Exynos 7904",
+      "gpu": "Mali-G71 MP2",
+      "screen": {"size": "6.4 inch", "resolution": "2340x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "25MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "16MP", "features": []}
+    },
+    "colors": ["Black", "Green", "Violet", "White"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "166g", "dimensions": "158.5x74.7x7.8mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A40",
+    "release_year": 2019,
+    "price": 300,
+    "hardware": {
+      "ram": "4GB",
+      "storage": ["64GB"],
+      "cpu": "Exynos 7904",
+      "gpu": "Mali-G71 MP2",
+      "screen": {"size": "5.9 inch", "resolution": "2340x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3100mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "16MP", "ultrawide": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "25MP", "features": []}
+    },
+    "colors": ["Black", "White", "Blue", "Coral"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI Core", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "140g", "dimensions": "144.3x69.1x7.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A50",
+    "release_year": 2019,
+    "price": 350,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Exynos 9610",
+      "gpu": "Mali-G72 MP3",
+      "screen": {"size": "6.4 inch", "resolution": "2340x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "25MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "25MP", "features": []}
+    },
+    "colors": ["Black", "White", "Blue", "Coral", "Green"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "166g", "dimensions": "158.5x74.7x7.7mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "FLAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A50s",
+    "release_year": 2019,
+    "price": 380,
+    "hardware": {
+      "ram": "4GB / 6GB",
+      "storage": ["64GB", "128GB"],
+      "cpu": "Exynos 9611",
+      "gpu": "Mali-G72 MP3",
+      "screen": {"size": "6.4 inch", "resolution": "2340x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4000mAh", "fast_charging": "15W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "32MP", "features": []}
+    },
+    "colors": ["Prism Crush Black", "Prism Crush White", "Prism Crush Green"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "169g", "dimensions": "158.5x74.7x7.7mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "FLAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A60",
+    "release_year": 2019,
+    "price": 300,
+    "hardware": {
+      "ram": "6GB",
+      "storage": ["128GB"],
+      "cpu": "Snapdragon 675",
+      "gpu": "Adreno 612",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3500mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "32MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "32MP", "features": []}
+    },
+    "colors": ["Black", "White", "Blue"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 9→10", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "185g", "dimensions": "164.1x76.3x8.4mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A70",
+    "release_year": 2019,
+    "price": 400,
+    "hardware": {
+      "ram": "6GB / 8GB",
+      "storage": ["128GB"],
+      "cpu": "Snapdragon 675",
+      "gpu": "Adreno 612",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "32MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "32MP", "features": []}
+    },
+    "colors": ["Black", "White", "Blue", "Coral"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "164.3x76.7x7.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "FLAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A70s",
+    "release_year": 2019,
+    "price": 430,
+    "hardware": {
+      "ram": "6GB / 8GB",
+      "storage": ["128GB"],
+      "cpu": "Snapdragon 675",
+      "gpu": "Adreno 612",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "64MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]},
+      "front": {"main": "32MP", "features": []}
+    },
+    "colors": ["Prism Crush Black", "Prism Crush White", "Prism Crush Green"],
+    "features": ["4G LTE", "Fingerprint Sensor", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "185g", "dimensions": "164.3x76.7x7.9mm", "material": "Plastic", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "FLAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A80",
+    "release_year": 2019,
+    "price": 550,
+    "hardware": {
+      "ram": "8GB",
+      "storage": ["128GB"],
+      "cpu": "Snapdragon 730",
+      "gpu": "Adreno 618",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "3700mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "TOF", "features": ["HDR", "1080p video"], "layout": "Rotating triple camera"},
+      "front": {"main": "Same as rear", "features": ["HDR", "1080p video"]}
+    },
+    "colors": ["Black", "Gold", "White"],
+    "features": ["4G LTE", "Fingerprint Sensor under display", "Face Recognition"],
+    "software": {"OS": "Android 9→10", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "220g", "dimensions": "165.2x76.5x9.3mm", "material": "Glass + Metal", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Fingerprint", "Ambient light"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A90 5G",
+    "release_year": 2019,
+    "price": 650,
+    "hardware": {
+      "ram": "6GB / 8GB",
+      "storage": ["128GB"],
+      "cpu": "Snapdragon 855",
+      "gpu": "Adreno 640",
+      "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+      "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": false}
+    },
+    "camera": {
+      "rear": {"main": "48MP", "ultrawide": "8MP", "depth": "TOF", "features": ["HDR", "4K video"], "layout": "Rotating triple camera"},
+      "front": {"main": "Same as rear", "features": ["HDR", "4K video"]}
+    },
+    "colors": ["Black", "White"],
+    "features": ["5G", "Fingerprint Sensor under display", "Face Recognition"],
+    "software": {"OS": "Android 9→11", "UI": "One UI", "SecurityPatch": "Varies", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "206g", "dimensions": "165.2x76.4x8.4mm", "material": "Glass + Metal", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Fingerprint", "Ambient light", "Compass"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@30fps"]},
+    "security": ["Fingerprint", "Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A6 (2018)",
+    "release_year": 2018,
+    "price": 300,
+    "hardware": {"ram": "3GB / 4GB", "storage": ["32GB", "64GB"], "cpu": "Exynos 7870", "gpu": "Mali-T830 MP1", "screen": {"size": "5.6 inch", "resolution": "1480x720", "refresh_rate": "60Hz"}, "battery": {"capacity": "3000mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["HDR", "1080p video"]}, "front": {"main": "16MP", "features": ["LED flash"]}},
+    "colors": ["Black", "Gold", "Blue", "Lavender"],
+    "features": ["4G LTE", "Face Recognition"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-03", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "159g", "dimensions": "149.9x70.8x7.7mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Face Recognition", "Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A6+ (2018)",
+    "release_year": 2018,
+    "price": 350,
+    "hardware": {"ram": "3GB / 4GB", "storage": ["32GB", "64GB"], "cpu": "Snapdragon 450", "gpu": "Adreno 506", "screen": {"size": "6.0 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3500mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "depth": "5MP", "features": ["HDR", "1080p video"]}, "front": {"main": "24MP", "features": ["LED flash"]}},
+    "colors": ["Black", "Gold", "Blue"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-04", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "186g", "dimensions": "160.2x75.7x7.9mm", "material": "Aluminum", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 4", "Bluetooth 4.2", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A7 (2018)",
+    "release_year": 2018,
+    "price": 400,
+    "hardware": {"ram": "4GB / 6GB", "storage": ["64GB", "128GB"], "cpu": "Exynos 7885", "gpu": "Mali-G71 MP2", "screen": {"size": "6.0 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "15W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "24MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "1080p video"]}, "front": {"main": "24MP", "features": ["HDR"]}},
+    "colors": ["Black", "Blue", "Gold", "Pink"],
+    "features": ["4G LTE", "Side Fingerprint"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-05", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "168g", "dimensions": "159.8x76.8x7.5mm", "material": "Glass", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A8 (2018)",
+    "release_year": 2018,
+    "price": 450,
+    "hardware": {"ram": "4GB", "storage": ["32GB", "64GB"], "cpu": "Exynos 7885", "gpu": "Mali-G71 MP2", "screen": {"size": "5.6 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3000mAh", "fast_charging": "15W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["OIS", "HDR", "1080p video"]}, "front": {"main": "16MP+8MP", "features": ["HDR"]}},
+    "colors": ["Black", "Gold", "Gray"],
+    "features": ["4G LTE", "Water Resistant"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-06", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "172g", "dimensions": "149.2x70.6x8.4mm", "material": "Glass + Aluminum", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A8+ (2018)",
+    "release_year": 2018,
+    "price": 500,
+    "hardware": {"ram": "4GB / 6GB", "storage": ["64GB"], "cpu": "Exynos 7885", "gpu": "Mali-G71 MP2", "screen": {"size": "6.0 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3500mAh", "fast_charging": "15W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["OIS", "HDR"]}, "front": {"main": "16MP+8MP", "features": ["HDR"]}},
+    "colors": ["Black", "Gold"],
+    "features": ["4G LTE", "Water Resistant"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-06", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "191g", "dimensions": "159.9x75.7x8.3mm", "material": "Glass + Aluminum", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A8 Star (2018)",
+    "release_year": 2018,
+    "price": 550,
+    "hardware": {"ram": "4GB / 6GB", "storage": ["64GB"], "cpu": "Snapdragon 660", "gpu": "Adreno 512", "screen": {"size": "6.3 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3700mAh", "fast_charging": "15W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "24MP", "depth": "16MP", "features": ["HDR", "4K video"]}, "front": {"main": "24MP", "features": ["HDR"]}},
+    "colors": ["Black", "White"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-07", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "191g", "dimensions": "162.4x77.0x7.6mm", "material": "Glass", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["4K@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A9 (2018)",
+    "release_year": 2018,
+    "price": 600,
+    "hardware": {"ram": "6GB / 8GB", "storage": ["128GB"], "cpu": "Snapdragon 660", "gpu": "Adreno 512", "screen": {"size": "6.3 inch", "resolution": "2220x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3800mAh", "fast_charging": "15W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "24MP", "telephoto": "10MP", "ultrawide": "8MP", "depth": "5MP", "features": ["HDR", "4K video"]}, "front": {"main": "24MP", "features": ["HDR"]}},
+    "colors": ["Caviar Black", "Lemonade Blue", "Bubblegum Pink"],
+    "features": ["4G LTE", "Dünyanın ilk 4 arka kameralı telefonu"],
+    "software": {"OS": "Android 10", "UI": "One UI 2", "SecurityPatch": "2021-08", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "162.5x77.0x7.8mm", "material": "Glass", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["4K@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A3 (2017)",
+    "release_year": 2017,
+    "price": 280,
+    "hardware": {"ram": "2GB", "storage": ["16GB"], "cpu": "Exynos 7870", "gpu": "Mali-T830 MP1", "screen": {"size": "4.7 inch", "resolution": "1280x720", "refresh_rate": "60Hz"}, "battery": {"capacity": "2350mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "13MP", "features": ["HDR", "1080p video"]}, "front": {"main": "8MP", "features": ["HDR"]}},
+    "colors": ["Black Sky", "Gold Sand", "Blue Mist", "Peach Cloud"],
+    "features": ["4G LTE", "Water Resistant", "Fingerprint Sensor"],
+    "software": {"OS": "Android 8", "UI": "Samsung Experience", "SecurityPatch": "2020-02", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "138g", "dimensions": "135.4x66.2x7.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A5 (2017)",
+    "release_year": 2017,
+    "price": 350,
+    "hardware": {"ram": "3GB", "storage": ["32GB"], "cpu": "Exynos 7880", "gpu": "Mali-T830 MP3", "screen": {"size": "5.2 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3000mAh", "fast_charging": "18W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["HDR", "1080p video"]}, "front": {"main": "16MP", "features": ["HDR"]}},
+    "colors": ["Black Sky", "Gold Sand", "Blue Mist", "Peach Cloud"],
+    "features": ["4G LTE", "Water Resistant", "Fingerprint Sensor"],
+    "software": {"OS": "Android 8", "UI": "Samsung Experience", "SecurityPatch": "2020-03", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "159g", "dimensions": "146.1x71.4x7.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A7 (2017)",
+    "release_year": 2017,
+    "price": 420,
+    "hardware": {"ram": "3GB", "storage": ["32GB"], "cpu": "Exynos 7880", "gpu": "Mali-T830 MP3", "screen": {"size": "5.7 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3600mAh", "fast_charging": "18W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["HDR", "1080p video"]}, "front": {"main": "16MP", "features": ["HDR"]}},
+    "colors": ["Black Sky", "Gold Sand", "Blue Mist", "Peach Cloud"],
+    "features": ["4G LTE", "Water Resistant", "Fingerprint Sensor"],
+    "software": {"OS": "Android 8", "UI": "Samsung Experience", "SecurityPatch": "2020-04", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "186g", "dimensions": "156.8x77.6x7.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.2", "GPS", "USB-C"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+  "brand": "Samsung",
+  "model": "Galaxy A3 (2016)",
+  "release_year": 2016,
+  "price": 220,
+  "hardware": {"ram": "1.5GB", "storage": ["16GB"], "cpu": "Exynos 7578", "gpu": "Mali-T720 MP2", "screen": {"size": "4.7 inch", "resolution": "1280x720", "refresh_rate": "60Hz"}, "battery": {"capacity": "2300mAh", "fast_charging": "No", "wireless_charging": false}},
+  "camera": {"rear": {"main": "13MP", "features": ["HDR", "1080p video"]}, "front": {"main": "5MP", "features": []}},
+  "colors": ["Black", "White", "Gold", "Pink"],
+  "features": ["4G LTE"],
+  "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-01", "preinstalled_apps": ["Galaxy Store"]},
+  "physical": {"weight": "132g", "dimensions": "134.5x65.2x7.3mm", "material": "Glass + Aluminum", "SIM": "Single"},
+  "sensors": ["Accelerometer", "Proximity"],
+  "connectivity": ["Wi-Fi 4", "Bluetooth 4.1", "GPS", "Micro-USB"],
+  "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+  "security": []
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A5 (2016)",
+    "release_year": 2016,
+    "price": 320,
+    "hardware": {"ram": "2GB", "storage": ["16GB"], "cpu": "Exynos 7580", "gpu": "Mali-T720 MP2", "screen": {"size": "5.2 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "2900mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "13MP", "features": ["HDR", "1080p video"]}, "front": {"main": "5MP", "features": []}},
+    "colors": ["Black", "White", "Gold", "Pink"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-02", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "155g", "dimensions": "144.8x71.0x7.3mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A7 (2016)",
+    "release_year": 2016,
+    "price": 380,
+    "hardware": {"ram": "3GB", "storage": ["16GB"], "cpu": "Exynos 7580", "gpu": "Mali-T720 MP2", "screen": {"size": "5.5 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "13MP", "features": ["HDR", "1080p video"]}, "front": {"main": "5MP", "features": []}},
+    "colors": ["Black", "White", "Gold"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-02", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "172g", "dimensions": "151.5x74.1x7.3mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A8 (2016)",
+    "release_year": 2016,
+    "price": 420,
+    "hardware": {"ram": "2GB", "storage": ["32GB"], "cpu": "Exynos 7420", "gpu": "Mali-T760 MP8", "screen": {"size": "5.7 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["HDR", "1080p video"]}, "front": {"main": "8MP", "features": []}},
+    "colors": ["Black", "White", "Gold"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-03", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "182g", "dimensions": "158.9x75.0x7.4mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A9 (2016)",
+    "release_year": 2016,
+    "price": 480,
+    "hardware": {"ram": "3GB", "storage": ["32GB"], "cpu": "Snapdragon 652", "gpu": "Adreno 510", "screen": {"size": "6.0 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "4000mAh", "fast_charging": "No", "wireless_charging": false}},
+    "camera": {"rear": {"main": "13MP", "features": ["HDR", "1080p video"]}, "front": {"main": "8MP", "features": []}},
+    "colors": ["Black", "White", "Gold"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-03", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "200g", "dimensions": "161.7x80.9x7.4mm", "material": "Glass + Aluminum", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy A9 Pro (2016)",
+    "release_year": 2016,
+    "price": 520,
+    "hardware": {"ram": "4GB", "storage": ["32GB"], "cpu": "Snapdragon 652", "gpu": "Adreno 510", "screen": {"size": "6.0 inch", "resolution": "1920x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "5000mAh", "fast_charging": "18W", "wireless_charging": false}},
+    "camera": {"rear": {"main": "16MP", "features": ["OIS", "HDR", "1080p video"]}, "front": {"main": "8MP", "features": []}},
+    "colors": ["Black", "Gold"],
+    "features": ["4G LTE", "Fingerprint Sensor"],
+    "software": {"OS": "Android 7.0", "UI": "TouchWiz", "SecurityPatch": "2019-04", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "210g", "dimensions": "161.7x80.9x7.9mm", "material": "Glass + Aluminum", "SIM": "Dual"},
+    "sensors": ["Accelerometer", "Proximity", "Fingerprint"],
+    "connectivity": ["Wi-Fi 5", "Bluetooth 4.1", "GPS", "Micro-USB"],
+    "media": {"speakers": "Mono", "audio": ["MP3"], "video": ["1080p@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip",
+    "release_year": 2020,
+    "price": 1380,
+    "hardware": {"ram": "8GB", "storage": ["256GB"], "cpu": "Snapdragon 855+", "gpu": "Adreno 640", "screen": {"size": "6.7 inch", "resolution": "2636x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "15W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR", "4K video"]}},
+    "colors": ["Mirror Black", "Mirror Purple", "Mirror Gold"],
+    "features": ["Foldable Display", "Wireless Charging", "Face Recognition"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-06", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "167.3x73.6x7.2mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 5G",
+    "release_year": 2020,
+    "price": 1450,
+    "hardware": {"ram": "8GB", "storage": ["256GB"], "cpu": "Snapdragon 865+", "gpu": "Adreno 650", "screen": {"size": "6.7 inch", "resolution": "2636x1080", "refresh_rate": "60Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "15W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR", "4K video"]}},
+    "colors": ["Mystic Bronze", "Mystic Gray"],
+    "features": ["5G", "Foldable Display", "Wireless Charging"],
+    "software": {"OS": "Android 12", "UI": "One UI 4.1", "SecurityPatch": "2023-06", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "167.3x73.6x7.2mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Face Recognition"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 3",
+    "release_year": 2021,
+    "price": 1000,
+    "hardware": {"ram": "8GB", "storage": ["128GB", "256GB"], "cpu": "Snapdragon 888", "gpu": "Adreno 660", "screen": {"size": "6.7 inch", "resolution": "2640x1080", "refresh_rate": "120Hz"}, "battery": {"capacity": "3300mAh", "fast_charging": "15W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Cream", "Green", "Lavender", "Phantom Black"],
+    "features": ["5G", "Foldable Display", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-10", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "183g", "dimensions": "166x72.2x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.1", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 4",
+    "release_year": 2022,
+    "price": 1000,
+    "hardware": {"ram": "8GB", "storage": ["128GB", "256GB", "512GB"], "cpu": "Snapdragon 8+ Gen 1", "gpu": "Adreno 730", "screen": {"size": "6.7 inch", "resolution": "2640x1080", "refresh_rate": "120Hz"}, "battery": {"capacity": "3700mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Bora Purple", "Graphite", "Pink Gold", "Blue"],
+    "features": ["5G", "Foldable Display", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-11", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "187g", "dimensions": "165.2x71.9x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 6E", "Bluetooth 5.2", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 5",
+    "release_year": 2023,
+    "price": 1000,
+    "hardware": {"ram": "8GB", "storage": ["256GB", "512GB"], "cpu": "Snapdragon 8 Gen 2 for Galaxy", "gpu": "Adreno 740", "screen": {"size": "6.7 inch", "resolution": "2640x1080", "refresh_rate": "120Hz"}, "battery": {"capacity": "3700mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Mint", "Graphite", "Cream", "Lavender"],
+    "features": ["5G", "Large Cover Screen", "Foldable Display", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-11", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "187g", "dimensions": "165.1x71.9x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip 6",
+    "release_year": 2024,
+    "price": 1100,
+    "hardware": {"ram": "12GB", "storage": ["256GB", "512GB"], "cpu": "Snapdragon 8 Gen 3 for Galaxy", "gpu": "Adreno 750", "screen": {"size": "6.7 inch", "resolution": "2640x1080", "refresh_rate": "120Hz"}, "battery": {"capacity": "4000mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "50MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Silver Shadow", "Mint", "Blue", "Yellow"],
+    "features": ["5G", "Galaxy AI", "Foldable Display", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "187g", "dimensions": "165.1x71.9x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Proximity"],
+    "connectivity": ["Wi-Fi 7", "Bluetooth 5.3", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Fold 1",
+    "release_year": 2019,
+    "price": 1980,
+    "hardware": {"ram": "12GB", "storage": ["512GB"], "cpu": "Snapdragon 855", "gpu": "Adreno 640", "screen": {"size": "7.3 inch", "resolution": "2152x1536", "refresh_rate": "60Hz"}, "battery": {"capacity": "4380mAh", "fast_charging": "18W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "telephoto": "12MP", "ultrawide": "16MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP+8MP", "features": ["HDR"]}},
+    "colors": ["Cosmos Black", "Space Silver"],
+    "features": ["Foldable Display", "Wireless Charging"],
+    "software": {"OS": "Android 10", "UI": "One UI 2.5", "SecurityPatch": "2021-08", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "263g", "dimensions": "160.9x117.9x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 2",
+    "release_year": 2020,
+    "price": 2000,
+    "hardware": {"ram": "12GB", "storage": ["256GB"], "cpu": "Snapdragon 865+", "gpu": "Adreno 650", "screen": {"size": "7.6 inch", "resolution": "2208x1768", "refresh_rate": "120Hz"}, "battery": {"capacity": "4500mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "telephoto": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Mystic Bronze", "Mystic Black"],
+    "features": ["Foldable Display", "Wireless Charging"],
+    "software": {"OS": "Android 13", "UI": "One UI 5.1", "SecurityPatch": "2023-09", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "282g", "dimensions": "159.2x128.2x6.9mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 3",
+    "release_year": 2021,
+    "price": 1800,
+    "hardware": {"ram": "12GB", "storage": ["256GB", "512GB"], "cpu": "Snapdragon 888", "gpu": "Adreno 660", "screen": {"size": "7.6 inch", "resolution": "2208x1768", "refresh_rate": "120Hz"}, "battery": {"capacity": "4400mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "12MP", "telephoto": "12MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Phantom Black", "Phantom Green", "Phantom Silver"],
+    "features": ["5G", "Foldable Display", "S Pen Support", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-10", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "271g", "dimensions": "158.2x128.1x6.4mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 6E", "Bluetooth 5.2", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 4",
+    "release_year": 2022,
+    "price": 1800,
+    "hardware": {"ram": "12GB", "storage": ["256GB", "512GB", "1TB"], "cpu": "Snapdragon 8+ Gen 1", "gpu": "Adreno 730", "screen": {"size": "7.6 inch", "resolution": "2176x1812", "refresh_rate": "120Hz"}, "battery": {"capacity": "4400mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "50MP", "telephoto": "10MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "4K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Graygreen", "Beige", "Phantom Black"],
+    "features": ["5G", "Foldable Display", "S Pen Support", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-11", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "263g", "dimensions": "155.1x130.1x6.3mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 6E", "Bluetooth 5.2", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["4K@60fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 5",
+    "release_year": 2023,
+    "price": 1800,
+    "hardware": {"ram": "12GB", "storage": ["256GB", "512GB", "1TB"], "cpu": "Snapdragon 8 Gen 2 for Galaxy", "gpu": "Adreno 740", "screen": {"size": "7.6 inch", "resolution": "2176x1812", "refresh_rate": "120Hz"}, "battery": {"capacity": "4400mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "50MP", "telephoto": "10MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "8K video"]}, "front": {"main": "10MP", "features": ["HDR"]}},
+    "colors": ["Icy Blue", "Phantom Black", "Cream"],
+    "features": ["5G", "Foldable Display", "S Pen Support", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2024-11", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "253g", "dimensions": "154.9x129.9x6.1mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["8K@30fps"]},
+    "security": ["Fingerprint"]
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold 6",
+    "release_year": 2024,
+    "price": 1900,
+    "hardware": {"ram": "12GB", "storage": ["256GB", "512GB", "1TB"], "cpu": "Snapdragon 8 Gen 3 for Galaxy", "gpu": "Adreno 750", "screen": {"size": "7.6 inch", "resolution": "2184x1968", "refresh_rate": "120Hz"}, "battery": {"capacity": "4600mAh", "fast_charging": "25W", "wireless_charging": true}},
+    "camera": {"rear": {"main": "50MP", "telephoto": "10MP", "ultrawide": "12MP", "features": ["OIS", "HDR", "8K video"]}, "front": {"main": "12MP", "features": ["HDR"]}},
+    "colors": ["Silver Shadow", "Navy", "Pink"],
+    "features": ["5G", "Galaxy AI", "Foldable Display", "S Pen Support", "Water Resistant"],
+    "software": {"OS": "Android 14", "UI": "One UI 6.1", "SecurityPatch": "2024-12", "preinstalled_apps": ["Galaxy Store"]},
+    "physical": {"weight": "239g", "dimensions": "153.5x132.6x5.6mm", "material": "Glass + Aluminum", "SIM": "Single"},
+    "sensors": ["Accelerometer", "Gyroscope", "Fingerprint"],
+    "connectivity": ["Wi-Fi 7", "Bluetooth 5.3", "GPS", "5G", "USB-C"],
+    "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": ["8K@30fps"]},
+    "security": ["Fingerprint"]
+  }
+
 ]
 }

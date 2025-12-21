@@ -5,7 +5,8 @@ int main() {
     crow::Crow<> app;
     PhoneBrandEndpoints phoneEndpoints;
 
-    registerPhoneRoutes(app, phoneEndpoints);
+    registerSamsungRoute(app, phoneEndpoints);
+    registerAppleRoute(app, phoneEndpoints);
 
     app.port(8080).multithreaded().run();
 

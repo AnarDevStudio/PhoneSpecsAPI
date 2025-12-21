@@ -1,0 +1,32 @@
+{
+  "phones": [
+    {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "release_year": 2023,
+      "price": 1400,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "1TB"],
+        "cpu": "Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.8 inch", "resolution": "3088x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "45W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "200MP", "ultrawide": "12MP", "telephoto": "10MP", "periscope": "10MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
+        "front": {"main": "12MP", "features": ["HDR", "4K video"]}
+      },
+
+      
+      "colors": ["Phantom Black", "Green", "Cream", "Lavender"],
+      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "S Pen"],
+      "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2025-01", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
+      "physical": {"weight": "234g", "dimensions": "163.4x78.1x8.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C 3.2"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
+      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+    }
+  ]
+}

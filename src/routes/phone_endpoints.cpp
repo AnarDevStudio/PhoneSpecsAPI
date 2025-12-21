@@ -22,3 +22,7 @@ nlohmann::json PhoneBrandEndpoints::readJsonFile(const std::string& path) {
 nlohmann::json PhoneBrandEndpoints::getSamsung() {
     return readJsonFile(file_path + "samsung_data.json");
 }
+
+nlohmann::json PhoneBrandEndpoints::getApple() {
+    return readJsonFile(file_path + "apple_data.json");
+}

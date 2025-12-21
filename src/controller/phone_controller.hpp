@@ -3,4 +3,5 @@
 #include "../routes/phone_endpoints.hpp"
 
 
-void registerPhoneRoutes(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
+void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
+void registerAppleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
