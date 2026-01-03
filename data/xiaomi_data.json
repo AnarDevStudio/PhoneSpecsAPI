@@ -1,0 +1,2567 @@
+{
+  "phones": [
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 1",
+      "release_year": 2011,
+      "price": 300,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["4GB"],
+        "cpu": "Qualcomm Snapdragon S3",
+        "gpu": "Adreno 220",
+        "screen": {
+          "size": "4.0 inch",
+          "resolution": "854x480",
+          "refresh_rate": "60Hz"
+        },
+        "battery": {
+          "capacity": "1930mAh",
+          "fast_charging": false,
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "8MP",
+          "features": ["HDR", "720p video"]
+        },
+        "front": {
+          "main": "2MP",
+          "features": []
+        }
+      },
+      "colors": ["Black"],
+      "features": ["3G", "Wi-Fi", "Bluetooth"],
+      "software": {
+        "OS": "Android 2.3",
+        "UI": "MIUI",
+        "SecurityPatch": "2012-01"
+      },
+      "physical": {
+        "weight": "149g",
+        "dimensions": "125x63x11.9mm",
+        "material": "Plastic",
+        "SIM": "Single"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 1S",
+      "release_year": 2012,
+      "price": 320,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["4GB"],
+        "cpu": "Qualcomm Snapdragon S3",
+        "gpu": "Adreno 220",
+        "screen": {
+          "size": "4.0 inch",
+          "resolution": "854x480",
+          "refresh_rate": "60Hz"
+        },
+        "battery": {
+          "capacity": "1930mAh",
+          "fast_charging": false,
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "8MP",
+          "features": ["HDR", "720p video"]
+        },
+        "front": {
+          "main": "2MP",
+          "features": []
+        }
+      },
+      "colors": ["Black"],
+      "features": ["3G", "Wi-Fi", "Bluetooth"],
+      "software": {
+        "OS": "Android 4.0",
+        "UI": "MIUI",
+        "SecurityPatch": "2013-01"
+      },
+      "physical": {
+        "weight": "149g",
+        "dimensions": "125x63x11.9mm",
+        "material": "Plastic",
+        "SIM": "Single"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 2",
+      "release_year": 2012,
+      "price": 400,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Snapdragon S4 Pro",
+        "gpu": "Adreno 320",
+        "screen": {
+          "size": "4.3 inch",
+          "resolution": "1280x720",
+          "refresh_rate": "60Hz"
+        },
+        "battery": {
+          "capacity": "2000mAh",
+          "fast_charging": false,
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "8MP",
+          "features": ["HDR", "1080p video"]
+        },
+        "front": {
+          "main": "2MP",
+          "features": []
+        }
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "Wi-Fi", "NFC"],
+      "software": {
+        "OS": "Android 4.1",
+        "UI": "MIUI",
+        "SecurityPatch": "2014-01"
+      },
+      "physical": {
+        "weight": "145g",
+        "dimensions": "126x62x10.2mm",
+        "material": "Plastic",
+        "SIM": "Single"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 2A",
+      "release_year": 2013,
+      "price": 300,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB"],
+        "cpu": "Snapdragon S4 Pro",
+        "gpu": "Adreno 320",
+        "screen": {
+          "size": "4.5 inch",
+          "resolution": "1280x720",
+          "refresh_rate": "60Hz"
+        },
+        "battery": {
+          "capacity": "2030mAh",
+          "fast_charging": false,
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "8MP",
+          "features": ["HDR", "1080p video"]
+        },
+        "front": {
+          "main": "2MP",
+          "features": []
+        }
+      },
+      "colors": ["Gray"],
+      "features": ["3G", "Wi-Fi"],
+      "software": {
+        "OS": "Android 4.1",
+        "UI": "MIUI",
+        "SecurityPatch": "2014-01"
+      },
+      "physical": {
+        "weight": "133g",
+        "dimensions": "133x66.5x9.5mm",
+        "material": "Plastic",
+        "SIM": "Single"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 2S",
+      "release_year": 2013,
+      "price": 420,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Snapdragon 600",
+        "gpu": "Adreno 320",
+        "screen": {
+          "size": "4.3 inch",
+          "resolution": "1280x720",
+          "refresh_rate": "60Hz"
+        },
+        "battery": {
+          "capacity": "2000mAh",
+          "fast_charging": false,
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "13MP",
+          "features": ["HDR", "1080p video"]
+        },
+        "front": {
+          "main": "2MP",
+          "features": []
+        }
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "Wi-Fi", "NFC"],
+      "software": {
+        "OS": "Android 4.1",
+        "UI": "MIUI",
+        "SecurityPatch": "2015-01"
+      },
+      "physical": {
+        "weight": "145g",
+        "dimensions": "126x62x10.2mm",
+        "material": "Plastic",
+        "SIM": "Single"
+      }
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 3",
+      "release_year": 2013,
+      "price": null,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "64GB"],
+        "cpu": "Qualcomm Snapdragon 800 (2.3GHz) / Nvidia Tegra 4 (1.8GHz variant)",
+        "gpu": "Adreno 330 (Snapdragon)",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3050mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": []},
+        "front": {"main": "2MP", "features": []}
+      },
+      "colors": [],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "NFC", "GPS"],
+      "software": {"OS": "MIUI (Android 4.3/4.4)", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "145g", "dimensions": null, "material": null, "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Compass", "Proximity", "Ambient light"],
+      "connectivity": ["Wi‑Fi", "Bluetooth 4.0", "GPS", "4G", "Micro‑USB"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 4",
+      "release_year": 2014,
+      "price": null,
+      "hardware": {
+        "ram": "2GB/3GB",
+        "storage": ["16GB", "64GB"],
+        "cpu": "Qualcomm Snapdragon 801 (2.5GHz)",
+        "gpu": "Adreno 330",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3080mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": ["HDR", "4K video"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "IR blaster"],
+      "software": {"OS": "MIUI (Android 4.4 KitKat)", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "149g", "dimensions": "139.2x68.5x8.9mm", "material": null, "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Compass", "Proximity", "Ambient light", "Barometer"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "LTE", "Micro‑USB"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 4i",
+      "release_year": 2015,
+      "price": null,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Qualcomm Snapdragon 615 (Octa‑core)",
+        "gpu": "Adreno 405",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3120mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": []},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": [],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS"],
+      "software": {"OS": "MIUI (Android 5.0 Lollipop)", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "130g", "dimensions": "138.1x69.6x7.8mm", "material": null, "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Compass", "Proximity", "Ambient light"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "LTE", "Micro‑USB"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 4c",
+      "release_year": 2015,
+      "price": null,
+      "hardware": {
+        "ram": "2GB/3GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Qualcomm Snapdragon 808",
+        "gpu": "Adreno 418",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3080mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": []},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "Blue", "Orange", "Pink", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "Infrared"],
+      "software": {"OS": "MIUI (Android 5.1.1 Lollipop)", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "132g", "dimensions": "138.1x69.6x7.8mm", "material": null, "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Compass", "Proximity", "Ambient light"],
+      "connectivity": ["Wi‑Fi", "Bluetooth 4.1", "GPS", "LTE", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 5",
+      "release_year": 2016,
+      "price": null,
+      "hardware": {
+        "ram": "3GB/4GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 820",
+        "gpu": "Adreno 530",
+        "screen": {"size": "5.15 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": ["OIS", "4K video"]},
+        "front": {"main": "4MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "White", "Gold"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "NFC", "Infrared", "Fingerprint Sensor"],
+      "software": {"OS": "Android 6.0 Marshmallow", "UI": "MIUI 7/8", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "129g", "dimensions": "144.5x69.2x7.25mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Ambient light", "Barometer", "Fingerprint"],
+      "connectivity": ["Wi‑Fi 802.11ac", "Bluetooth 4.2", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV"], "video": ["4K@30fps", "1080p@30fps"]},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 5s Plus",
+      "release_year": 2016,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 821",
+        "gpu": "Adreno 530",
+        "screen": {"size": "5.7 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3800mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP + 13MP", "features": ["Dual LED flash", "HDR", "4K video"]},
+        "front": {"main": "4MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "White", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "NFC", "Infrared", "Fingerprint Sensor"],
+      "software": {"OS": "Android 6.0 Marshmallow", "UI": "MIUI 8", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "168g", "dimensions": "154.6x77.7x7.95mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint"],
+      "connectivity": ["Wi‑Fi 802.11 a/b/g/n/ac", "Bluetooth 4.2", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "WAV"], "video": ["4K@30fps", "1080p@30fps"]},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi Note 2",
+      "release_year": 2016,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 821",
+        "gpu": "Adreno 530",
+        "screen": {"size": "5.7 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4070mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "22.5MP", "features": ["Dual LED", "4K video"]},
+        "front": {"main": "8MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "Black‑Silver", "Silver"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "NFC", "Infrared", "Fingerprint Sensor"],
+      "software": {"OS": "Android 6.0 Marshmallow", "UI": "MIUI 8", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "166g", "dimensions": "156.2x77.3x7.6mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Ambient light", "Barometer", "Fingerprint"],
+      "connectivity": ["Wi‑Fi 802.11 a/b/g/n/ac", "Bluetooth 4.2", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV"], "video": ["4K@30fps", "1080p@30fps"]},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi Note 3",
+      "release_year": 2017,
+      "price": null,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 660",
+        "gpu": "Adreno 512",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3500mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP + 12MP", "features": ["OIS", "2x optical zoom", "4K video"]},
+        "front": {"main": "16MP", "features": ["1080p video"]}
+      },
+      "colors": ["Black", "Blue"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth 5.0", "GPS", "Infrared", "Fingerprint Sensor", "Face Unlock"],
+      "software": {"OS": "Android 7.1 Nougat", "UI": "MIUI 8/9", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "163g", "dimensions": "152.6x74x7.6mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light", "Fingerprint"],
+      "connectivity": ["Wi‑Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV"], "video": ["4K@30fps", "1080p@30fps"]},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX",
+      "release_year": 2016,
+      "price": null,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Qualcomm Snapdragon 821",
+        "gpu": "Adreno 530",
+        "screen": {"size": "6.4 inch", "resolution": "1080x2040", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4400mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "features": []},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "Fingerprint Sensor"],
+      "software": {"OS": "Android 6.0.1 Marshmallow", "UI": "MIUI 8/updated MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "209g", "dimensions": null, "material": "Ceramic/Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Ambient light"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX 2",
+      "release_year": 2017,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Qualcomm Snapdragon 835",
+        "gpu": "Adreno 540",
+        "screen": {"size": "5.99 inch", "resolution": "1080x2160", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["OIS"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth 5.0", "GPS", "Fingerprint Sensor"],
+      "software": {"OS": "Android 7.1 Nougat", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "185g", "dimensions": null, "material": "Ceramic/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX 2S",
+      "release_year": 2018,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Qualcomm Snapdragon 845",
+        "gpu": "Adreno 630",
+        "screen": {"size": "5.99 inch", "resolution": "1080x2160", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP + 12MP", "features": ["OIS", "Dual LED"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth 5.0", "GPS", "NFC", "Fingerprint Sensor"],
+      "software": {"OS": "Android 8.0 Oreo", "UI": "MIUI 9.5+", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "191g", "dimensions": null, "material": "Ceramic/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX 3",
+      "release_year": 2018,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB", "256GB"],
+        "cpu": "Qualcomm Snapdragon 845",
+        "gpu": "Adreno 630",
+        "screen": {"size": "6.39 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3850mAh", "fast_charging": "Quick Charge 4+", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP + 12MP", "features": ["OIS", "AI features"]},
+        "front": {"main": "24MP + 2MP", "features": ["AI beautification"]} 
+      },
+      "colors": ["Sapphire Blue", "Jade Green", "Onyx Black"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth 5.0", "GPS", "Fingerprint Sensor", "Magnetic Slider"],
+      "software": {"OS": "Android 9 Pie", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "218g", "dimensions": "157.9x74.7x8.5mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi A1",
+      "release_year": 2017,
+      "price": null,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "64GB"],
+        "cpu": "Qualcomm Snapdragon 625",
+        "gpu": "Adreno 506",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3080mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP + 12MP", "features": ["2x optical zoom"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "Gold", "Rose Gold"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "Fingerprint Sensor", "microSD support"],
+      "software": {"OS": "Android 7.1.2 Nougat", "UI": "Android One", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "165g", "dimensions": "155.4x75.8x7.3mm", "material": "Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Ambient light", "Fingerprint"],
+      "connectivity": ["Wi‑Fi", "Bluetooth", "GPS", "4G", "USB‑C", "3.5mm Jack"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi A2",
+      "release_year": 2018,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB",
+        "storage": ["32GB", "64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 660",
+        "gpu": "Adreno 512",
+        "screen": {"size": "5.99 inch", "resolution": "1080x2160", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3010mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP + 20MP", "features": []},
+        "front": {"main": "20MP", "features": []}
+      },
+      "colors": ["Black", "Gold", "Blue", "Rose Gold"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "Fingerprint Sensor"],
+      "software": {"OS": "Android 8.1 Oreo", "UI": "Android One", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "166g", "dimensions": "158.7x75.4x7.3mm", "material": "Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass"],
+      "connectivity": ["Wi‑Fi", "Bluetooth 5.0", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi A3",
+      "release_year": 2019,
+      "price": null,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 665",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.088 inch", "resolution": "720x1560", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4030mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP + 8MP + 2MP", "features": []},
+        "front": {"main": "32MP", "features": []}
+      },
+      "colors": ["Black", "Blue", "White"],
+      "features": ["4G", "Wi‑Fi", "Bluetooth", "GPS", "Fingerprint Sensor"],
+      "software": {"OS": "Android One", "UI": "Android OS", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "173.8g", "dimensions": "153.5x71.9x8.5mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi‑Fi", "Bluetooth 5.0", "GPS", "4G", "USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K20",
+      "release_year": 2019,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "Snapdragon 730",
+        "gpu": "Adreno 618",
+        "screen": {"size": "6.39 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "13MP", "telephoto": "8MP", "features": ["HDR"]},
+        "front": {"main": "20MP", "features": []}
+      },
+      "colors": ["Carbon Black","Flame Red","Glacier Blue"],
+      "features": ["4G","Wi‑Fi","Bluetooth 5.0","GPS","Fingerprint Sensor","3.5mm Jack"],
+      "software": {"OS": "Android 9 Pie", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "181g", "dimensions": "156.7x74.3x8.8mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K20 Pro",
+      "release_year": 2019,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "Snapdragon 855",
+        "gpu": "Adreno 640",
+        "screen": {"size": "6.39 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "27W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "13MP", "telephoto": "8MP", "features": ["2x optical zoom","HDR"]},
+        "front": {"main": "20MP", "features": []}
+      },
+      "colors": ["Carbon Black","Flame Red","Glacier Blue"],
+      "features": ["4G","Wi‑Fi","Bluetooth 5.0","GPS","In‑Display Fingerprint","3.5mm Jack"],
+      "software": {"OS": "Android 9 Pie", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "191g", "dimensions": "156.7x74.3x8.8mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["In‑Display Fingerprint"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 8",
+      "release_year": 2019,
+      "price": null,
+      "hardware": {
+        "ram": "3GB/4GB",
+        "storage": ["32GB","64GB","128GB"],
+        "cpu": "Snapdragon 665",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.3 inch", "resolution": "1080x2280", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "8MP", "macro": "2MP","depth":"2MP","features": []},
+        "front": {"main": "13MP", "features": []}
+      },
+      "colors": ["Black","Blue","White","Green"],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","3.5mm Jack","microSD support"],
+      "software": {"OS": "Android 9 Pie", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "191g", "dimensions": "158.3x75.3x8.35mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 8 Pro",
+      "release_year": 2019,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "MediaTek Helio G90T",
+        "gpu": "ARM Mali‑G76 MC4",
+        "screen": {"size": "6.53 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP", "ultrawide": "8MP", "macro":"2MP","depth":"2MP","features": []},
+        "front": {"main": "20MP", "features": []}
+      },
+      "colors": ["Mineral Grey","Pearl White","Forest Green"],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","3.5mm Jack","NFC","microSD support"],
+      "software": {"OS": "Android 9 Pie", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "199.8g", "dimensions": "161.35x76.4x8.79mm", "material": "Glass/Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi 9",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "3GB/4GB/6GB",
+        "storage": ["32GB","64GB","128GB"],
+        "cpu": "MediaTek Helio G80",
+        "gpu": "Mali‑G52 MC2",
+        "screen": {"size": "6.53 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5020mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP","ultrawide":"8MP","macro":"5MP","depth":"2MP","features": []},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Various"],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","microSD support","3.5mm Jack"],
+      "software": {"OS": "Android 10", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "198g", "dimensions": "163.3x77x9.1mm", "material": "Glass/Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi 9A",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "2GB/3GB/4GB",
+        "storage": ["32GB","64GB","128GB"],
+        "cpu": "MediaTek Helio G25",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.53 inch", "resolution": "720x1600", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": null, "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "features": []},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Granite Gray","Sky Blue","Ocean Green"],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS"],
+      "software": {"OS": "Android 10", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "194g", "dimensions": "164.9x77.1x9.0mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer","Proximity","Ambient light"],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","microUSB"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": []
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi 9 Power",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "Snapdragon 662",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.53 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "6000mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features": []},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Black","Blue","Green","Orange"],
+      "features": ["4G","Wi‑Fi","Bluetooth 5.0","GPS","Fingerprint Sensor","3.5mm Jack"],
+      "software": {"OS": "Android 10", "UI": "MIUI", "SecurityPatch": null, "preinstalled_apps": []},
+      "physical": {"weight": "198g", "dimensions": "162.3x77.3x9.6mm", "material": "Glass/Plastic","SIM":"Dual"},
+      "sensors": ["Accelerometer","Gyroscope","Proximity","Compass","Ambient light","Fingerprint"],
+      "connectivity": ["Wi‑Fi","Bluetooth 5.0","GPS","4G","USB‑C"],
+      "media": {"speakers": null, "audio": [], "video": []},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2340x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4780mAh", "fast_charging": "30W", "wireless_charging": "30W"}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"13MP","macro":"2MP","depth":"2MP","features":["HDR","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "208g","dimensions": "162.6x74.8x9mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10 Pro",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2340x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "50W", "wireless_charging": "30W"}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"20MP","telephoto":"12MP","periscope":"8MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "208g","dimensions": "162.6x74.8x9mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10 Ultra",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB/16GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2340x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "120W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "48MP","telephoto":"48MP","telephoto2":"12MP","ultrawide":"20MP","features":["OIS","Dual telephoto","HDR","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": ["Obsidian Black","Mercury Silver"],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "221.8g","dimensions": "162.4x75.1x9.5mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth 5.1","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10T",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "144Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"13MP","macro":"5MP","features":["HDR","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "216g","dimensions": "165.1x76.4x9.3mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10T Pro",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "144Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"13MP","macro":"5MP","features":["HDR","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "218g","dimensions": "165.1x76.4x9.3mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 10i",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "Qualcomm Snapdragon 750G",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4820mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features":[]},
+        "front": {"main": "16MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","microSD Support"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "214.5g","dimensions": "165.38x76.8x9mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "POCO",
+      "model": "Poco F1",
+      "release_year": 2018,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 845",
+        "gpu": "Adreno 630",
+        "screen": {"size": "6.18 inch", "resolution": "2246x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP","depth":"5MP","features":[]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","microSD support"],
+      "software": {"OS": "Android 8.1","UI": "MIUI for POCO","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "182g","dimensions": "155.5x75.2x8.8mm","material": "Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "POCO",
+      "model": "Poco F2 Pro",
+      "release_year": 2020,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 865",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4700mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"13MP","macro":"5MP","depth":"2MP","features":[]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 10","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "219g","dimensions": "163.3x75.4x8.9mm","material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.81 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4600mAh", "fast_charging": "55W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"13MP","macro":"5MP","features":["OIS","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": null,"material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11 Pro",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.81 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": "67W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"13MP","telephoto":"8MP","features":["OIS","8K video"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","IP68"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "208g","dimensions": null,"material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11 Ultra",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.81 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": "67W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"48MP","telephoto":"48MP","features":["OIS","8K video","100x zoom"]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","IP67","Rear secondary display"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "234g","dimensions": null,"material": "Glass/Ceramic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11 Lite",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 780G",
+        "gpu": "Adreno 642",
+        "screen": {"size": "6.55 inch", "resolution": "2400x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4250mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"8MP","macro":"2MP","features":[]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["4G/5G","Wi‑Fi","Bluetooth","GPS","Side‑mounted Fingerprint"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "159g","dimensions": null,"material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11X",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB"],
+        "cpu": "Qualcomm Snapdragon 870",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4520mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"5MP","features":[]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Side‑mounted Fingerprint"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": null,"material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi 11X Pro",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4520mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"5MP","features":[]},
+        "front": {"main": "20MP","features":[]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Side‑mounted Fingerprint"],
+      "software": {"OS": "MIUI 12 (Android 11)","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": null,"material": "Glass/Metal","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 10",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "Qualcomm Snapdragon 678",
+        "gpu": "Adreno 612",
+        "screen": {"size": "6.43 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "13MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "178.8g","dimensions": "160.5x74.5x8.3mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 10 Pro",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 732G",
+        "gpu": "Adreno 618",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5020mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"5MP","depth":"2MP","features":["HDR","4K video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "193g","dimensions": "164x76.5x8.1mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 10S",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "MediaTek Helio G95",
+        "gpu": "Mali-G76 MC4",
+        "screen": {"size": "6.43 inch", "resolution": "2400x1080", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "13MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "178.8g","dimensions": "160.5x74.5x8.3mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 11",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB/8GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "Qualcomm Snapdragon 680",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.43 inch", "resolution": "2400x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "13MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G/5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "179g","dimensions": "159.87x73.87x8.09mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 11 Pro",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "MediaTek Helio G96",
+        "gpu": "Mali-G57 MC2",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G/5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "202g","dimensions": "164.19x76.1x8.12mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 11S",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["64GB","128GB"],
+        "cpu": "MediaTek Helio G96",
+        "gpu": "Mali-G57 MC2",
+        "screen": {"size": "6.43 inch", "resolution": "2400x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","depth":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["4G/5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "179g","dimensions": "159.87x73.87x8.09mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K40",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 870",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4520mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"5MP","features":["HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": "163.7x76.4x7.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K40 Pro",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 870",
+        "gpu": "Adreno 650",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4520mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","telephoto":"5MP","features":["OIS","HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": "163.7x76.4x7.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K40 Pro+",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["256GB"],
+        "cpu": "Qualcomm Snapdragon 888",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4520mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","telephoto":"5MP","features":["OIS","HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS"],
+      "software": {"OS": "Android 11","UI": "MIUI 12","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "196g","dimensions": "163.7x76.4x7.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 12T",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "MediaTek Dimensity 8100-Ultra",
+        "gpu": "Mali-G610 MC6",
+        "screen": {"size": "6.67 inch", "resolution": "2712x1220", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","4K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "205g","dimensions": "163.1x75.9x8.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 12T Pro",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.67 inch", "resolution": "2712x1220", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "200MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "205g","dimensions": "163.1x75.9x8.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 13",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.36 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "67W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"12MP","telephoto":"10MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["1080p video","HDR"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS","Wireless Charging"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "185g","dimensions": "152.7x71.5x8.3mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 13 Pro",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4820mAh", "fast_charging": "120W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["1080p video","HDR"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS","Wireless Charging"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "221g","dimensions": "163.3x74.6x8.3mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 13 Ultra",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "90W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","periscope":"120x zoom","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["1080p video","HDR"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS","Wireless Charging","Periscope Zoom"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "234g","dimensions": "163.7x74.6x9.1mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 13 Lite",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 7 Gen 1",
+        "gpu": "Adreno 662",
+        "screen": {"size": "6.55 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "32MP","features":["1080p video","HDR"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "175g","dimensions": "160.7x74.5x7.3mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 685",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "13MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "179g","dimensions": "165.8x76.3x7.7mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12 Pro",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "MediaTek Dimensity 1080",
+        "gpu": "Mali-G68 MC4",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "187g","dimensions": "163.7x76.1x7.9mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12T",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "MediaTek Dimensity 8100",
+        "gpu": "Mali-G610 MC6",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "190g","dimensions": "163.6x76.1x8.1mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12 Pro Speed",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "MediaTek Dimensity 8100 Max",
+        "gpu": "Mali-G610 MC6",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "190g","dimensions": "163.6x76.1x8.1mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12S",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "4GB/6GB/8GB",
+        "storage": ["64GB","128GB","256GB"],
+        "cpu": "MediaTek Helio G96",
+        "gpu": "Mali-G57 MC2",
+        "screen": {"size": "6.43 inch", "resolution": "2400x1080", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "179g","dimensions": "159.9x73.9x8.2mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K50",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "MediaTek Dimensity 8100",
+        "gpu": "Mali-G610 MC6",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4800mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "200g","dimensions": "163.5x76.4x8.8mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K50 Pro",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "MediaTek Dimensity 9000",
+        "gpu": "Mali-G710 MC10",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4700mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","telephoto":"2MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "204g","dimensions": "163.5x76.4x8.8mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K50 Ultra",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "MediaTek Dimensity 9200+",
+        "gpu": "Mali-G715 MC11",
+        "screen": {"size": "6.78 inch", "resolution": "2460x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "200MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "210g","dimensions": "163.9x76.6x8.9mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Civi 1",
+      "release_year": 2021,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 778G",
+        "gpu": "Adreno 642L",
+        "screen": {"size": "6.55 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "55W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 11","UI": "MIUI 12.5","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "166g","dimensions": "159.6x71.2x6.98mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Civi 2",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 7+ Gen 2",
+        "gpu": "Adreno 662",
+        "screen": {"size": "6.55 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "55W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 12","UI": "MIUI 13","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "166g","dimensions": "159.6x71.2x6.98mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Civi 3",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.55 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "55W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 13","UI": "MIUI 14","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "166g","dimensions": "159.6x71.2x6.98mm","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX Fold 2",
+      "release_year": 2022,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1",
+        "gpu": "Adreno 730",
+        "screen": {"size": "8.02 inch foldable","resolution": "2160x1914","refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh","fast_charging": "67W","wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"13MP","telephoto":"8MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Foldable","OIS","Wireless Charging"],
+      "software": {"OS": "Android 12","UI": "MIUI 13 Fold","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "262g","dimensions": "161.2x145.5x5.4mm unfolded","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Mi MIX Fold 3",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 2",
+        "gpu": "Adreno 740",
+        "screen": {"size": "8.02 inch foldable","resolution": "2160x1914","refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh","fast_charging": "67W","wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"13MP","telephoto":"8MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Foldable","OIS","Wireless Charging"],
+      "software": {"OS": "Android 13","UI": "MIUI 14 Fold","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "262g","dimensions": "161.2x145.5x5.4mm unfolded","material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 3",
+        "gpu": "Adreno 750",
+        "screen": {"size": "6.36 inch", "resolution": "2670x1200", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4610mAh", "fast_charging": "90W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","Wireless Charging"],
+      "software": {"OS": "HyperOS","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "193g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14 Pro",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 3",
+        "gpu": "Adreno 750",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4880mAh", "fast_charging": "120W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","Wireless Charging"],
+      "software": {"OS": "HyperOS","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "223g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 14 Ultra",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 3",
+        "gpu": "Adreno 750",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "90W", "wireless_charging": "80W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","periscope":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","Wireless Charging","Periscope Zoom"],
+      "software": {"OS": "HyperOS","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "224g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite",
+        "gpu": "Adreno 830",
+        "screen": {"size": "6.36 inch", "resolution": "2670x1200", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5240mAh", "fast_charging": "90W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor"],
+      "software": {"OS": "HyperOS 2","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "181g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15 Pro",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite",
+        "gpu": "Adreno 830",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "6100mAh", "fast_charging": "90W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","IP68"],
+      "software": {"OS": "HyperOS 2","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "213g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15 Ultra",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite",
+        "gpu": "Adreno 830",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5410mAh", "fast_charging": "90W", "wireless_charging": "80W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","periscope":"200MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "32MP","features":["HDR","1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","NFC","Fingerprint Sensor","Wireless Charging","Periscope Zoom"],
+      "software": {"OS": "HyperOS 2","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "??g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15S Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "16GB",
+        "storage": ["512GB","1TB"],
+        "cpu": "Xiaomi Xring O1",
+        "gpu": "Immortalis-G925 MC16",
+        "screen": {"size": "6.73 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "6100mAh", "fast_charging": "90W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","Periscope Zoom"]},
+        "front": {"main": "32MP","features":["4K video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","IP68"],
+      "software": {"OS": "Android 15","UI": "HyperOS 2","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "??g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15T",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "MediaTek Dimensity 8400‑Ultra",
+        "gpu": "Mali‑G720",
+        "screen": {"size": "6.83 inch", "resolution": "2772x1280", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5500mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"12MP","telephoto":"50MP","features":["HDR","1080p‑4K video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 15","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "194g","dimensions": "163.2x78.0x7.5mm","material": "Aluminum/Glass","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 15T Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "MediaTek Dimensity 9400+",
+        "gpu": "Immortalis‑G925",
+        "screen": {"size": "6.83 inch", "resolution": "2772x1280", "refresh_rate": "144Hz"},
+        "battery": {"capacity": "5500mAh", "fast_charging": "90W", "wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"12MP","telephoto":"50MP","features":["5x optical zoom","OIS","HDR","4K video"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","OIS","Wireless Charging"],
+      "software": {"OS": "Android 15","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "210g","dimensions": "163.2x78.0x7.5mm","material": "Aluminum/Glass","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor","Face Unlock"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 685",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.7 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 13","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "187g","dimensions": "161.4x74.2x8.9mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13 Pro",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB/16GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 7s Gen 2",
+        "gpu": "Adreno 710",
+        "screen": {"size": "6.67 inch", "resolution": "2712x1220", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5100mAh", "fast_charging": "67W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "200MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software": {"OS": "Android 13","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "194g","dimensions": "161.4x74.2x8.9mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 13 Pro+",
+      "release_year": 2023,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "MediaTek Dimensity 7200 Ultra",
+        "gpu": "Mali‑G610 MC4",
+        "screen": {"size": "6.67 inch", "resolution": "2710x1220", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5100mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "200MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR","1080p video"]},
+        "front": {"main": "16MP","features":["1080p video"]}
+      },
+      "colors": [],
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software": {"OS": "Android 13","UI": "MIUI","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "194g","dimensions": "161.4x74.2x8.9mm","material": "Glass/Plastic","SIM": "Dual"},
+      "sensors": [],
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "media": {},
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K70",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB/16GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8s Gen 3",
+        "gpu": "Adreno 740",
+        "screen": {"size": "6.67 inch", "resolution": "2400x1080", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5100mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 14","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "????","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K70 Pro",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8 Gen 3",
+        "gpu": "Adreno 750",
+        "screen": {"size": "6.67 inch", "resolution": "3200x1440", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"12MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software": {"OS": "Android 14","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "209g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi K70 Ultra",
+      "release_year": 2024,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB/24GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "MediaTek Dimensity 9300+",
+        "gpu": "Immortalis‑G720 MC12",
+        "screen": {"size": "6.67 inch", "resolution": "1220x2712", "refresh_rate": "144Hz"},
+        "battery": {"capacity": "5500mAh", "fast_charging": "120W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software": {"OS": "Android 14","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "211g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Poco",
+      "model": "Poco F8 Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite",
+        "gpu": "Adreno 830",
+        "screen": {"size": "6.59 inch","resolution": "2400x1080","refresh_rate": "120Hz"},
+        "battery": {"capacity": "6210mAh","fast_charging": "100W","wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","Bose‑tuned stereo speakers"], 
+      "software": {"OS": "Android 16","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "199g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Poco",
+      "model": "Poco F8 Ultra",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite Gen 5",
+        "gpu": "Adreno 840",
+        "screen": {"size": "6.9 inch","resolution": "2400x1080","refresh_rate": "120Hz"},
+        "battery": {"capacity": "6500mAh","fast_charging": "100W","wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video","5x optical zoom"]},
+        "front": {"main": "32MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","Subwoofer audio","Bose‑tuned stereo"], 
+      "software": {"OS": "Android 16","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "218g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Poco",
+      "model": "Poco X7",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "MediaTek Dimensity 7300 Ultra",
+        "gpu": "Mali‑G615 MC2",
+        "screen": {"size": "6.67 inch","resolution": "1220x2712","refresh_rate": "120Hz"},
+        "battery": {"capacity": "5500mAh","fast_charging": "45W","wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","macro":"2MP","features":["HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 14","UI": "HyperOS","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "185g","dimensions": null,"material": "Glass/Plastic","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Poco",
+      "model": "Poco X7 Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB",
+        "storage": ["256GB","512GB"],
+        "cpu": "MediaTek Dimensity 8400 Ultra",
+        "gpu": "Mali‑G720 MC7",
+        "screen": {"size": "6.67 inch","resolution": "1220x2712","refresh_rate": "120Hz"},
+        "battery": {"capacity": "6000mAh","fast_charging": "90W","wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"8MP","features":["OIS","HDR","1080p‑4K video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 15","UI": "HyperOS 2","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "195g","dimensions": null,"material": "Glass/Plastic","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 17",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite Gen 5",
+        "gpu": "Adreno 840",
+        "screen": {"size": "6.3 inch","resolution": "2656x1220","refresh_rate": "120Hz"},
+        "battery": {"capacity": "7000mAh","fast_charging": "100W","wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "50MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 16","UI": "HyperOS 3","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "191g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 17 Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite Gen 5",
+        "gpu": "Adreno 840",
+        "screen": {"size": "6.3 inch","resolution": "2656x1220","refresh_rate": "120Hz"},
+        "battery": {"capacity": "6300mAh","fast_charging": "100W","wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "50MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock"],
+      "software": {"OS": "Android 16","UI": "HyperOS 3","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "192g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 17 Pro Max",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite Gen 5",
+        "gpu": "Adreno 840",
+        "screen": {"size": "6.9 inch","resolution": "2608x1200","refresh_rate": "120Hz"},
+        "battery": {"capacity": "7500mAh","fast_charging": "100W","wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","features":["OIS","HDR","8K video","Periscope zoom"]},
+        "front": {"main": "50MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","Second Display"],
+      "software": {"OS": "Android 16","UI": "HyperOS 3","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "219g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Xiaomi 17 Ultra",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "12GB/16GB",
+        "storage": ["256GB","512GB","1TB"],
+        "cpu": "Qualcomm Snapdragon 8 Elite Gen 5",
+        "gpu": "Adreno 840",
+        "screen": {"size": "6.9 inch","resolution": "2608x1200","refresh_rate": "120Hz"},
+        "battery": {"capacity": "6800mAh","fast_charging": "100W","wireless_charging": "50W"}
+      },
+      "camera": {
+        "rear": {"main": "50MP","ultrawide":"50MP","telephoto":"50MP","periscope":"200MP","features":["OIS","HDR","8K video"]},
+        "front": {"main": "50MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","Face Unlock","Periscope Zoom"],
+      "software": {"OS": "Android 16","UI": "HyperOS 3","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "??g","dimensions": null,"material": "Glass/Aluminum","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 6 Gen 3",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.77 inch","resolution": "2400x1080","refresh_rate": "120Hz"},
+        "battery": {"capacity": "5520mAh","fast_charging": "45W","wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","features":["HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 15","UI": "HyperOS 2","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "??g","dimensions": null,"material": "Glass/Plastic","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15 5G",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "6GB/8GB/12GB",
+        "storage": ["128GB","256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 6 Gen 3",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.77 inch","resolution": "2400x1080","refresh_rate": "120Hz"},
+        "battery": {"capacity": "5520mAh","fast_charging": "45W","wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP","ultrawide":"8MP","features":["HDR","1080p video"]},
+        "front": {"main": "20MP","features":["1080p video"]}
+      },
+      "features": ["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software": {"OS": "Android 15","UI": "HyperOS 2","SecurityPatch": null,"preinstalled_apps":[]},
+      "physical": {"weight": "??g","dimensions": null,"material": "Glass/Plastic","SIM": "Dual"},
+      "connectivity": ["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security": ["Fingerprint Sensor"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15 Pro",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB","storage":["256GB","512GB"],
+        "cpu": "MediaTek Dimensity 7400 Ultra","gpu":"Mali‑G615 MC2",
+        "screen":{"size":"6.83 inch","resolution":"2772x1280","refresh_rate":"120Hz"},
+        "battery":{"capacity":"6580mAh","fast_charging":"45W","wireless_charging":false}
+      },
+      "camera":{
+        "rear":{"main":"200MP","ultrawide":"8MP","features":["OIS","HDR","1080p video"]},
+        "front":{"main":"20MP","features":["1080p video"]}
+      },
+      "features":["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software":{"OS":"Android 15","UI":"HyperOS 2","SecurityPatch":null,"preinstalled_apps":[]},
+      "physical":{"weight":"210g","dimensions":null,"material":"Glass/Plastic","SIM":"Dual"},
+      "connectivity":["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security":["Fingerprint Sensor","OIS"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15 Pro+",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB","storage":["256GB","512GB"],
+        "cpu": "Qualcomm Snapdragon 7s Gen 4","gpu":"Adreno 810",
+        "screen":{"size":"6.83 inch","resolution":"2772x1280","refresh_rate":"120Hz"},
+        "battery":{"capacity":"6500mAh","fast_charging":"100W","wireless_charging":false}
+      },
+      "camera":{
+        "rear":{"main":"200MP","ultrawide":"8MP","features":["OIS","HDR","1080p video"]},
+        "front":{"main":"32MP","features":["1080p video"]}
+      },
+      "features":["5G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor","OIS"],
+      "software":{"OS":"Android 15","UI":"HyperOS 2","SecurityPatch":null,"preinstalled_apps":[]},
+      "physical":{"weight":"207g","dimensions":null,"material":"Glass/Plastic","SIM":"Dual"},
+      "connectivity":["Wi‑Fi","Bluetooth","GPS","5G","USB‑C"],
+      "security":["Fingerprint Sensor","OIS"]
+    },
+    {
+      "brand": "Xiaomi",
+      "model": "Redmi Note 15 Pro 4G",
+      "release_year": 2025,
+      "price": null,
+      "hardware": {
+        "ram": "8GB/12GB","storage":["256GB","512GB"],
+        "cpu": "MediaTek Helio G200 Ultra","gpu":"Mali‑G615 MC2",
+        "screen":{"size":"6.77 inch","resolution":"2400x1080","refresh_rate":"120Hz"},
+        "battery":{"capacity":"6500mAh","fast_charging":"45W","wireless_charging":false}
+      },
+      "camera":{
+        "rear":{"main":"200MP","ultrawide":"8MP","features":["HDR","1080p video"]},
+        "front":{"main":"32MP","features":["1080p video"]}
+      },
+      "features":["4G","Wi‑Fi","Bluetooth","GPS","Fingerprint Sensor"],
+      "software":{"OS":"Android 15","UI":"HyperOS 2","SecurityPatch":null,"preinstalled_apps":[]},
+      "physical":{"weight":"??g","dimensions":null,"material":"Glass/Plastic","SIM":"Dual"},
+      "connectivity":["Wi‑Fi","Bluetooth","GPS","4G","USB‑C"],
+      "security":["Fingerprint Sensor"]
+    }
+  ]
+}

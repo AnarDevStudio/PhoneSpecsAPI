@@ -26,3 +26,7 @@ nlohmann::json PhoneBrandEndpoints::getSamsung() {
 nlohmann::json PhoneBrandEndpoints::getApple() {
     return readJsonFile(file_path + "apple_data.json");
 }
+
+nlohmann::json PhoneBrandEndpoints::getXiaomi() {
+    return readJsonFile(file_path + "xiaomi_data.json");
+}

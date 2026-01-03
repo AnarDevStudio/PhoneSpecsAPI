@@ -2,31 +2,1186 @@
   "phones": [
     {
       "brand": "Apple",
-      "model": "iPhone 15 Pro Max",
-      "release_year": 2023,
-      "price": 1400,
+      "model": "iPhone",
+      "release_year": 2007,
+      "price": 499,
       "hardware": {
-        "ram": "12GB",
-        "storage": ["256GB", "512GB", "1TB"],
-        "cpu": "Snapdragon 8 Gen 2",
-        "gpu": "Adreno 740",
-        "screen": {"size": "6.8 inch", "resolution": "3088x1440", "refresh_rate": "120Hz"},
-        "battery": {"capacity": "5000mAh", "fast_charging": "45W", "wireless_charging": true}
+        "ram": "128MB",
+        "storage": ["4GB", "8GB", "16GB"],
+        "cpu": "Samsung 32-bit RISC ARM 1176JZ(F)-S v1.0",
+        "gpu": "PowerVR MBX Lite 3D",
+        "screen": {"size": "3.5 inch", "resolution": "320x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1400mAh", "fast_charging": "No", "wireless_charging": false}
       },
       "camera": {
-        "rear": {"main": "200MP", "ultrawide": "12MP", "telephoto": "10MP", "periscope": "10MP", "features": ["OIS", "HDR", "8K video", "100x zoom"]},
-        "front": {"main": "12MP", "features": ["HDR", "4K video"]}
+        "rear": {"main": "2MP", "features": []},
+        "front": {"main": "None", "features": []}
       },
-
-      
-      "colors": ["Phantom Black", "Green", "Cream", "Lavender"],
-      "features": ["5G", "NFC", "Wireless Charging", "Water Resistant", "Face Recognition", "Fingerprint Sensor", "Samsung Pay", "S Pen"],
-      "software": {"OS": "Android 14", "UI": "One UI 6", "SecurityPatch": "2025-01", "preinstalled_apps": ["Samsung Notes", "Galaxy Store", "Samsung Health"]},
-      "physical": {"weight": "234g", "dimensions": "163.4x78.1x8.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
-      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "Hall", "Step counter", "NFC"],
-      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "USB-C 3.2"],
-      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV"], "video": ["8K@24fps", "4K@60fps"]},
-      "security": ["Face Recognition", "Fingerprint", "Knox", "Secure Folder"]
+      "colors": ["Silver"],
+      "features": ["2G", "Wi-Fi", "Bluetooth"],
+      "software": {"OS": "iPhone OS 1.0", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "iTunes"]},
+      "physical": {"weight": "135g", "dimensions": "115x61x11.6mm", "material": "Aluminum + Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi", "Bluetooth 2.0", "EDGE"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": []},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 3G",
+      "release_year": 2008,
+      "price": 199,
+      "hardware": {
+        "ram": "128MB",
+        "storage": ["8GB", "16GB"],
+        "cpu": "Samsung 32-bit RISC ARM 1176JZ(F)-S v1.0",
+        "gpu": "PowerVR MBX Lite 3D",
+        "screen": {"size": "3.5 inch", "resolution": "320x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1150mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "2MP", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "GPS", "Wi-Fi", "Bluetooth"],
+      "software": {"OS": "iPhone OS 2.0", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store"]},
+      "physical": {"weight": "133g", "dimensions": "115.5x62.1x12.3mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light"],
+      "connectivity": ["Wi-Fi", "Bluetooth 2.0", "GPS", "3G"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": []},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 3GS",
+      "release_year": 2009,
+      "price": 199,
+      "hardware": {
+        "ram": "256MB",
+        "storage": ["8GB", "16GB", "32GB"],
+        "cpu": "Samsung S5PC100",
+        "gpu": "PowerVR SGX535",
+        "screen": {"size": "3.5 inch", "resolution": "320x480", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1219mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "3MP", "features": ["Autofocus", "Video recording"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "GPS", "Wi-Fi", "Bluetooth", "Voice Control"],
+      "software": {"OS": "iPhone OS 3.0", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Voice Memos"]},
+      "physical": {"weight": "135g", "dimensions": "115.5x62.1x12.3mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi-Fi", "Bluetooth 2.1", "GPS", "3G"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["VGA@30fps"]},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 4",
+      "release_year": 2010,
+      "price": 199,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["8GB", "16GB", "32GB"],
+        "cpu": "Apple A4",
+        "gpu": "PowerVR SGX535",
+        "screen": {"size": "3.5 inch", "resolution": "640x960", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1420mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP", "features": ["LED flash", "HD video", "Autofocus"]},
+        "front": {"main": "VGA", "features": ["Video calling"]}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "GPS", "Wi-Fi", "Bluetooth", "FaceTime", "Retina Display"],
+      "software": {"OS": "iOS 4", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "FaceTime"]},
+      "physical": {"weight": "137g", "dimensions": "115.2x58.6x9.3mm", "material": "Glass + Stainless Steel", "SIM": "Micro-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi-Fi", "Bluetooth 2.1", "GPS", "3G"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["720p@30fps"]},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 4S",
+      "release_year": 2011,
+      "price": 199,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["8GB", "16GB", "32GB", "64GB"],
+        "cpu": "Apple A5",
+        "gpu": "PowerVR SGX543MP2",
+        "screen": {"size": "3.5 inch", "resolution": "640x960", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1432mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["LED flash", "1080p video", "Autofocus"]},
+        "front": {"main": "VGA", "features": ["Video calling"]}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "GPS", "Wi-Fi", "Bluetooth", "Siri", "iCloud"],
+      "software": {"OS": "iOS 5", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Siri", "iMessage"]},
+      "physical": {"weight": "140g", "dimensions": "115.2x58.6x9.3mm", "material": "Glass + Stainless Steel", "SIM": "Micro-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "3G"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 5",
+      "release_year": 2012,
+      "price": 199,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB", "32GB", "64GB"],
+        "cpu": "Apple A6",
+        "gpu": "PowerVR SGX543MP3",
+        "screen": {"size": "4 inch", "resolution": "640x1136", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1440mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["LED flash", "1080p video", "Panorama", "HDR"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "FaceTime HD"]}
+      },
+      "colors": ["Black & Slate", "White & Silver"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Siri", "Lightning connector"],
+      "software": {"OS": "iOS 6", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Siri", "Passbook"]},
+      "physical": {"weight": "112g", "dimensions": "123.8x58.6x7.6mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "4G LTE"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 5C",
+      "release_year": 2013,
+      "price": 99,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["8GB", "16GB", "32GB"],
+        "cpu": "Apple A6",
+        "gpu": "PowerVR SGX543MP3",
+        "screen": {"size": "4 inch", "resolution": "640x1136", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1510mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["LED flash", "1080p video", "Panorama", "HDR"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "FaceTime HD"]}
+      },
+      "colors": ["White", "Pink", "Yellow", "Blue", "Green"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Siri"],
+      "software": {"OS": "iOS 7", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Siri", "iTunes Radio"]},
+      "physical": {"weight": "132g", "dimensions": "124.4x59.2x8.97mm", "material": "Plastic", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "4G LTE"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 5S",
+      "release_year": 2013,
+      "price": 199,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB", "32GB", "64GB"],
+        "cpu": "Apple A7",
+        "gpu": "PowerVR G6430",
+        "screen": {"size": "4 inch", "resolution": "640x1136", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1560mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["Dual-LED flash", "1080p video", "Panorama", "HDR", "Slow-mo"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "FaceTime HD"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "Siri"],
+      "software": {"OS": "iOS 7", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Siri", "iTunes Radio"]},
+      "physical": {"weight": "112g", "dimensions": "123.8x58.6x7.6mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "4G LTE"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps", "720p@120fps"]},
+      "security": ["Touch ID", "4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 6",
+      "release_year": 2014,
+      "price": 199,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB", "32GB", "64GB", "128GB"],
+        "cpu": "Apple A8",
+        "gpu": "PowerVR GX6450",
+        "screen": {"size": "4.7 inch", "resolution": "750x1334", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1810mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["Dual-LED flash", "1080p video", "Panorama", "HDR", "OIS"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "HDR"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "NFC", "Apple Pay"],
+      "software": {"OS": "iOS 8", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Health", "Apple Pay"]},
+      "physical": {"weight": "129g", "dimensions": "138.1x67x6.9mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 6 Plus",
+      "release_year": 2014,
+      "price": 299,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB", "64GB", "128GB"],
+        "cpu": "Apple A8",
+        "gpu": "PowerVR GX6450",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2915mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "features": ["Dual-LED flash", "1080p video", "Panorama", "HDR", "OIS"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "HDR"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "NFC", "Apple Pay"],
+      "software": {"OS": "iOS 8", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Health", "Apple Pay"]},
+      "physical": {"weight": "172g", "dimensions": "158.1x77.8x7.1mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 6S",
+      "release_year": 2015,
+      "price": 199,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB", "64GB", "128GB"],
+        "cpu": "Apple A9",
+        "gpu": "PowerVR GT7600",
+        "screen": {"size": "4.7 inch", "resolution": "750x1334", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1715mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual-LED flash", "4K video", "Panorama", "HDR", "Live Photos"]},
+        "front": {"main": "5MP", "features": ["720p video", "HDR", "Retina Flash"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "3D Touch", "NFC", "Apple Pay"],
+      "software": {"OS": "iOS 9", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "News", "Apple Pay"]},
+      "physical": {"weight": "143g", "dimensions": "138.3x67.1x7.1mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC", "3D Touch"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.2", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-6 digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 6S Plus",
+      "release_year": 2015,
+      "price": 299,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB", "64GB", "128GB"],
+        "cpu": "Apple A9",
+        "gpu": "PowerVR GT7600",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2750mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual-LED flash", "4K video", "Panorama", "HDR", "OIS", "Live Photos"]},
+        "front": {"main": "5MP", "features": ["720p video", "HDR", "Retina Flash"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "3D Touch", "NFC", "Apple Pay"],
+      "software": {"OS": "iOS 9", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "News", "Apple Pay"]},
+      "physical": {"weight": "192g", "dimensions": "158.2x77.9x7.3mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC", "3D Touch"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.2", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-6 digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone SE (1st generation)",
+      "release_year": 2016,
+      "price": 399,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB", "64GB", "128GB"],
+        "cpu": "Apple A9",
+        "gpu": "PowerVR GT7600",
+        "screen": {"size": "4 inch", "resolution": "640x1136", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1624mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Dual-LED flash", "4K video", "Panorama", "HDR", "Live Photos"]},
+        "front": {"main": "1.2MP", "features": ["720p video", "Retina Flash"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "NFC", "Apple Pay"],
+      "software": {"OS": "iOS 9", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Apple Pay"]},
+      "physical": {"weight": "113g", "dimensions": "123.8x58.6x7.6mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.2", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-6 digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 7",
+      "release_year": 2016,
+      "price": 649,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["32GB", "128GB", "256GB"],
+        "cpu": "Apple A10 Fusion",
+        "gpu": "PowerVR Series 7XT Plus",
+        "screen": {"size": "4.7 inch", "resolution": "750x1334", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1960mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["Quad-LED flash", "4K video", "OIS", "HDR", "Live Photos"]},
+        "front": {"main": "7MP", "features": ["1080p video", "HDR", "Retina Flash"]}
+      },
+      "colors": ["Black", "Jet Black", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "3D Touch", "NFC", "Apple Pay", "Water Resistant", "Stereo Speakers"],
+      "software": {"OS": "iOS 10", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Home", "Apple Pay"]},
+      "physical": {"weight": "138g", "dimensions": "138.3x67.1x7.1mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC", "3D Touch"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.2", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-6 digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 7 Plus",
+      "release_year": 2016,
+      "price": 769,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "128GB", "256GB"],
+        "cpu": "Apple A10 Fusion",
+        "gpu": "PowerVR Series 7XT Plus",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2900mAh", "fast_charging": "No", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["Quad-LED flash", "4K video", "OIS", "2x optical zoom", "Portrait mode"]},
+        "front": {"main": "7MP", "features": ["1080p video", "HDR", "Retina Flash"]}
+      },
+      "colors": ["Black", "Jet Black", "Silver", "Gold", "Rose Gold"],
+      "features": ["4G LTE", "GPS", "Wi-Fi", "Bluetooth", "Touch ID", "3D Touch", "NFC", "Apple Pay", "Water Resistant", "Stereo Speakers"],
+      "software": {"OS": "iOS 10", "UI": "iOS", "SecurityPatch": "N/A", "preinstalled_apps": ["Safari", "Mail", "Maps", "App Store", "Home", "Apple Pay"]},
+      "physical": {"weight": "188g", "dimensions": "158.2x77.9x7.3mm", "material": "Aluminum + Glass", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Ambient light", "Compass", "Fingerprint", "Barometer", "NFC", "3D Touch"],
+      "connectivity": ["Wi-Fi", "Bluetooth 4.2", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps", "720p@240fps"]},
+      "security": ["Touch ID", "4-6 digit PIN"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 8",
+      "release_year": 2017,
+      "price": 699,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A11 Bionic",
+        "gpu": "Apple GPU (3-core)",
+        "screen": {"size": "4.7 inch", "resolution": "750x1334", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1821mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["OIS", "HDR", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Retina Flash"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP67)", "Touch ID", "Apple Pay", "True Tone"],
+      "software": {"OS": "iOS 11", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "148g", "dimensions": "138.4x67.3x7.3mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "3D Touch"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Touch ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 8 Plus",
+      "release_year": 2017,
+      "price": 799,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A11 Bionic",
+        "gpu": "Apple GPU (3-core)",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2691mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["OIS", "2x optical zoom", "Portrait mode", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Portrait mode", "Retina Flash"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP67)", "Touch ID", "Apple Pay", "True Tone"],
+      "software": {"OS": "iOS 11", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "202g", "dimensions": "158.4x78.1x7.5mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light", "3D Touch"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Touch ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone X",
+      "release_year": 2017,
+      "price": 999,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["64GB", "256GB"],
+        "cpu": "Apple A11 Bionic",
+        "gpu": "Apple GPU (3-core)",
+        "screen": {"size": "5.8 inch", "resolution": "1125x2436", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2716mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["Dual OIS", "2x optical zoom", "Portrait mode", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Portrait mode", "Animoji"]}
+      },
+      "colors": ["Space Gray", "Silver"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP67)", "Face ID", "Apple Pay", "True Tone", "OLED Display"],
+      "software": {"OS": "iOS 11", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "174g", "dimensions": "143.6x70.9x7.7mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone XR",
+      "release_year": 2018,
+      "price": 749,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A12 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "828x1792", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2942mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["OIS", "Portrait mode", "Smart HDR", "4K video@60fps", "LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["White", "Black", "Blue", "Yellow", "Coral", "Red"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP67)", "Face ID", "Apple Pay", "Liquid Retina Display"],
+      "software": {"OS": "iOS 12", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "194g", "dimensions": "150.9x75.7x8.3mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone XS",
+      "release_year": 2018,
+      "price": 999,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "256GB", "512GB"],
+        "cpu": "Apple A12 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "5.8 inch", "resolution": "1125x2436", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2658mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["Dual OIS", "2x optical zoom", "Portrait mode", "Smart HDR", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "True Tone", "Super Retina Display"],
+      "software": {"OS": "iOS 12", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "177g", "dimensions": "143.6x70.9x7.7mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone XS Max",
+      "release_year": 2018,
+      "price": 1099,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "256GB", "512GB"],
+        "cpu": "Apple A12 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.5 inch", "resolution": "1242x2688", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3174mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "telephoto": "12MP", "features": ["Dual OIS", "2x optical zoom", "Portrait mode", "Smart HDR", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "7MP", "features": ["HDR", "1080p video", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "True Tone", "Super Retina Display"],
+      "software": {"OS": "iOS 12", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "208g", "dimensions": "157.5x77.4x7.7mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light"],
+      "connectivity": ["Wi-Fi 5", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My iPhone"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11",
+      "release_year": 2019,
+      "price": 699,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A13 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "828x1792", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3110mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["Night mode", "Deep Fusion", "Smart HDR", "4K video@60fps", "LED flash"]},
+        "front": {"main": "12MP", "features": ["4K video", "Slo-mo", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["White", "Black", "Green", "Yellow", "Purple", "Red"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Liquid Retina Display", "U1 chip"],
+      "software": {"OS": "iOS 13", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "194g", "dimensions": "150.9x75.7x8.3mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light", "U1 Ultra Wideband"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "4G LTE", "NFC", "Ultra Wideband"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11 Pro",
+      "release_year": 2019,
+      "price": 999,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "256GB", "512GB"],
+        "cpu": "Apple A13 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "5.8 inch", "resolution": "1125x2436", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3046mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "2x optical zoom", "Smart HDR", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "12MP", "features": ["4K video", "Slo-mo", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold", "Midnight Green"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Super Retina XDR Display", "U1 chip"],
+      "software": {"OS": "iOS 13", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "188g", "dimensions": "144x71.4x8.1mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light", "U1 Ultra Wideband"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "4G LTE", "NFC", "Ultra Wideband"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 11 Pro Max",
+      "release_year": 2019,
+      "price": 1099,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "256GB", "512GB"],
+        "cpu": "Apple A13 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.5 inch", "resolution": "1242x2688", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3969mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "2x optical zoom", "Smart HDR", "4K video@60fps", "Quad-LED flash"]},
+        "front": {"main": "12MP", "features": ["4K video", "Slo-mo", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["Space Gray", "Silver", "Gold", "Midnight Green"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Super Retina XDR Display", "U1 chip"],
+      "software": {"OS": "iOS 13", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "226g", "dimensions": "158x77.8x8.1mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light", "U1 Ultra Wideband"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "4G LTE", "NFC", "Ultra Wideband"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone SE (2nd generation)",
+      "release_year": 2020,
+      "price": 399,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A13 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "4.7 inch", "resolution": "750x1334", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1821mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "features": ["OIS", "Portrait mode", "Smart HDR", "4K video@60fps", "LED flash"]},
+        "front": {"main": "7MP", "features": ["1080p video", "Portrait mode"]}
+      },
+      "colors": ["White", "Black", "Red"],
+      "features": ["4G LTE", "NFC", "Wireless Charging", "Water Resistant (IP67)", "Touch ID", "Apple Pay"],
+      "software": {"OS": "iOS 13", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "148g", "dimensions": "138.4x67.3x7.3mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "4G LTE", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "1080p@240fps"]},
+      "security": ["Touch ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 mini",
+      "release_year": 2020,
+      "price": 699,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "5.4 inch", "resolution": "1080x2340", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2227mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["Night mode", "Deep Fusion", "Smart HDR 3", "Dolby Vision HDR", "4K video@60fps", "LED flash"]},
+        "front": {"main": "12MP", "features": ["4K video", "Night mode", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["White", "Black", "Blue", "Green", "Red"],
+      "features": ["5G", "NFC", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Super Retina XDR Display", "Ceramic Shield"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "133g", "dimensions": "131.5x64.2x7.4mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light", "LiDAR Scanner"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "Dolby Vision HDR", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "release_year": 2020,
+      "price": 799,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2815mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["Night mode", "Deep Fusion", "Smart HDR 3", "Dolby Vision HDR", "4K video@60fps", "LED flash"]},
+        "front": {"main": "12MP", "features": ["4K video", "Night mode", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["White", "Black", "Blue", "Green", "Red", "Purple"],
+      "features": ["5G", "NFC", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Super Retina XDR Display", "Ceramic Shield"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "164g", "dimensions": "146.7x71.5x7.4mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "Dolby Vision HDR", "1080p@240fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "release_year": 2020,
+      "price": 999,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2815mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "LiDAR Scanner", "Night mode", "Deep Fusion", "2x optical zoom", "Smart HDR 3", "Dolby Vision HDR", "4K video@60fps", "LED flash", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "Night mode", "Portrait mode", "Animoji", "Memoji"]}
+      },
+      "colors": ["Silver", "Graphite", "Gold", "Pacific Blue"],
+      "features": ["5G", "NFC", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Super Retina XDR Display", "Ceramic Shield", "LiDAR Scanner"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "189g", "dimensions": "146.7x71.5x7.4mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Face Recognition", "Ambient light", "LiDAR Scanner"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC", "WAV", "ALAC", "Dolby Atmos"], "video": ["4K@60fps", "Dolby Vision HDR", "ProRes"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "release_year": 2020,
+      "price": 799,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "256GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2815mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "Night mode", "Deep Fusion", "Dolby Vision HDR"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Black", "White", "Green", "Blue", "Purple", "(PRODUCT)RED"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "164g", "dimensions": "146.7x71.5x7.4mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps", "Dolby Vision HDR"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "release_year": 2021,
+      "price": 799,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A15 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3227mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "Cinematic mode", "Deep Fusion"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Pink", "Starlight", "Blue", "Red", "Midnight", "Green"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay"],
+      "software": {"OS": "iOS 15", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "173g", "dimensions": "146.7x71.5x7.65mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "release_year": 2022,
+      "price": 799,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A15 Bionic",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3279mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "features": ["OIS", "Action mode"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Midnight", "Starlight", "Blue", "Purple", "Red"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Apple Pay", "Emergency SOS via Satellite"],
+      "software": {"OS": "iOS 16", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "172g", "dimensions": "146.7x71.5x7.8mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15",
+      "release_year": 2023,
+      "price": 799,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A16 Bionic",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "unknown", "fast_charging": "USB-C fast charge", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "features": ["HDR", "OIS"]},
+        "front": {"main": "12MP", "features": ["4K video", "Autofocus"]}
+      },
+      "colors": ["Blue", "Pink", "Yellow", "Green", "Black"],
+      "features": ["5G", "Dynamic Island", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 17", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "171g", "dimensions": "147.6x71.6x7.8mm", "material": "Glass + Aluminum", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 16",
+      "release_year": 2024,
+      "price": 799,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A18 Bionic",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.1 inch", "resolution": "2556x1179", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "unknown", "fast_charging": "USB-C fast charge", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "features": ["OIS", "Action mode"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Black", "White", "Pink", "Teal", "Ultramarine"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Action Button"],
+      "software": {"OS": "iOS 18", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "170g", "dimensions": "147.6x71.6x7.8mm", "material": "Glass + Aluminum", "SIM": "eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 17",
+      "release_year": 2025,
+      "price": 799,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB"],
+        "cpu": "Apple A19",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.3 inch", "resolution": "1206x2622", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "3692mAh", "fast_charging": "USB-C fast charge", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "48MP", "features": ["OIS", "HDR", "Dual Camera"]},
+        "front": {"main": "18MP", "features": ["4K video", "HDR", "Center Stage"]}
+      },
+      "colors": ["Black", "White", "Mist Blue", "Sage", "Lavender"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Always-On Display", "Dynamic Island"],
+      "software": {"OS": "iOS 26", "UI": "iOS", "SecurityPatch": "Regular updates", "preinstalled_apps": ["Safari", "Mail", "Photos", "Camera", "Messages", "FaceTime", "Music", "Maps", "App Store"]},
+      "physical": {"weight": "177g", "dimensions": "149.6x71.5x8mm", "material": "Glass + Aluminum", "SIM": "eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 6.0", "GPS", "5G", "NFC"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "FLAC"], "video": ["4K@60fps"]},
+      "security": ["Face ID", "Passcode", "Find My"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro",
+      "release_year": 2020,
+      "price": 999,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "2815mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "LiDAR Scanner", "Night mode", "Deep Fusion", "Dolby Vision HDR"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Silver", "Graphite", "Gold", "Pacific Blue"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "189g", "dimensions": "146.7x71.5x7.4mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light", "LiDAR Scanner"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 12 Pro Max",
+      "release_year": 2020,
+      "price": 1099,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB"],
+        "cpu": "Apple A14 Bionic",
+        "gpu": "Apple GPU (4-core)",
+        "screen": {"size": "6.7 inch", "resolution": "1284x2778", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3687mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "LiDAR Scanner", "Night mode", "Deep Fusion", "Dolby Vision HDR"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Silver", "Graphite", "Gold", "Pacific Blue"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 14", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "228g", "dimensions": "160.8x78.1x7.4mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Ambient light", "LiDAR Scanner"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "release_year": 2021,
+      "price": 999,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A15 Bionic",
+        "gpu": "Apple GPU (5-core)",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 3095mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "ProMotion"],
+      "software": {"OS": "iOS 15", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "203g", "dimensions": "146.7x71.5x7.65mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 13 Pro Max",
+      "release_year": 2021,
+      "price": 1099,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A15 Bionic",
+        "gpu": "Apple GPU (5-core)",
+        "screen": {"size": "6.7 inch", "resolution": "1284x2778", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 4352mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "ProMotion"],
+      "software": {"OS": "iOS 15", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "238g", "dimensions": "160.8x78.1x7.65mm", "material": "Glass + Stainless Steel", "SIM": "Nano-SIM + eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "release_year": 2022,
+      "price": 999,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A16 Bionic",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.1 inch", "resolution": "1179x2556", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "3200mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Space Black", "Silver", "Purple", "Gold"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Dynamic Island"],
+      "software": {"OS": "iOS 16", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "206g", "dimensions": "147.5x71.5x7.85mm", "material": "Glass + Stainless Steel", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 14 Pro Max",
+      "release_year": 2022,
+      "price": 1099,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A16 Bionic",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.7 inch", "resolution": "1284x2778", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4323mAh", "fast_charging": "20W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "Night mode", "Deep Fusion", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Space Black", "Silver", "Purple", "Gold"],
+      "features": ["5G", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "Dynamic Island"],
+      "software": {"OS": "iOS 16", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "240g", "dimensions": "160.7x77.6x7.85mm", "material": "Glass + Stainless Steel", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro",
+      "release_year": 2023,
+      "price": 999,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A17 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.1 inch", "resolution": "1170x2532", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "3274mAh", "fast_charging": "USB-C", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "ProRAW", "Action mode"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 17", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "187g", "dimensions": "146.6x70.6x8.25mm", "material": "Titanium", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 15 Pro Max",
+      "release_year": 2023,
+      "price": 1099,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB", "1TB"],
+        "cpu": "Apple A17 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.7 inch", "resolution": "1284x2778", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4422mAh", "fast_charging": "USB-C", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["Triple OIS", "5x optical zoom", "ProRAW"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Natural Titanium", "Blue Titanium", "White Titanium", "Black Titanium"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 17", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "221g", "dimensions": "159.9x76.7x8.25mm", "material": "Titanium", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 16 Pro",
+      "release_year": 2024,
+      "price": 1099,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "512GB", "1TB"],
+        "cpu": "Apple A18 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.3 inch", "resolution": "2556x1179", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 4300mAh", "fast_charging": "USB-C", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["OIS", "ProRAW", "Action mode"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Black", "Silver", "Blue", "Green"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 18", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "approx 205g", "dimensions": "150x72x8mm", "material": "Glass + Titanium", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 16 Pro Max",
+      "release_year": 2024,
+      "price": 1199,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB", "1TB"],
+        "cpu": "Apple A18 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.9 inch", "resolution": "2778x1284", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 4700mAh", "fast_charging": "USB-C", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "12MP", "telephoto": "12MP", "features": ["OIS", "ProRAW", "5x optical zoom"]},
+        "front": {"main": "12MP", "features": ["4K video", "HDR"]}
+      },
+      "colors": ["Black", "Silver", "Blue", "Green"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID"],
+      "software": {"OS": "iOS 18", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "approx 232g", "dimensions": "162x78x8mm", "material": "Glass + Titanium", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 5.3", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 17 Pro",
+      "release_year": 2025,
+      "price": 1099,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "1TB", "2TB"],
+        "cpu": "Apple A19 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.3 inch", "resolution": "1206x2622", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 4262mAh", "fast_charging": "USB-C rapid", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "48MP", "telephoto": "48MP", "features": ["Triple OIS", "ProRAW", "Dual Capture"]},
+        "front": {"main": "18MP", "features": ["4K video", "Center Stage", "HDR"]}
+      },
+      "colors": ["Silver", "Blue", "Orange"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "ProMotion"],
+      "software": {"OS": "iOS 26", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "approx 205g", "dimensions": "150x72x8mm", "material": "Glass + Aluminum", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 6.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
+    },
+    {
+      "brand": "Apple",
+      "model": "iPhone 17 Pro Max",
+      "release_year": 2025,
+      "price": 1199,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "1TB", "2TB"],
+        "cpu": "Apple A19 Pro",
+        "gpu": "Apple GPU",
+        "screen": {"size": "6.9 inch", "resolution": "1284x2778", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "approx 4700mAh", "fast_charging": "USB-C rapid", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "48MP", "telephoto": "48MP", "features": ["Triple OIS", "ProRAW", "Periscope Zoom"]},
+        "front": {"main": "18MP", "features": ["4K video", "Center Stage", "HDR"]}
+      },
+      "colors": ["Silver", "Blue", "Orange"],
+      "features": ["5G", "USB-C", "MagSafe", "Wireless Charging", "Water Resistant (IP68)", "Face ID", "ProMotion"],
+      "software": {"OS": "iOS 26", "UI": "iOS", "SecurityPatch": "Regular updates"},
+      "physical": {"weight": "approx 233g", "dimensions": "162x78x8mm", "material": "Glass + Aluminum", "SIM": "eSIM"},
+      "sensors": ["Face ID", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 7", "Bluetooth 6.0", "GPS", "5G", "NFC"],
+      "security": ["Face ID", "Passcode"]
     }
-  ]
-}
+  ]}
