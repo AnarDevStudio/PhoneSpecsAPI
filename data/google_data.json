@@ -1,0 +1,909 @@
+{
+  "phones": [
+    {
+      "brand": "Google",
+      "model": "Pixel",
+      "release_year": 2016,
+      "price": 649,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 821, Octa-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530",
+        "screen": {
+          "size": "5.0 inch",
+          "resolution": "1080x1920",
+          "refresh_rate": "60Hz",
+          "type": "AMOLED"
+        },
+        "battery": {
+          "capacity": "2770mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.3MP (Sony Exmor IMX378, f/2.0)",
+          "features": ["HDR+", "Laser autofocus", "4K video", "EIS"]
+        },
+        "front": {
+          "main": "8MP (f/2.4)",
+          "features": []
+        }
+      },
+      "colors": ["Quite Black", "Very Silver", "Really Blue"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 4.2", "NFC", "USB-C", "IP53", "Fingerprint"],
+      "software": {
+        "OS": "Android 7.1 Nougat",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "143g",
+        "dimensions": "143.8x69.5x8.5mm",
+        "material": "Aluminum + Glass",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 4.2", "NFC", "USB-C 3.1", "GPS/GLONASS"],
+      "media": {
+        "speakers": "Mono",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel XL",
+      "release_year": 2016,
+      "price": 769,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["32GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 821, Octa-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "gpu": "Adreno 530",
+        "screen": {
+          "size": "5.5 inch",
+          "resolution": "1440x2560",
+          "refresh_rate": "60Hz",
+          "type": "AMOLED"
+        },
+        "battery": {
+          "capacity": "3450mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.3MP (Sony Exmor IMX378, f/2.0)",
+          "features": ["HDR+", "Laser autofocus", "4K video", "EIS"]
+        },
+        "front": {
+          "main": "8MP (f/2.4)",
+          "features": []
+        }
+      },
+      "colors": ["Quite Black", "Very Silver", "Really Blue"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 4.2", "NFC", "USB-C", "IP53", "Fingerprint"],
+      "software": {
+        "OS": "Android 7.1 Nougat",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "168g",
+        "dimensions": "154.7x75.7x8.5mm",
+        "material": "Aluminum + Glass",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 4.2", "NFC", "USB-C 3.1", "GPS/GLONASS"],
+      "media": {
+        "speakers": "Mono",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 2",
+      "release_year": 2017,
+      "price": 649,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 835, Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)",
+        "gpu": "Adreno 540",
+        "screen": {
+          "size": "5.0 inch",
+          "resolution": "1080x1920",
+          "refresh_rate": "60Hz",
+          "type": "AMOLED"
+        },
+        "battery": {
+          "capacity": "2700mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (Sony Exmor IMX362, f/1.8)",
+          "features": ["HDR+", "OIS", "EIS", "4K video", "Portrait Mode", "Laser autofocus"]
+        },
+        "front": {
+          "main": "8MP (f/2.4)",
+          "features": ["Portrait Mode"]
+        }
+      },
+      "colors": ["Kinda Blue", "Just Black", "Clearly White"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP67", "Active Edge", "Pixel Visual Core"],
+      "software": {
+        "OS": "Android 8.0 Oreo",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "143g",
+        "dimensions": "145.7x69.7x7.8mm",
+        "material": "Aluminum unibody + Hybrid coating",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 2 XL",
+      "release_year": 2017,
+      "price": 849,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 835, Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)",
+        "gpu": "Adreno 540",
+        "screen": {
+          "size": "6.0 inch",
+          "resolution": "1440x2880",
+          "refresh_rate": "60Hz",
+          "type": "P-OLED"
+        },
+        "battery": {
+          "capacity": "3520mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (Sony Exmor IMX362, f/1.8)",
+          "features": ["HDR+", "OIS", "EIS", "4K video", "Portrait Mode", "Laser autofocus"]
+        },
+        "front": {
+          "main": "8MP (f/2.4)",
+          "features": ["Portrait Mode"]
+        }
+      },
+      "colors": ["Just Black", "Black & White"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP67", "Active Edge", "Pixel Visual Core"],
+      "software": {
+        "OS": "Android 8.0 Oreo",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "175g",
+        "dimensions": "157.9x76.7x7.9mm",
+        "material": "Aluminum + Glass",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 3",
+      "release_year": 2018,
+      "price": 799,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 845, Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver)",
+        "gpu": "Adreno 630",
+        "screen": {
+          "size": "5.5 inch",
+          "resolution": "1080x2160",
+          "refresh_rate": "60Hz",
+          "type": "OLED (P-OLED)"
+        },
+        "battery": {
+          "capacity": "2915mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.8)",
+          "features": ["HDR+", "OIS", "EIS", "Night Sight", "Super Res Zoom", "Top Shot", "4K video"]
+        },
+        "front": {
+          "main": "8MP (f/1.8) + 8MP wide (f/2.2)",
+          "features": ["Portrait Mode", "Wide-angle selfie"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Not Pink"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP68", "Active Edge", "Pixel Visual Core", "Wireless Charging"],
+      "software": {
+        "OS": "Android 9.0 Pie",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo", "Google Recorder"]
+      },
+      "physical": {
+        "weight": "148g",
+        "dimensions": "145.6x68.2x7.9mm",
+        "material": "Glass front & back (Gorilla Glass 5), Aluminum frame",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo (front-facing)",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 3 XL",
+      "release_year": 2018,
+      "price": 899,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 845, Octa-core (4x2.5 GHz Kryo 385 Gold & 4x1.6 GHz Kryo 385 Silver)",
+        "gpu": "Adreno 630",
+        "screen": {
+          "size": "6.3 inch",
+          "resolution": "1440x2960",
+          "refresh_rate": "60Hz",
+          "type": "P-OLED (with notch)"
+        },
+        "battery": {
+          "capacity": "3430mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.8)",
+          "features": ["HDR+", "OIS", "EIS", "Night Sight", "Super Res Zoom", "Top Shot", "4K video"]
+        },
+        "front": {
+          "main": "8MP (f/1.8) + 8MP wide (f/2.2)",
+          "features": ["Portrait Mode", "Wide-angle selfie"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Not Pink"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP68", "Active Edge", "Pixel Visual Core", "Wireless Charging"],
+      "software": {
+        "OS": "Android 9.0 Pie",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo", "Google Recorder"]
+      },
+      "physical": {
+        "weight": "184g",
+        "dimensions": "158.0x76.7x7.9mm",
+        "material": "Glass front & back (Gorilla Glass 5), Aluminum frame",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo (front-facing)",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 3a",
+      "release_year": 2019,
+      "price": 399,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB"],
+        "cpu": "Qualcomm Snapdragon 670, Octa-core (2x2.0 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+        "gpu": "Adreno 615",
+        "screen": {
+          "size": "5.6 inch",
+          "resolution": "1080x2220",
+          "refresh_rate": "60Hz",
+          "type": "OLED"
+        },
+        "battery": {
+          "capacity": "3000mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.8)",
+          "features": ["HDR+", "OIS", "Night Sight", "Super Res Zoom", "Top Shot", "4K video"]
+        },
+        "front": {
+          "main": "8MP (f/2.0)",
+          "features": ["Portrait Mode"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Purple-ish"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP52", "Active Edge", "3.5mm Jack"],
+      "software": {
+        "OS": "Android 9.0 Pie",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "147g",
+        "dimensions": "151.3x70.1x8.2mm",
+        "material": "Polycarbonate body, Asahi Dragontrail Glass front",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Mono",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 3a XL",
+      "release_year": 2019,
+      "price": 479,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB"],
+        "cpu": "Qualcomm Snapdragon 670, Octa-core (2x2.0 GHz Kryo 360 Gold & 6x1.7 GHz Kryo 360 Silver)",
+        "gpu": "Adreno 615",
+        "screen": {
+          "size": "6.0 inch",
+          "resolution": "1080x2160",
+          "refresh_rate": "60Hz",
+          "type": "OLED"
+        },
+        "battery": {
+          "capacity": "3700mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.8)",
+          "features": ["HDR+", "OIS", "Night Sight", "Super Res Zoom", "Top Shot", "4K video"]
+        },
+        "front": {
+          "main": "8MP (f/2.0)",
+          "features": ["Portrait Mode"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Purple-ish"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP52", "Active Edge", "3.5mm Jack"],
+      "software": {
+        "OS": "Android 9.0 Pie",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo"]
+      },
+      "physical": {
+        "weight": "167g",
+        "dimensions": "160.4x75.1x8.2mm",
+        "material": "Polycarbonate body, Asahi Dragontrail Glass front",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Fingerprint (rear)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Mono",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps"]
+      },
+      "security": ["Fingerprint", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4",
+      "release_year": 2019,
+      "price": 799,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 855, Octa-core (1x2.84 GHz Kryo 485 + 3x2.42 GHz Kryo 485 + 4x1.78 GHz Kryo 485)",
+        "gpu": "Adreno 640",
+        "screen": {
+          "size": "5.7 inch",
+          "resolution": "1080x2280",
+          "refresh_rate": "90Hz",
+          "type": "OLED (P-OLED)"
+        },
+        "battery": {
+          "capacity": "2800mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7) + 16MP telephoto (f/2.4)",
+          "features": ["HDR+", "OIS", "EIS", "Night Sight", "Astrophotography", "Super Res Zoom", "Top Shot", "4K video", "Dual exposure controls"]
+        },
+        "front": {
+          "main": "8MP (f/2.0)",
+          "features": ["Portrait Mode", "Face Unlock (IR)"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Oh So Orange"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP68", "Motion Sense (Soli radar)", "Wireless Charging", "Pixel Neural Core"],
+      "software": {
+        "OS": "Android 10",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo", "Google Recorder"]
+      },
+      "physical": {
+        "weight": "162g",
+        "dimensions": "147.1x68.8x8.2mm",
+        "material": "Glass front & back (Gorilla Glass 5), Aluminum frame",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Face ID (IR)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Soli radar"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Face Unlock (IR)", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4 XL",
+      "release_year": 2019,
+      "price": 899,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB"],
+        "cpu": "Qualcomm Snapdragon 855, Octa-core (1x2.84 GHz Kryo 485 + 3x2.42 GHz Kryo 485 + 4x1.78 GHz Kryo 485)",
+        "gpu": "Adreno 640",
+        "screen": {
+          "size": "6.3 inch",
+          "resolution": "1440x3040",
+          "refresh_rate": "90Hz",
+          "type": "P-OLED"
+        },
+        "battery": {
+          "capacity": "3700mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7) + 16MP telephoto (f/2.4)",
+          "features": ["HDR+", "OIS", "EIS", "Night Sight", "Astrophotography", "Super Res Zoom", "Top Shot", "4K video", "Dual exposure controls"]
+        },
+        "front": {
+          "main": "8MP (f/2.0)",
+          "features": ["Portrait Mode", "Face Unlock (IR)"]
+        }
+      },
+      "colors": ["Just Black", "Clearly White", "Oh So Orange"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth 5.0", "NFC", "USB-C", "IP68", "Motion Sense (Soli radar)", "Wireless Charging", "Pixel Neural Core"],
+      "software": {
+        "OS": "Android 10",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": ["Google Assistant", "Google Photos", "Google Camera", "Duo", "Google Recorder"]
+      },
+      "physical": {
+        "weight": "193g",
+        "dimensions": "160.4x75.1x8.2mm",
+        "material": "Glass front & back (Gorilla Glass 5), Aluminum frame",
+        "SIM": "Single (Nano-SIM)"
+      },
+      "sensors": ["Face ID (IR)", "Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Soli radar"],
+      "connectivity": ["Wi-Fi 802.11 a/b/g/n/ac", "Bluetooth 5.0", "NFC", "USB-C 3.1", "GPS/GLONASS/BDS/GALILEO"],
+      "media": {
+        "speakers": "Stereo",
+        "audio": ["MP3", "AAC", "FLAC", "WAV"],
+        "video": ["4K@30fps", "1080p@120fps", "720p@240fps"]
+      },
+      "security": ["Face Unlock (IR)", "PIN", "Pattern", "Password"]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4a",
+      "release_year": 2020,
+      "price": 349,
+      "hardware": {
+        "ram": "6GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Qualcomm Snapdragon 730G (8nm), Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver)",
+        "gpu": "Adreno 618",
+        "screen": {
+          "size": "5.81 inch",
+          "resolution": "1080x2340",
+          "refresh_rate": "60Hz",
+          "type": "OLED (HDR)"
+        },
+        "battery": {
+          "capacity": "3140mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "Night Sight",
+            "Astrophotography",
+            "Super Res Zoom",
+            "Top Shot",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 1.12µm)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Just Black",
+        "Barely Blue"
+      ],
+      "features": [
+        "4G LTE",
+        "Wi-Fi",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C",
+        "3.5mm Jack",
+        "Titan M security chip",
+        "Fingerprint (rear)"
+      ],
+      "software": {
+        "OS": "Android 10",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder"
+        ]
+      },
+      "physical": {
+        "weight": "143g",
+        "dimensions": "144x69.4x8.2mm",
+        "material": "Gorilla Glass 3 front, Polycarbonate back & frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Fingerprint (rear)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C 2.0",
+        "GPS/GLONASS/BDS/GALILEO"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@30fps",
+          "1080p@120fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 4a 5G",
+      "release_year": 2020,
+      "price": 499,
+      "hardware": {
+        "ram": "6GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Qualcomm Snapdragon 765G (7nm), Octa-core (1x2.4 GHz Kryo 475 Prime + 1x2.2 GHz Kryo 475 Gold + 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620",
+        "screen": {
+          "size": "6.2 inch",
+          "resolution": "1080x2340",
+          "refresh_rate": "60Hz",
+          "type": "OLED (HDR)"
+        },
+        "battery": {
+          "capacity": "3885mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS) + 16MP ultrawide (f/2.2, 1.0µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "Night Sight",
+            "Astrophotography",
+            "Super Res Zoom",
+            "Top Shot",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 1.12µm)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Just Black",
+        "Clearly White"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C",
+        "3.5mm Jack",
+        "Titan M security chip",
+        "Fingerprint (rear)"
+      ],
+      "software": {
+        "OS": "Android 11",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder"
+        ]
+      },
+      "physical": {
+        "weight": "168g",
+        "dimensions": "153.9x74x8.2mm",
+        "material": "Gorilla Glass 3 front, Polycarbonate back & frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Fingerprint (rear)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C 2.0",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@30fps",
+          "1080p@120fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 5",
+      "release_year": 2020,
+      "price": 699,
+      "hardware": {
+        "ram": "8GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Qualcomm Snapdragon 765G (7nm), Octa-core (1x2.4 GHz Kryo 475 Prime + 1x2.2 GHz Kryo 475 Gold + 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620",
+        "screen": {
+          "size": "6.0 inch",
+          "resolution": "1080x2340",
+          "refresh_rate": "90Hz",
+          "type": "OLED (HDR10+)"
+        },
+        "battery": {
+          "capacity": "4080mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS) + 16MP ultrawide (f/2.2, 1.0µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Super Res Zoom",
+            "Top Shot",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 1.12µm)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Just Black",
+        "Sorta Sage"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C",
+        "IP68",
+        "Wireless Charging",
+        "Reverse Wireless Charging",
+        "Titan M security chip",
+        "Fingerprint (rear)"
+      ],
+      "software": {
+        "OS": "Android 11",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder"
+        ]
+      },
+      "physical": {
+        "weight": "151g",
+        "dimensions": "144.7x70.4x8.0mm",
+        "material": "Gorilla Glass 6 front, 100% Recycled Aluminum back & frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Fingerprint (rear)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C 3.1",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@30fps",
+          "1080p@120fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M chip"
+      ]
+    }
+  ]
+}
