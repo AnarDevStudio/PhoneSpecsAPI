@@ -30,3 +30,7 @@ nlohmann::json PhoneBrandEndpoints::getApple() {
 nlohmann::json PhoneBrandEndpoints::getXiaomi() {
     return readJsonFile(file_path + "xiaomi_data.json");
 }
+
+nlohmann::json PhoneBrandEndpoints::getGoogle() {
+    return readJsonFile(file_path + "google_data.json");
+}

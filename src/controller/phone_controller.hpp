@@ -6,3 +6,4 @@
 void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
 void registerAppleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
 void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);  //Selamma hahahahahah
+void registerGoogleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);  //Selamma hahahahahah
