@@ -904,6 +904,629 @@
         "Password",
         "Titan M chip"
       ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 5",
+      "release_year": 2020,
+      "price": 699,
+      "hardware": {
+        "ram": "8GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Qualcomm Snapdragon 765G (7nm), Octa-core (1x2.4 GHz Kryo 475 Prime + 1x2.2 GHz Kryo 475 Gold + 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620",
+        "screen": {
+          "size": "6.0 inch",
+          "resolution": "1080x2340",
+          "refresh_rate": "90Hz",
+          "type": "OLED (HDR10+)"
+        },
+        "battery": {
+          "capacity": "4080mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS) + 16MP ultrawide (f/2.2, 1.0µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Super Res Zoom",
+            "Top Shot",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 1.12µm)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Just Black",
+        "Sorta Sage"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C",
+        "IP68",
+        "Wireless Charging",
+        "Reverse Wireless Charging",
+        "Titan M security chip",
+        "Fingerprint (rear)"
+      ],
+      "software": {
+        "OS": "Android 11",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder"
+        ]
+      },
+      "physical": {
+        "weight": "151g",
+        "dimensions": "144.7x70.4x8.0mm",
+        "material": "Gorilla Glass 6 front, 100% Recycled Aluminum back & frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Fingerprint (rear)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C 3.1",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@30fps",
+          "1080p@120fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 5a 5G",
+      "release_year": 2021,
+      "price": 449,
+      "hardware": {
+        "ram": "6GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Qualcomm Snapdragon 765G (7nm), Octa-core (1x2.4 GHz Kryo 475 Prime + 1x2.2 GHz Kryo 475 Gold + 6x1.8 GHz Kryo 475 Silver)",
+        "gpu": "Adreno 620",
+        "screen": {
+          "size": "6.34 inch",
+          "resolution": "1080x2400",
+          "refresh_rate": "60Hz",
+          "type": "OLED (HDR)"
+        },
+        "battery": {
+          "capacity": "4680mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS) + 16MP ultrawide (f/2.2, 119°, 1.0µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Super Res Zoom",
+            "Top Shot",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 83°)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Mostly Black"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C",
+        "IP67",
+        "3.5mm Jack",
+        "Titan M security chip",
+        "Fingerprint (rear)"
+      ],
+      "software": {
+        "OS": "Android 11",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder"
+        ]
+      },
+      "physical": {
+        "weight": "183g",
+        "dimensions": "154.9x73.7x7.6mm",
+        "material": "Gorilla Glass 3 front, Aluminum back & frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Fingerprint (rear)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac",
+        "Bluetooth 5.0",
+        "NFC",
+        "USB-C 3.1",
+        "GPS/GLONASS/BDS/GALILEO/QZSS",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@30fps",
+          "1080p@120fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6",
+      "release_year": 2021,
+      "price": 599,
+      "hardware": {
+        "ram": "8GB",
+        "storage": [
+          "128GB",
+          "256GB"
+        ],
+        "cpu": "Google Tensor (5nm), Octa-core (2x2.80 GHz Cortex-X1 + 2x2.25 GHz Cortex-A76 + 4x1.80 GHz Cortex-A55)",
+        "gpu": "Mali-G78 MP20",
+        "screen": {
+          "size": "6.4 inch",
+          "resolution": "1080x2400",
+          "refresh_rate": "90Hz",
+          "type": "AMOLED (HDR10+)"
+        },
+        "battery": {
+          "capacity": "4614mAh",
+          "fast_charging": "Yes (23W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "50MP (f/1.85, 1.2µm, PDAF, OIS) + 12MP ultrawide (f/2.2, 114°, 1.25µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Magic Eraser",
+            "Face Unblur",
+            "Motion Mode",
+            "Real Tone",
+            "Super Res Zoom",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0, 84°)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR",
+            "Face Unblur"
+          ]
+        }
+      },
+      "colors": [
+        "Stormy Black",
+        "Sorta Seafoam",
+        "Kinda Coral"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi 6E",
+        "Bluetooth 5.2",
+        "NFC",
+        "USB-C",
+        "IP68",
+        "Wireless Charging",
+        "Reverse Wireless Charging",
+        "Titan M2 security chip",
+        "Under-display Fingerprint"
+      ],
+      "software": {
+        "OS": "Android 12",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder",
+          "Magic Eraser"
+        ]
+      },
+      "physical": {
+        "weight": "207g",
+        "dimensions": "158.6x74.8x8.9mm",
+        "material": "Gorilla Glass Victus front & back, Polished Aluminum frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Under-display Fingerprint (optical)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac/ax (Wi-Fi 6E)",
+        "Bluetooth 5.2",
+        "NFC",
+        "USB-C 3.2",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@60fps",
+          "1080p@240fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Under-display Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M2 chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6 Pro",
+      "release_year": 2021,
+      "price": 899,
+      "hardware": {
+        "ram": "12GB",
+        "storage": [
+          "128GB",
+          "256GB",
+          "512GB"
+        ],
+        "cpu": "Google Tensor (5nm), Octa-core (2x2.80 GHz Cortex-X1 + 2x2.25 GHz Cortex-A76 + 4x1.80 GHz Cortex-A55)",
+        "gpu": "Mali-G78 MP20",
+        "screen": {
+          "size": "6.7 inch",
+          "resolution": "1440x3120",
+          "refresh_rate": "120Hz (LTPO, adaptive 10-120Hz)",
+          "type": "LTPO AMOLED (HDR10+, curved)"
+        },
+        "battery": {
+          "capacity": "5003mAh",
+          "fast_charging": "Yes (23W)",
+          "wireless_charging": true
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "50MP wide (f/1.85, 1.2µm, PDAF, OIS) + 12MP ultrawide (f/2.2, 114°, 1.25µm) + 48MP telephoto 4x (f/3.5, OIS)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Magic Eraser",
+            "Face Unblur",
+            "Motion Mode",
+            "Real Tone",
+            "Super Res Zoom",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video",
+            "4x Optical Zoom",
+            "20x Super Res Zoom"
+          ]
+        },
+        "front": {
+          "main": "11.1MP (f/2.2, 94° ultrawide)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR",
+            "Face Unblur",
+            "4K video"
+          ]
+        }
+      },
+      "colors": [
+        "Stormy Black",
+        "Cloudy White",
+        "Sorta Sunny"
+      ],
+      "features": [
+        "5G Sub-6 & mmWave",
+        "4G LTE",
+        "Wi-Fi 6E",
+        "Bluetooth 5.2",
+        "NFC",
+        "USB-C",
+        "IP68",
+        "Wireless Charging",
+        "Reverse Wireless Charging",
+        "Titan M2 security chip",
+        "Under-display Fingerprint"
+      ],
+      "software": {
+        "OS": "Android 12",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder",
+          "Magic Eraser"
+        ]
+      },
+      "physical": {
+        "weight": "210g",
+        "dimensions": "163.9x75.9x8.9mm",
+        "material": "Gorilla Glass Victus front & back, Polished Aluminum frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Under-display Fingerprint (optical)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac/ax (Wi-Fi 6E)",
+        "Bluetooth 5.2",
+        "NFC",
+        "USB-C 3.2",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz & mmWave"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@60fps",
+          "1080p@240fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Under-display Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M2 chip"
+      ]
+    },
+    {
+      "brand": "Google",
+      "model": "Pixel 6a",
+      "release_year": 2022,
+      "price": 449,
+      "hardware": {
+        "ram": "6GB",
+        "storage": [
+          "128GB"
+        ],
+        "cpu": "Google Tensor (5nm), Octa-core (2x2.80 GHz Cortex-X1 + 2x2.25 GHz Cortex-A76 + 4x1.80 GHz Cortex-A55)",
+        "gpu": "Mali-G78 MP20",
+        "screen": {
+          "size": "6.1 inch",
+          "resolution": "1080x2400",
+          "refresh_rate": "60Hz",
+          "type": "OLED (HDR)"
+        },
+        "battery": {
+          "capacity": "4410mAh",
+          "fast_charging": "Yes (18W)",
+          "wireless_charging": false
+        }
+      },
+      "camera": {
+        "rear": {
+          "main": "12.2MP (f/1.7, 1.4µm, dual pixel PDAF, OIS) + 12MP ultrawide (f/2.2, 114°, 1.25µm)",
+          "features": [
+            "HDR+",
+            "OIS",
+            "EIS",
+            "Night Sight",
+            "Astrophotography",
+            "Magic Eraser",
+            "Real Tone",
+            "Super Res Zoom",
+            "Portrait Mode",
+            "Live HDR+",
+            "4K video"
+          ]
+        },
+        "front": {
+          "main": "8MP (f/2.0)",
+          "features": [
+            "Portrait Mode",
+            "Auto-HDR"
+          ]
+        }
+      },
+      "colors": [
+        "Chalk",
+        "Charcoal",
+        "Sage"
+      ],
+      "features": [
+        "5G Sub-6",
+        "4G LTE",
+        "Wi-Fi 6E",
+        "Bluetooth 5.3",
+        "NFC",
+        "USB-C",
+        "IP67",
+        "Titan M2 security chip",
+        "Under-display Fingerprint"
+      ],
+      "software": {
+        "OS": "Android 12",
+        "UI": "Pixel Launcher",
+        "SecurityPatch": "Monthly",
+        "preinstalled_apps": [
+          "Google Assistant",
+          "Google Photos",
+          "Google Camera",
+          "Duo",
+          "Google Recorder",
+          "Magic Eraser"
+        ]
+      },
+      "physical": {
+        "weight": "178g",
+        "dimensions": "152.2x71.8x8.1mm",
+        "material": "Gorilla Glass 3 front, Polycarbonate back, Aluminum frame",
+        "SIM": "Single (Nano-SIM / eSIM)"
+      },
+      "sensors": [
+        "Under-display Fingerprint (optical)",
+        "Accelerometer",
+        "Gyroscope",
+        "Proximity",
+        "Compass",
+        "Barometer"
+      ],
+      "connectivity": [
+        "Wi-Fi 802.11 a/b/g/n/ac/ax (Wi-Fi 6E)",
+        "Bluetooth 5.3",
+        "NFC",
+        "USB-C 3.2",
+        "GPS/GLONASS/BDS/GALILEO",
+        "5G Sub-6GHz"
+      ],
+      "media": {
+        "speakers": "Stereo",
+        "audio": [
+          "MP3",
+          "AAC",
+          "FLAC",
+          "WAV"
+        ],
+        "video": [
+          "4K@60fps",
+          "1080p@240fps",
+          "720p@240fps"
+        ]
+      },
+      "security": [
+        "Under-display Fingerprint",
+        "PIN",
+        "Pattern",
+        "Password",
+        "Titan M2 chip"
+      ]
     }
+ 
   ]
 }
