@@ -204,7 +204,7 @@ void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
 }
 
 
-void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
+void registerGoogleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
 
     CROW_ROUTE(app, "/google")
     ([&phoneEndpoints]() {

@@ -8,6 +8,7 @@ int main() {
     registerSamsungRoute(app, phoneEndpoints);
     registerAppleRoute(app, phoneEndpoints);
     registerXiaomiRoute(app, phoneEndpoints);
+    registerGoogleRoute(app, phoneEndpoints);
 
     app.port(8080).multithreaded().run();
 
