@@ -6,12 +6,14 @@
 
 class PhoneBrandEndpoints {
 public:
+
     nlohmann::json getSamsung();
     nlohmann::json getApple();
     nlohmann::json getXiaomi();
     nlohmann::json getGoogle();
     nlohmann::json getHuawei();
-    nlohmann::json getNokia();
+    nlohmann::json getNokia();   
+    nlohmann::json getAllModels();
 
 private:
     nlohmann::json readJsonFile(const std::string& path);

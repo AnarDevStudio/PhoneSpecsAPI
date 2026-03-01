@@ -39,3 +39,7 @@ nlohmann::json PhoneBrandEndpoints::getNokia() {
     return readJsonFile(file_path + "nokia_data.json");
 }
 
+nlohmann::json PhoneBrandEndpoints::getHuawei() {
+    return readJsonFile(file_path + "huawei_data.json");
+}
+

@@ -1,0 +1,1136 @@
+{
+  "phones": [
+    {
+      "brand": "Huawei",
+      "model": "Huawei U8220",
+      "release_year": 2009,
+      "price": 250,
+      "hardware": {
+        "ram": "192MB",
+        "storage": ["512MB", "microSD"],
+        "cpu": "Qualcomm MSM7201A 528MHz",
+        "gpu": "N/A",
+        "screen": {"size": "3.5 inch", "resolution": "480x320 TFT", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1100mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "3.2MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Fixed Focus"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "Android"],
+      "software": {"OS": "Android 1.5", "UI": "Stock Android", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "120g", "dimensions": "111x57x14mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM/UMTS", "Wi-Fi b/g", "Bluetooth 2.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Ascend P1",
+      "release_year": 2012,
+      "price": 399,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["4GB", "microSD"],
+        "cpu": "TI OMAP 4460 1.5GHz Dual-Core",
+        "gpu": "PowerVR SGX540",
+        "screen": {"size": "4.3 inch", "resolution": "540x960 Super AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1800mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "1.3MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G HSPA+", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Ultra Thin 7.69mm"],
+      "software": {"OS": "Android 4.0", "UI": "Emotion UI 1.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Huawei AppStore"]},
+      "physical": {"weight": "110g", "dimensions": "123.9x63x7.69mm", "material": "Aluminum", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/HSPA+", "Wi-Fi b/g/n", "Bluetooth 3.0", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Ascend D Quad",
+      "release_year": 2012,
+      "price": 450,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["8GB"],
+        "cpu": "Huawei K3V2 1.5GHz Quad-Core",
+        "gpu": "Vivante GC4000",
+        "screen": {"size": "4.5 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2600mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "1.3MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G HSPA+", "Wi-Fi", "GPS", "Bluetooth", "Quad-Core Processor"],
+      "software": {"OS": "Android 4.0", "UI": "Emotion UI 1.0", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "170g", "dimensions": "136.5x68.5x9.9mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/HSPA+", "Wi-Fi b/g/n", "Bluetooth 3.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Ascend P2",
+      "release_year": 2013,
+      "price": 399,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["16GB"],
+        "cpu": "Huawei K3V2E 1.5GHz Quad-Core",
+        "gpu": "Vivante GC4000",
+        "screen": {"size": "4.7 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2420mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "1.3MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Ultra Fast LTE"],
+      "software": {"OS": "Android 4.1", "UI": "Emotion UI 1.5", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "118g", "dimensions": "131x65x8.3mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi b/g/n", "Bluetooth 3.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Ascend P6",
+      "release_year": 2013,
+      "price": 449,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["8GB", "microSD"],
+        "cpu": "Huawei K3V2E 1.5GHz Quad-Core",
+        "gpu": "Vivante GC4000",
+        "screen": {"size": "4.7 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP BSI", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p", "HDR"]},
+        "front": {"main": "5MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Black", "White", "Pink"],
+      "features": ["3G HSPA+", "Wi-Fi", "GPS", "Bluetooth", "Ultra Slim 6.18mm", "Beauty Selfie"],
+      "software": {"OS": "Android 4.2", "UI": "Emotion UI 1.6", "SecurityPatch": "N/A", "preinstalled_apps": ["Huawei AppStore"]},
+      "physical": {"weight": "120g", "dimensions": "132.7x65.5x6.18mm", "material": "Metal", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/HSPA+", "Wi-Fi b/g/n", "Bluetooth 4.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate",
+      "release_year": 2013,
+      "price": 399,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["8GB", "microSD"],
+        "cpu": "Huawei K3V2E 1.5GHz Quad-Core",
+        "gpu": "Vivante GC4000",
+        "screen": {"size": "6.1 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4050mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "1MP", "features": []}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G HSPA+", "Wi-Fi", "GPS", "Bluetooth", "Large Battery", "Phablet"],
+      "software": {"OS": "Android 4.1", "UI": "Emotion UI 1.6", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "198g", "dimensions": "163.5x86.3x9.9mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/HSPA+", "Wi-Fi b/g/n", "Bluetooth 4.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Ascend P7",
+      "release_year": 2014,
+      "price": 449,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "microSD"],
+        "cpu": "Huawei Kirin 910T 1.8GHz Quad-Core",
+        "gpu": "Mali-450 MP4",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2500mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p", "HDR"]},
+        "front": {"main": "8MP", "features": ["Wide Angle", "Beauty Mode"]}
+      },
+      "colors": ["Black", "White", "Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Ultra Slim 6.5mm"],
+      "software": {"OS": "Android 4.4", "UI": "Emotion UI 2.3", "SecurityPatch": "N/A", "preinstalled_apps": ["Huawei AppStore", "HiSuite"]},
+      "physical": {"weight": "124g", "dimensions": "137x68.8x6.5mm", "material": "Gorilla Glass 3 + Metal Frame", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi b/g/n", "Bluetooth 4.0", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 2",
+      "release_year": 2014,
+      "price": 399,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "microSD"],
+        "cpu": "Huawei Kirin 910T 1.6GHz Quad-Core",
+        "gpu": "Mali-450 MP4",
+        "screen": {"size": "6.1 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4050mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "5MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Black", "White", "Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Reverse Wireless Charging", "4050mAh Battery"],
+      "software": {"OS": "Android 4.3", "UI": "Emotion UI 2.0", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "198g", "dimensions": "162.5x85x9.5mm", "material": "Plastic", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi b/g/n", "Bluetooth 4.0", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Honor 6",
+      "release_year": 2014,
+      "price": 349,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["16GB", "32GB"],
+        "cpu": "Huawei Kirin 920 1.7GHz Octa-Core",
+        "gpu": "Mali-T628 MP4",
+        "screen": {"size": "5.0 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3100mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p", "OIS"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "White", "Red"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Octa-Core Kirin"],
+      "software": {"OS": "Android 4.4", "UI": "Emotion UI 2.3", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "130g", "dimensions": "139x69.4x7.5mm", "material": "Metal", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.0", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P8",
+      "release_year": 2015,
+      "price": 499,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["16GB", "64GB"],
+        "cpu": "Huawei Kirin 930 2.0GHz Octa-Core",
+        "gpu": "Mali-T628 MP4",
+        "screen": {"size": "5.2 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2680mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP f/2.0", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Autofocus", "Flash", "1080p", "HDR"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Titanium Grey", "Prestige Gold", "Mystic Champagne", "Moonlight Silver"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Ultra Slim 6.4mm", "Light Painting"],
+      "software": {"OS": "Android 5.0", "UI": "Emotion UI 3.1", "SecurityPatch": "N/A", "preinstalled_apps": ["HiSuite", "Huawei AppStore"]},
+      "physical": {"weight": "144g", "dimensions": "144.9x70.6x6.4mm", "material": "Aluminum", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.1", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate S",
+      "release_year": 2015,
+      "price": 649,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB"],
+        "cpu": "Huawei Kirin 935 2.2GHz Octa-Core",
+        "gpu": "Mali-T628 MP4",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2700mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP f/2.0", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Autofocus", "Flash", "4K Video"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Titanium Grey", "Prestige Gold", "Rose Gold", "Mystic Champagne"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Force Touch", "Fingerprint", "AMOLED"],
+      "software": {"OS": "Android 5.1", "UI": "Emotion UI 3.1", "SecurityPatch": "N/A", "preinstalled_apps": ["HiSuite"]},
+      "physical": {"weight": "177g", "dimensions": "149.8x75.3x7.2mm", "material": "Aluminum", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Force Touch"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.1", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 7",
+      "release_year": 2015,
+      "price": 529,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["16GB", "32GB", "microSD"],
+        "cpu": "Huawei Kirin 925 1.8GHz Octa-Core",
+        "gpu": "Mali-T628 MP4",
+        "screen": {"size": "6.0 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4100mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP f/2.0", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Autofocus", "Flash", "4K Video"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Black", "Amber Gold", "Moonlight Silver", "Mystique Champagne"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "4100mAh Battery"],
+      "software": {"OS": "Android 4.4", "UI": "Emotion UI 3.0", "SecurityPatch": "N/A", "preinstalled_apps": []},
+      "physical": {"weight": "185g", "dimensions": "157x81x7.9mm", "material": "Aluminum", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.1", "NFC", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P9",
+      "release_year": 2016,
+      "price": 569,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Huawei Kirin 955 2.5GHz Octa-Core",
+        "gpu": "Mali-T880 MP4",
+        "screen": {"size": "5.2 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP Leica f/2.2 Dual", "ultrawide": "None", "telephoto": "12MP Leica Monochrome", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "Monochrome Mode"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Prestige Gold", "Mystic Silver", "Titanium Grey", "Rose Gold", "Ceramic White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "USB-C"],
+      "software": {"OS": "Android 6.0", "UI": "Emotion UI 4.1", "SecurityPatch": "2016-05", "preinstalled_apps": ["HiSuite", "Phone Clone"]},
+      "physical": {"weight": "144g", "dimensions": "145x70.9x6.95mm", "material": "Aluminum", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P9 Plus",
+      "release_year": 2016,
+      "price": 649,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Huawei Kirin 955 2.5GHz Octa-Core",
+        "gpu": "Mali-T880 MP4",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP Leica f/2.2 Dual", "ultrawide": "None", "telephoto": "12MP Leica Monochrome", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Prestige Gold", "Mystic Silver", "Titanium Grey", "Rose Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "USB-C", "Force Touch", "AMOLED"],
+      "software": {"OS": "Android 6.0", "UI": "Emotion UI 4.1", "SecurityPatch": "2016-05", "preinstalled_apps": ["HiSuite"]},
+      "physical": {"weight": "162g", "dimensions": "152x75.3x6.98mm", "material": "Aluminum", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Force Touch"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 9",
+      "release_year": 2016,
+      "price": 699,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Huawei Kirin 960 2.4GHz Octa-Core",
+        "gpu": "Mali-G71 MP8",
+        "screen": {"size": "5.9 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "20MP Leica Monochrome", "ultrawide": "None", "telephoto": "12MP Leica Color", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "Bokeh"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Titanium Grey", "Champagne Gold", "Moonlight Silver", "Space Grey"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "SuperCharge", "USB-C"],
+      "software": {"OS": "Android 7.0", "UI": "Emotion UI 5.0", "SecurityPatch": "2016-11", "preinstalled_apps": ["HiSuite", "Phone Clone"]},
+      "physical": {"weight": "190g", "dimensions": "156.9x78.9x7.9mm", "material": "Aluminum 6000 Series", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P10",
+      "release_year": 2017,
+      "price": 599,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Huawei Kirin 960 2.4GHz Octa-Core",
+        "gpu": "Mali-G71 MP8",
+        "screen": {"size": "5.1 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3200mAh", "fast_charging": "SuperCharge 18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "20MP Leica Monochrome", "ultrawide": "None", "telephoto": "12MP Leica Color f/2.2", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "Portrait Mode"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Dazzling Blue", "Dazzling Gold", "Graphite Black", "Rose Gold", "Greenery", "Mystic Silver", "Ceramic White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "USB-C"],
+      "software": {"OS": "Android 7.0", "UI": "Emotion UI 5.1", "SecurityPatch": "2017-03", "preinstalled_apps": ["HiSuite", "Phone Clone"]},
+      "physical": {"weight": "145g", "dimensions": "145.3x69.3x6.98mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P10 Plus",
+      "release_year": 2017,
+      "price": 699,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Huawei Kirin 960 2.4GHz Octa-Core",
+        "gpu": "Mali-G71 MP8",
+        "screen": {"size": "5.5 inch", "resolution": "1440x2560 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3750mAh", "fast_charging": "SuperCharge 18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "20MP Leica Monochrome", "ultrawide": "None", "telephoto": "12MP Leica Color f/1.8", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "Portrait Mode"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Dazzling Blue", "Dazzling Gold", "Graphite Black", "Rose Gold", "Greenery", "Ceramic White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "USB-C", "QHD"],
+      "software": {"OS": "Android 7.0", "UI": "Emotion UI 5.1", "SecurityPatch": "2017-03", "preinstalled_apps": ["HiSuite"]},
+      "physical": {"weight": "165g", "dimensions": "153.5x74.2x6.98mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 10",
+      "release_year": 2017,
+      "price": 699,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Huawei Kirin 970 2.4GHz Octa-Core",
+        "gpu": "Mali-G72 MP12",
+        "screen": {"size": "5.9 inch", "resolution": "1440x2560 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "20MP Leica Monochrome f/1.6", "ultrawide": "None", "telephoto": "12MP Leica Color f/1.6", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "AI Camera"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode"]}
+      },
+      "colors": ["Black", "Mocha Brown", "Pink Gold", "Champagne Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Fingerprint", "Leica Dual Camera", "AI NPU", "USB-C"],
+      "software": {"OS": "Android 8.0", "UI": "Emotion UI 8.0", "SecurityPatch": "2017-10", "preinstalled_apps": ["HiSuite", "Phone Clone", "HiVoice"]},
+      "physical": {"weight": "186g", "dimensions": "150.5x77.8x7.9mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 10 Pro",
+      "release_year": 2017,
+      "price": 799,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB"],
+        "cpu": "Huawei Kirin 970 2.4GHz Octa-Core",
+        "gpu": "Mali-G72 MP12",
+        "screen": {"size": "6.0 inch", "resolution": "1080x2160 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "20MP Leica Monochrome f/1.6", "ultrawide": "None", "telephoto": "12MP Leica Color f/1.6", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "Autofocus", "Flash", "4K Video", "AI Camera"]},
+        "front": {"main": "8MP", "features": ["Beauty Mode", "3D Portrait"]}
+      },
+      "colors": ["Titanium Grey", "Midnight Blue", "Mocha Brown", "Pink Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 4.2", "NFC", "IP67", "Fingerprint", "Leica Dual Camera", "AI NPU", "USB-C", "OLED"],
+      "software": {"OS": "Android 8.0", "UI": "Emotion UI 8.0", "SecurityPatch": "2017-10", "preinstalled_apps": ["HiSuite", "HiVoice"]},
+      "physical": {"weight": "178g", "dimensions": "154.2x74.5x7.9mm", "material": "Aluminum + Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock", "IP67"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P20",
+      "release_year": 2018,
+      "price": 649,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB"],
+        "cpu": "Huawei Kirin 970 2.4GHz Octa-Core",
+        "gpu": "Mali-G72 MP12",
+        "screen": {"size": "5.8 inch", "resolution": "1080x2244 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP Leica Color f/1.8", "ultrawide": "None", "telephoto": "20MP Leica Monochrome", "periscope": "None", "features": ["Leica Dual Camera", "OIS", "AI Camera", "Night Mode", "HDR", "4K Video"]},
+        "front": {"main": "24MP f/2.0", "features": ["Beauty Mode", "3D Portrait"]}
+      },
+      "colors": ["Black", "Midnight Blue", "Pink Gold", "Champagne Gold", "Twilight"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 4.2", "NFC", "IP53", "Fingerprint", "Leica Dual Camera", "AI Camera", "USB-C"],
+      "software": {"OS": "Android 8.1", "UI": "Emotion UI 8.1", "SecurityPatch": "2018-04", "preinstalled_apps": ["HiSuite", "Phone Clone", "HiVoice"]},
+      "physical": {"weight": "165g", "dimensions": "149.1x70.8x7.65mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock", "IP53"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P20 Pro",
+      "release_year": 2018,
+      "price": 899,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB"],
+        "cpu": "Huawei Kirin 970 2.4GHz Octa-Core",
+        "gpu": "Mali-G72 MP12",
+        "screen": {"size": "6.1 inch", "resolution": "1080x2240 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica f/1.8", "ultrawide": "20MP Monochrome f/1.6", "telephoto": "8MP Leica f/2.4 OIS", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "5x Optical Zoom"]},
+        "front": {"main": "24MP f/2.0", "features": ["Beauty Mode", "3D Portrait"]}
+      },
+      "colors": ["Black", "Midnight Blue", "Pink Gold", "Twilight", "Morpho Aurora"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 4.2", "NFC", "IP67", "Fingerprint", "Leica Triple Camera", "AI Camera", "USB-C"],
+      "software": {"OS": "Android 8.1", "UI": "Emotion UI 8.1", "SecurityPatch": "2018-04", "preinstalled_apps": ["HiSuite", "Phone Clone"]},
+      "physical": {"weight": "180g", "dimensions": "155x73.9x7.8mm", "material": "Aluminum + Gorilla Glass 3", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 4.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock", "IP67"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 20",
+      "release_year": 2018,
+      "price": 799,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "NM Card"],
+        "cpu": "Huawei Kirin 980 2.6GHz Octa-Core",
+        "gpu": "Mali-G76 MP10",
+        "screen": {"size": "6.53 inch", "resolution": "1080x2244 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP Leica f/1.8 Wide", "ultrawide": "16MP Leica f/2.2 Ultrawide", "telephoto": "8MP Leica f/2.4 3x Zoom", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "Macro Mode"]},
+        "front": {"main": "24MP f/2.0", "features": ["3D Face Unlock"]}
+      },
+      "colors": ["Black", "Midnight Blue", "Phantom Silver", "Emerald Green", "Twilight"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "IP53", "Fingerprint", "Leica Triple Camera", "Reverse Wireless Charging", "USB-C"],
+      "software": {"OS": "Android 9.0", "UI": "Emotion UI 9.0", "SecurityPatch": "2018-10", "preinstalled_apps": ["HiSuite", "Phone Clone", "HiVoice"]},
+      "physical": {"weight": "188g", "dimensions": "158.2x77.2x8.3mm", "material": "Aluminum + Gorilla Glass 3", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "NFC"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "3D Face Unlock", "PIN Lock", "IP53"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 20 Pro",
+      "release_year": 2018,
+      "price": 1049,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "NM Card"],
+        "cpu": "Huawei Kirin 980 2.6GHz Octa-Core",
+        "gpu": "Mali-G76 MP10",
+        "screen": {"size": "6.39 inch", "resolution": "1440x3120 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica f/1.8 Wide", "ultrawide": "20MP Leica f/2.2 Ultrawide", "telephoto": "8MP Leica f/2.4 OIS 3x", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "5x Hybrid Zoom", "Macro"]},
+        "front": {"main": "24MP f/2.0", "features": ["3D Face Unlock", "IR"]}
+      },
+      "colors": ["Black", "Midnight Blue", "Twilight", "Emerald Green", "Morpho Aurora"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "IP68", "In-Display Fingerprint", "Leica Triple Camera", "3D Face Unlock", "Reverse Wireless Charging", "USB-C"],
+      "software": {"OS": "Android 9.0", "UI": "Emotion UI 9.0", "SecurityPatch": "2018-10", "preinstalled_apps": ["HiSuite", "Phone Clone", "HiVoice"]},
+      "physical": {"weight": "189g", "dimensions": "157.8x72.3x8.6mm", "material": "Aluminum + Gorilla Glass 5", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P30",
+      "release_year": 2019,
+      "price": 799,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "NM Card"],
+        "cpu": "Huawei Kirin 980 2.6GHz Octa-Core",
+        "gpu": "Mali-G76 MP10",
+        "screen": {"size": "6.1 inch", "resolution": "1080x2340 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3650mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica f/1.8 RYYB", "ultrawide": "16MP Leica f/2.2", "telephoto": "8MP Leica f/2.4 OIS 3x", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "5x Hybrid Zoom"]},
+        "front": {"main": "32MP f/2.0", "features": ["4K Video", "Face Unlock"]}
+      },
+      "colors": ["Black", "Breathing Crystal", "Aurora", "Pearl White", "Amber Sunrise"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "IP53", "Fingerprint", "Leica Triple Camera", "RYYB Sensor", "USB-C"],
+      "software": {"OS": "Android 9.0", "UI": "Emotion UI 9.1", "SecurityPatch": "2019-03", "preinstalled_apps": ["HiSuite", "Phone Clone", "Google Play Store"]},
+      "physical": {"weight": "165g", "dimensions": "149.1x71.4x7.57mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock", "IP53"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P30 Pro",
+      "release_year": 2019,
+      "price": 999,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "512GB", "NM Card"],
+        "cpu": "Huawei Kirin 980 2.6GHz Octa-Core",
+        "gpu": "Mali-G76 MP10",
+        "screen": {"size": "6.47 inch", "resolution": "1080x2340 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica f/1.6 RYYB", "ultrawide": "20MP Leica f/2.2", "telephoto": "8MP Leica Periscope f/3.4 OIS 5x", "periscope": "8MP f/3.4 5x Optical", "features": ["Leica Quad Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "10x Hybrid Zoom", "50x Digital Zoom", "TOF Depth"]},
+        "front": {"main": "32MP f/2.0", "features": ["4K Video", "3D Face Unlock"]}
+      },
+      "colors": ["Black", "Breathing Crystal", "Aurora", "Pearl White", "Amber Sunrise", "Misty Lavender"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "IP68", "In-Display Fingerprint", "Leica Quad Camera", "Periscope Zoom", "Reverse Wireless Charging", "USB-C"],
+      "software": {"OS": "Android 9.0", "UI": "Emotion UI 9.1", "SecurityPatch": "2019-03", "preinstalled_apps": ["HiSuite", "Phone Clone", "Google Play Store"]},
+      "physical": {"weight": "192g", "dimensions": "158x73.4x8.41mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 30",
+      "release_year": 2019,
+      "price": 799,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "NM Card"],
+        "cpu": "Huawei Kirin 990 2.86GHz Octa-Core",
+        "gpu": "Mali-G76 MP16",
+        "screen": {"size": "6.62 inch", "resolution": "1080x2340 OLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica SuperSensing f/1.7", "ultrawide": "40MP Leica Cine f/1.8", "telephoto": "8MP Leica f/2.4 OIS 3x", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "6K Video", "5x Hybrid Zoom", "TOF Depth"]},
+        "front": {"main": "24MP f/2.0", "features": ["3D Face Unlock", "TOF"]}
+      },
+      "colors": ["Black", "Space Silver", "Cosmic Purple", "Emerald Green"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.1", "NFC", "IP53", "Fingerprint", "Leica Triple Camera", "6K Video", "Reverse Wireless Charging", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 10.0", "SecurityPatch": "2019-09", "preinstalled_apps": ["Huawei AppGallery", "HiSuite"]},
+      "physical": {"weight": "196g", "dimensions": "160.8x76.1x8.4mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["6K@30fps", "4K@60fps"]},
+      "security": ["Fingerprint", "3D Face Unlock", "PIN Lock", "IP53"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 30 Pro",
+      "release_year": 2019,
+      "price": 1099,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "NM Card"],
+        "cpu": "Huawei Kirin 990 5G 2.86GHz Octa-Core",
+        "gpu": "Mali-G76 MP16",
+        "screen": {"size": "6.53 inch", "resolution": "1176x2400 Flex OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "40MP Leica SuperSensing f/1.6", "ultrawide": "40MP Leica Cine f/1.8", "telephoto": "8MP Leica Periscope f/3.4 OIS 5x", "periscope": "8MP f/3.4", "features": ["Leica Quad Camera", "OIS", "AI Camera", "Night Mode", "4K@60fps Video", "10x Hybrid Zoom", "TOF Depth"]},
+        "front": {"main": "32MP f/2.0", "features": ["3D Face Unlock", "TOF", "IR"]}
+      },
+      "colors": ["Black", "Space Silver", "Cosmic Purple", "Emerald Green", "Forest Green"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.1", "NFC", "IP68", "In-Display Fingerprint", "Leica Quad Camera", "90Hz Flex OLED", "Reverse Wireless Charging", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 10.0", "SecurityPatch": "2019-09", "preinstalled_apps": ["Huawei AppGallery"]},
+      "physical": {"weight": "198g", "dimensions": "158.1x73.1x8.8mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P40",
+      "release_year": 2020,
+      "price": 799,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "NM Card"],
+        "cpu": "Huawei Kirin 990 5G 2.86GHz Octa-Core",
+        "gpu": "Mali-G76 MP16",
+        "screen": {"size": "6.1 inch", "resolution": "1080x2340 OLED", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3800mAh", "fast_charging": "SuperCharge 22.5W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica f/1.9 OIS", "ultrawide": "16MP Leica f/2.2", "telephoto": "8MP Leica f/2.4 OIS 3x", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "5x Hybrid Zoom"]},
+        "front": {"main": "32MP f/2.0", "features": ["3D Face Unlock", "IR", "4K Video"]}
+      },
+      "colors": ["Black", "Ice White", "Blush Gold", "Silver Frost", "Deep Sea Blue"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.1", "NFC", "IP53", "Fingerprint", "Leica Triple Camera", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 10.1", "SecurityPatch": "2020-03", "preinstalled_apps": ["Huawei AppGallery", "Petal Search"]},
+      "physical": {"weight": "175g", "dimensions": "148.9x71.1x8.5mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "NFC"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "3D Face Unlock", "PIN Lock", "IP53"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P40 Pro",
+      "release_year": 2020,
+      "price": 999,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "NM Card"],
+        "cpu": "Huawei Kirin 990 5G 2.86GHz Octa-Core",
+        "gpu": "Mali-G76 MP16",
+        "screen": {"size": "6.58 inch", "resolution": "1200x2640 Flex OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica f/1.9 OIS RYYB", "ultrawide": "40MP Leica Cine f/1.8 OIS", "telephoto": "12MP Leica Periscope f/3.4 OIS 5x", "periscope": "12MP 5x Optical", "features": ["Leica Quad Camera", "Dual OIS", "AI Camera", "Night Mode", "4K Video", "10x Hybrid Zoom", "50x Max Zoom", "TOF Depth"]},
+        "front": {"main": "32MP f/2.0", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "Ice White", "Blush Gold", "Silver Frost", "Deep Sea Blue", "Midnight Black"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.1", "NFC", "IP68", "In-Display Fingerprint", "Leica Quad Camera", "90Hz Flex OLED", "Reverse Wireless Charging", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 10.1", "SecurityPatch": "2020-03", "preinstalled_apps": ["Huawei AppGallery", "Petal Search"]},
+      "physical": {"weight": "209g", "dimensions": "158.2x72.6x8.95mm", "material": "Aluminum + Gorilla Glass 6", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P40 Pro+",
+      "release_year": 2020,
+      "price": 1399,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["512GB", "NM Card"],
+        "cpu": "Huawei Kirin 990 5G 2.86GHz Octa-Core",
+        "gpu": "Mali-G76 MP16",
+        "screen": {"size": "6.58 inch", "resolution": "1200x2640 Flex OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "SuperCharge 40W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica f/1.9 RYYB OIS", "ultrawide": "40MP Leica Cine f/1.8", "telephoto": "8MP f/4.4 Periscope 10x OIS", "periscope": "8MP 10x Optical", "features": ["Leica Penta Camera", "Dual OIS", "AI Camera", "Night Mode", "4K Video", "10x Optical Zoom", "100x Max Zoom", "TOF Depth", "Ceramic Body"]},
+        "front": {"main": "32MP f/2.0", "features": ["3D Face Unlock", "IR", "TOF"]}
+      },
+      "colors": ["White Ceramic", "Black Ceramic"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.1", "NFC", "IP68", "In-Display Fingerprint", "Leica Penta Camera", "10x Optical Zoom", "90Hz Flex OLED", "Ceramic Body", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 10.1", "SecurityPatch": "2020-05", "preinstalled_apps": ["Huawei AppGallery"]},
+      "physical": {"weight": "226g", "dimensions": "158.2x72.6x9.5mm", "material": "Ceramic + Titanium Frame", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 40 Pro",
+      "release_year": 2020,
+      "price": 1199,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "NM Card"],
+        "cpu": "Huawei Kirin 9000 5G 3.13GHz Octa-Core",
+        "gpu": "Mali-G78 MP24",
+        "screen": {"size": "6.76 inch", "resolution": "1344x2772 OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4400mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Vision f/1.9 OIS", "ultrawide": "20MP Leica Cine f/1.8 OIS", "telephoto": "12MP Leica f/3.4 Periscope 5x OIS", "periscope": "12MP 5x Optical", "features": ["Leica Triple Camera", "Dual OIS", "AI Camera", "Night Mode", "4K Video", "10x Hybrid Zoom", "TOF Depth", "Ring Flash"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Yellow", "Green"],
+      "features": ["5G", "Wi-Fi 6+", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica Triple Camera", "90Hz OLED", "SuperCharge 66W", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 11.0", "SecurityPatch": "2020-10", "preinstalled_apps": ["Huawei AppGallery", "Petal Search"]},
+      "physical": {"weight": "212g", "dimensions": "162.9x75.5x9.1mm", "material": "Aluminum + Gorilla Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6+", "Bluetooth 5.2", "NFC", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 40 Pro+",
+      "release_year": 2020,
+      "price": 1399,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "NM Card"],
+        "cpu": "Huawei Kirin 9000 5G 3.13GHz Octa-Core",
+        "gpu": "Mali-G78 MP24",
+        "screen": {"size": "6.76 inch", "resolution": "1344x2772 OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4400mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Vision f/1.8 OIS", "ultrawide": "20MP Leica Cine f/1.8", "telephoto": "12MP Leica Periscope 10x OIS", "periscope": "12MP 10x Optical", "features": ["Leica Quad Camera", "OIS", "AI Camera", "Night Mode", "4K Video", "20x Optical Zoom", "100x Max Zoom", "Ring Flash"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF"]}
+      },
+      "colors": ["White Ceramic", "Black Ceramic"],
+      "features": ["5G", "Wi-Fi 6+", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica Quad Camera", "10x Optical Zoom", "Ceramic Body", "No Google Play"],
+      "software": {"OS": "Android 10 (AOSP)", "UI": "Emotion UI 11.0", "SecurityPatch": "2020-10", "preinstalled_apps": ["Huawei AppGallery"]},
+      "physical": {"weight": "225g", "dimensions": "162.9x75.5x9.8mm", "material": "Ceramic + Titanium Frame", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6+", "Bluetooth 5.2", "NFC", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P50",
+      "release_year": 2021,
+      "price": 879,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "NM Card"],
+        "cpu": "Qualcomm Snapdragon 888 4G 2.84GHz Octa-Core",
+        "gpu": "Adreno 660",
+        "screen": {"size": "6.5 inch", "resolution": "1224x2700 OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4100mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Vision f/1.8 OIS", "ultrawide": "13MP Leica f/2.2", "telephoto": "12MP Leica f/3.4 OIS 5x", "periscope": "None", "features": ["Leica Triple Camera", "OIS", "AI Camera", "4K Video", "True-Chroma", "Spectrum Enhanced"]},
+        "front": {"main": "13MP f/2.4", "features": ["Face Unlock", "4K Video"]}
+      },
+      "colors": ["Cocoa Gold", "Pearl White", "Black"],
+      "features": ["4G LTE only", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "Fingerprint", "Leica Triple Camera", "No Google Play"],
+      "software": {"OS": "HarmonyOS 2.0", "UI": "HarmonyOS UI", "SecurityPatch": "2021-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Search", "Petal Maps"]},
+      "physical": {"weight": "181g", "dimensions": "156.7x74.1x7.92mm", "material": "Aluminum + Gorilla Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "NFC"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["Fingerprint", "Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P50 Pro",
+      "release_year": 2021,
+      "price": 1099,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB", "NM Card"],
+        "cpu": "Kirin 9000 5G / Snapdragon 888 4G 3.13GHz Octa-Core",
+        "gpu": "Mali-G78 MP24 / Adreno 660",
+        "screen": {"size": "6.6 inch", "resolution": "1228x2700 OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4360mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Vision f/1.8 OIS", "ultrawide": "13MP Leica f/2.2", "telephoto": "64MP Leica Periscope f/3.5 OIS", "periscope": "64MP 3.5x Optical", "features": ["Leica Quad Camera", "OIS", "AI Camera", "4K Video", "True-Chroma", "Variable Aperture", "100x Max Zoom", "TOF Depth"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "4K Video"]}
+      },
+      "colors": ["Golden Black", "Pearl White", "Cocoa Gold"],
+      "features": ["4G/5G", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica Quad Camera", "120Hz OLED", "No Google Play"],
+      "software": {"OS": "HarmonyOS 2.0", "UI": "HarmonyOS UI", "SecurityPatch": "2021-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Search", "Petal Maps"]},
+      "physical": {"weight": "195g", "dimensions": "159.4x72.6x8.5mm", "material": "Aluminum + Gorilla Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 50",
+      "release_year": 2022,
+      "price": 899,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["128GB", "256GB", "NM Card"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1 4G 3.2GHz Octa-Core",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.7 inch", "resolution": "1224x2700 OLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4460mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica f/2.2", "telephoto": "12MP Leica f/2.4 OIS 3.5x", "periscope": "None", "features": ["Leica Triple Camera", "Variable Aperture", "OIS", "AI Camera", "4K Video", "10x Hybrid Zoom", "XMAGE"]},
+        "front": {"main": "13MP f/2.4", "features": ["Face Unlock", "4K Video"]}
+      },
+      "colors": ["Black", "Silver", "Orange", "Purple"],
+      "features": ["4G LTE only", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP54", "Fingerprint", "Leica XMAGE Camera", "Variable Aperture", "No Google Play"],
+      "software": {"OS": "HarmonyOS 3.0", "UI": "HarmonyOS UI", "SecurityPatch": "2022-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Search", "Petal Maps"]},
+      "physical": {"weight": "205g", "dimensions": "162.5x75.6x8.5mm", "material": "Aluminum + Gorilla Glass 5", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["Fingerprint", "Face Unlock", "PIN Lock", "IP54"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 50 Pro",
+      "release_year": 2022,
+      "price": 1099,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "512GB", "NM Card"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1 4G 3.2GHz Octa-Core",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.74 inch", "resolution": "1212x2616 Flex OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4700mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica f/2.2", "telephoto": "64MP Leica Periscope f/3.5 OIS 3.5x", "periscope": "64MP 3.5x Optical", "features": ["Leica Quad Camera", "Variable Aperture", "OIS", "AI Camera", "4K Video", "100x Max Zoom", "XMAGE", "TOF Depth"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "Silver", "Purple", "Orange"],
+      "features": ["4G LTE only", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Quad Camera", "Variable Aperture", "120Hz Flex OLED", "No Google Play"],
+      "software": {"OS": "HarmonyOS 3.0", "UI": "HarmonyOS UI", "SecurityPatch": "2022-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps"]},
+      "physical": {"weight": "209g", "dimensions": "162.1x74.5x8.85mm", "material": "Aluminum + Kunlun Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei P60 Pro",
+      "release_year": 2023,
+      "price": 1099,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "NM Card"],
+        "cpu": "Qualcomm Snapdragon 8+ Gen 1 4G 3.2GHz Octa-Core",
+        "gpu": "Adreno 730",
+        "screen": {"size": "6.67 inch", "resolution": "1220x2700 OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4815mAh", "fast_charging": "SuperCharge 88W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica Cine f/2.2", "telephoto": "48MP Leica Periscope f/2.1 OIS 3.5x", "periscope": "48MP 3.5x Optical", "features": ["Leica Triple Camera", "Variable Aperture", "Dual OIS", "AI Camera", "4K Video", "XMAGE", "100x Digital Zoom", "Extreme Night Mode"]},
+        "front": {"main": "13MP f/2.4", "features": ["Face Unlock", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Rococo Pearl", "Feather Sand Pink"],
+      "features": ["4G LTE only", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Camera", "Variable Aperture", "88W Fast Charge", "No Google Play"],
+      "software": {"OS": "HarmonyOS 3.1", "UI": "HarmonyOS UI", "SecurityPatch": "2023-03", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps", "Petal Search"]},
+      "physical": {"weight": "220g", "dimensions": "161x74.5x8.3mm", "material": "Aluminum + Kunlun Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 60",
+      "release_year": 2023,
+      "price": 999,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "NM Card"],
+        "cpu": "Huawei Kirin 9000s 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.69 inch", "resolution": "1260x2720 OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4750mAh", "fast_charging": "SuperCharge 66W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "12MP Leica f/2.2", "telephoto": "48MP Leica Periscope f/2.1 OIS 3.5x", "periscope": "48MP 3.5x Optical", "features": ["Leica Triple Camera", "Variable Aperture", "OIS", "AI Camera", "4K Video", "XMAGE", "100x Zoom"]},
+        "front": {"main": "13MP f/2.4", "features": ["Face Unlock", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Purple", "Brown"],
+      "features": ["5G (Kirin 9000s)", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Camera", "Variable Aperture", "Satellite Communication", "HarmonyOS 4.0"],
+      "software": {"OS": "HarmonyOS 4.0", "UI": "HarmonyOS UI", "SecurityPatch": "2023-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps", "Petal Search"]},
+      "physical": {"weight": "225g", "dimensions": "163.3x76.1x8.5mm", "material": "Aluminum + Kunlun Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 60 Pro",
+      "release_year": 2023,
+      "price": 1199,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["512GB", "NM Card"],
+        "cpu": "Huawei Kirin 9000s 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.82 inch", "resolution": "1260x2720 Flex OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "SuperCharge 88W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica Cine f/2.2", "telephoto": "48MP Leica Periscope f/2.1 OIS 3.5x", "periscope": "48MP 3.5x Optical", "features": ["Leica Triple Camera", "Variable Aperture", "Dual OIS", "AI Camera", "4K Video", "XMAGE", "100x Digital Zoom", "Extreme Night Mode", "TOF Depth"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Purple", "Brown"],
+      "features": ["5G (Kirin 9000s)", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Camera", "Variable Aperture", "Satellite Communication", "HarmonyOS 4.0", "Flex OLED"],
+      "software": {"OS": "HarmonyOS 4.0", "UI": "HarmonyOS UI", "SecurityPatch": "2023-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps", "Petal Search"]},
+      "physical": {"weight": "225g", "dimensions": "164.9x75.5x8.5mm", "material": "Titanium + Kunlun Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Mate 60 Pro+",
+      "release_year": 2023,
+      "price": 1499,
+      "hardware": {
+        "ram": "16GB",
+        "storage": ["1TB", "NM Card"],
+        "cpu": "Huawei Kirin 9000s 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.82 inch", "resolution": "1260x2720 Flex OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "SuperCharge 88W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica Cine f/2.2", "telephoto": "48MP Leica Periscope f/2.1 OIS 5x", "periscope": "48MP 5x Optical", "features": ["Leica Triple Camera", "Variable Aperture", "Dual OIS", "AI Camera", "4K Video", "XMAGE", "100x Digital Zoom", "Extreme Night Mode"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["White Ceramic", "Black Ceramic"],
+      "features": ["5G (Kirin 9000s)", "Wi-Fi 6", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Camera", "Ceramic Body", "Satellite Communication", "HarmonyOS 4.0", "1TB Storage"],
+      "software": {"OS": "HarmonyOS 4.0", "UI": "HarmonyOS UI", "SecurityPatch": "2023-08", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps"]},
+      "physical": {"weight": "239g", "dimensions": "164.9x75.5x9.3mm", "material": "Ceramic + Titanium Frame", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Pura 70",
+      "release_year": 2024,
+      "price": 999,
+      "hardware": {
+        "ram": "12GB",
+        "storage": ["256GB", "512GB", "NM Card"],
+        "cpu": "Huawei Kirin 9010 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.6 inch", "resolution": "1256x2760 OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4900mAh", "fast_charging": "SuperCharge 100W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "12.5MP Leica f/2.2", "telephoto": "40MP Leica Periscope f/2.6 OIS", "periscope": "40MP Optical", "features": ["Leica Triple Camera", "Variable Aperture", "OIS", "4K Video", "XMAGE", "AI Camera"]},
+        "front": {"main": "13MP f/2.4", "features": ["Face Unlock", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Purple", "Pink", "Gold"],
+      "features": ["5G", "Wi-Fi 6E", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE Camera", "100W Fast Charge", "Satellite SOS", "HarmonyOS 4.2"],
+      "software": {"OS": "HarmonyOS 4.2", "UI": "HarmonyOS UI", "SecurityPatch": "2024-04", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps", "Petal Search"]},
+      "physical": {"weight": "220g", "dimensions": "160x73.4x8.3mm", "material": "Aluminum + Kunlun Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6E", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Pura 70 Pro",
+      "release_year": 2024,
+      "price": 1199,
+      "hardware": {
+        "ram": "16GB",
+        "storage": ["512GB", "1TB", "NM Card"],
+        "cpu": "Huawei Kirin 9010 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.8 inch", "resolution": "1260x2760 Flex OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5050mAh", "fast_charging": "SuperCharge 100W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Variable Aperture f/1.4-f/4.0 OIS", "ultrawide": "13MP Leica Cine f/2.2", "telephoto": "48MP Leica Periscope f/2.1 Dual OIS 3.5x", "periscope": "48MP 3.5x Optical", "features": ["Leica Triple Camera", "Variable Aperture", "Dual OIS", "4K Video", "XMAGE 2.0", "AI Camera", "100x Digital Zoom", "Extreme Night Mode", "TOF"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Black", "White", "Purple", "Pink"],
+      "features": ["5G", "Wi-Fi 6E", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE 2.0 Camera", "Variable Aperture", "100W Fast Charge", "Satellite SOS", "HarmonyOS 4.2", "Flex OLED"],
+      "software": {"OS": "HarmonyOS 4.2", "UI": "HarmonyOS UI", "SecurityPatch": "2024-04", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps", "Petal Search"]},
+      "physical": {"weight": "229g", "dimensions": "163.3x75.5x8.5mm", "material": "Titanium + Kunlun Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6E", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    },
+    {
+      "brand": "Huawei",
+      "model": "Huawei Pura 70 Ultra",
+      "release_year": 2024,
+      "price": 1499,
+      "hardware": {
+        "ram": "16GB",
+        "storage": ["1TB", "NM Card"],
+        "cpu": "Huawei Kirin 9010 2.62GHz Octa-Core",
+        "gpu": "Maleoon 910",
+        "screen": {"size": "6.8 inch", "resolution": "1260x2760 Flex OLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "5500mAh", "fast_charging": "SuperCharge 100W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "50MP Leica Ultra Variable Aperture f/1.4-f/4.0 OIS 1-inch sensor", "ultrawide": "40MP Leica Cine f/1.8 OIS", "telephoto": "100MP Leica Periscope f/2.6 OIS 3.5x", "periscope": "100MP 3.5x Optical", "features": ["Leica Triple Camera", "1-inch Sensor", "Variable Aperture", "Dual OIS", "4K Video", "XMAGE 2.0", "AI Camera", "100x Digital Zoom", "Extreme Night Mode", "TOF", "Titanium Body"]},
+        "front": {"main": "13MP f/2.4", "features": ["3D Face Unlock", "IR", "TOF", "4K Video"]}
+      },
+      "colors": ["Titanium Black", "Titanium White"],
+      "features": ["5G", "Wi-Fi 6E", "GPS", "Bluetooth 5.2", "NFC", "IP68", "In-Display Fingerprint", "Leica XMAGE 2.0", "1-inch Sensor", "Variable Aperture", "100W Fast Charge", "Satellite SOS", "HarmonyOS 4.2", "Titanium Frame"],
+      "software": {"OS": "HarmonyOS 4.2", "UI": "HarmonyOS UI", "SecurityPatch": "2024-04", "preinstalled_apps": ["Huawei AppGallery", "Petal Maps"]},
+      "physical": {"weight": "233g", "dimensions": "163.5x75.5x9.5mm", "material": "Titanium + Kunlun Glass", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "In-Display Fingerprint", "GPS", "Ambient Light", "Hall", "Infrared", "Barometer", "NFC", "TOF", "Color Sensor"],
+      "connectivity": ["GSM/UMTS/LTE/5G", "Wi-Fi 6E", "Bluetooth 5.2", "NFC", "GPS", "Satellite", "USB-C 2.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@60fps", "1080p@120fps"]},
+      "security": ["In-Display Fingerprint", "3D Face Unlock", "PIN Lock", "IP68"]
+    }
+  ],
+  "metadata": {
+    "total_models": 46,
+    "era_breakdown": {
+      "early_android_era_2009_2013": 6,
+      "ascend_kirin_era_2014_2016": 7,
+      "leica_partnership_era_2016_2019": 11,
+      "p40_mate40_era_2020": 6,
+      "harmony_os_post_sanctions_2021_2024": 16
+    },
+    "format_version": "1.0",
+    "last_updated": "2026-03-01",
+    "schema_based_on": "Samsung Galaxy S23 Ultra / Nokia Database format",
+    "notes": "Includes all major Huawei flagship and mid-range models from 2009 to 2024. Note: From 2019 onward, US trade sanctions affected Google services availability. From 2021, Huawei switched to HarmonyOS. Models from 2020+ generally do not include Google Play Store."
+  }
+}

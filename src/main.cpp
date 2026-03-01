@@ -10,6 +10,7 @@ int main() {
     registerXiaomiRoute(app, phoneEndpoints);
     registerGoogleRoute(app, phoneEndpoints);
     registerNokiaRoute(app, phoneEndpoints);
+    registerHuaweiRoute(app, phoneEndpoints);
 
     app.port(8080).multithreaded().run();
 
