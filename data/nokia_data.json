@@ -1,0 +1,1524 @@
+{
+  "phones": [
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3310 (2000)",
+      "release_year": 2000,
+      "price": 160,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.5 inch", "resolution": "84x48", "refresh_rate": "N/A"},
+        "battery": {"capacity": "900mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Deep Blue", "Panther Black", "Citrus Yellow", "Poppy Red"],
+      "features": ["SMS", "Snake Game", "FM Radio"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Snake", "Calculator", "Calendar"]},
+      "physical": {"weight": "133g", "dimensions": "113x48x22mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800"],
+      "media": {"speakers": "Mono", "audio": ["Ringtones"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 8210",
+      "release_year": 1999,
+      "price": 400,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.5 inch", "resolution": "84x48", "refresh_rate": "N/A"},
+        "battery": {"capacity": "600mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black", "Blue", "Red"],
+      "features": ["SMS", "WAP", "Infrared"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Calculator", "Calendar"]},
+      "physical": {"weight": "79g", "dimensions": "101.5x44x14mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "Infrared"],
+      "media": {"speakers": "Mono", "audio": ["Ringtones"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3210",
+      "release_year": 1999,
+      "price": 250,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.5 inch", "resolution": "84x48", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Blue", "Orange", "Silver"],
+      "features": ["SMS", "Snake", "Internal Antenna"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Snake", "Calculator"]},
+      "physical": {"weight": "152g", "dimensions": "123x53x18mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800"],
+      "media": {"speakers": "Mono", "audio": ["Ringtones"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 7110",
+      "release_year": 1999,
+      "price": 500,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.6 inch", "resolution": "96x65", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black"],
+      "features": ["WAP Browser", "GPRS", "Navi Key"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["WAP Browser", "Calendar"]},
+      "physical": {"weight": "141g", "dimensions": "130x49x17mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "WAP"],
+      "media": {"speakers": "Mono", "audio": ["Ringtones"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 9210 Communicator",
+      "release_year": 2001,
+      "price": 800,
+      "hardware": {
+        "ram": "8MB",
+        "storage": ["4MB"],
+        "cpu": "ARM 9",
+        "gpu": "N/A",
+        "screen": {"size": "4.0 inch", "resolution": "640x200", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1500mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Silver"],
+      "features": ["GPRS", "Infrared", "Bluetooth", "Email", "Word Processing", "Spreadsheet"],
+      "software": {"OS": "Symbian OS 6.0", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Docs", "Sheet", "Presenter", "Email"]},
+      "physical": {"weight": "244g", "dimensions": "158x56x27mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "Bluetooth", "Infrared"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "WAV"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3510i",
+      "release_year": 2002,
+      "price": 200,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.5 inch", "resolution": "128x128", "refresh_rate": "N/A"},
+        "battery": {"capacity": "850mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Blue", "Red", "Black"],
+      "features": ["GPRS", "MMS", "Color Screen", "WAP 2.0"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["WAP Browser", "MMS"]},
+      "physical": {"weight": "105g", "dimensions": "106x44x17mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "GPRS"],
+      "media": {"speakers": "Mono", "audio": ["Ringtones", "MP3"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 6610",
+      "release_year": 2002,
+      "price": 300,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.7 inch", "resolution": "128x128", "refresh_rate": "N/A"},
+        "battery": {"capacity": "850mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Blue", "Gray", "Green"],
+      "features": ["GPRS", "MMS", "WAP 2.0", "FM Radio", "MP3 Player"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["MP3 Player", "WAP"]},
+      "physical": {"weight": "83g", "dimensions": "103x44x14mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 7650",
+      "release_year": 2002,
+      "price": 550,
+      "hardware": {
+        "ram": "4MB",
+        "storage": ["4MB"],
+        "cpu": "ARM 9 104MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "176x208", "refresh_rate": "N/A"},
+        "battery": {"capacity": "900mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "0.3MP (VGA)", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black/Blue"],
+      "features": ["Bluetooth", "GPRS", "MMS", "Camera", "Symbian"],
+      "software": {"OS": "Symbian OS 6.1", "UI": "Series 60", "SecurityPatch": "N/A", "preinstalled_apps": ["Gallery", "Messaging"]},
+      "physical": {"weight": "154g", "dimensions": "114x56x24mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["3GP"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3650",
+      "release_year": 2003,
+      "price": 400,
+      "hardware": {
+        "ram": "4MB",
+        "storage": ["4MB", "MMC"],
+        "cpu": "ARM 9 104MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "176x208", "refresh_rate": "N/A"},
+        "battery": {"capacity": "850mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "0.3MP (VGA)", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Video Recording"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Blue", "Silver"],
+      "features": ["Bluetooth", "GPRS", "MMS", "Video Recording", "Symbian"],
+      "software": {"OS": "Symbian OS 7.0", "UI": "Series 60", "SecurityPatch": "N/A", "preinstalled_apps": ["Gallery", "RealPlayer", "Messaging"]},
+      "physical": {"weight": "154g", "dimensions": "126x60x23mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": ["3GP"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N-Gage",
+      "release_year": 2003,
+      "price": 299,
+      "hardware": {
+        "ram": "4MB",
+        "storage": ["4MB", "MMC"],
+        "cpu": "ARM 9 104MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "176x208", "refresh_rate": "N/A"},
+        "battery": {"capacity": "760mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "None", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Orange/Gray"],
+      "features": ["Gaming", "Bluetooth", "GPRS", "FM Radio", "MP3"],
+      "software": {"OS": "Symbian OS 6.1", "UI": "Series 60 + N-Gage", "SecurityPatch": "N/A", "preinstalled_apps": ["N-Gage Arena", "FM Radio"]},
+      "physical": {"weight": "137g", "dimensions": "133.5x67.5x20mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 6230",
+      "release_year": 2004,
+      "price": 350,
+      "hardware": {
+        "ram": "N/A",
+        "storage": ["N/A", "MMC"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "1.8 inch", "resolution": "128x160", "refresh_rate": "N/A"},
+        "battery": {"capacity": "900mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "0.3MP (VGA)", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Video Recording"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Black", "Silver"],
+      "features": ["GPRS", "Bluetooth", "MMS", "FM Radio", "MP3 Player"],
+      "software": {"OS": "Nokia OS", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["MP3 Player", "FM Radio"]},
+      "physical": {"weight": "96g", "dimensions": "108x46x18mm", "material": "Plastic + Metal", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800/1900", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["3GP"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 6600",
+      "release_year": 2004,
+      "price": 450,
+      "hardware": {
+        "ram": "8MB",
+        "storage": ["MMC"],
+        "cpu": "ARM 9 104MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "176x208", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1100mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "0.3MP (VGA)", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Video Recording"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Light Blue", "Stone Beige"],
+      "features": ["Bluetooth", "GPRS", "MMS", "Video Recording", "Symbian"],
+      "software": {"OS": "Symbian OS 7.0s", "UI": "Series 60", "SecurityPatch": "N/A", "preinstalled_apps": ["RealPlayer", "Gallery", "Messaging"]},
+      "physical": {"weight": "125g", "dimensions": "120x60x21mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800/1900", "GPRS", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N70",
+      "release_year": 2005,
+      "price": 400,
+      "hardware": {
+        "ram": "32MB",
+        "storage": ["22MB", "miniSD"],
+        "cpu": "ARM 9 220MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "176x208", "refresh_rate": "N/A"},
+        "battery": {"capacity": "970mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "2MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Video Recording", "Flash"]},
+        "front": {"main": "QVGA", "features": ["Video Call"]}
+      },
+      "colors": ["Black", "Silver", "Deep Plum"],
+      "features": ["3G UMTS", "Bluetooth", "GPRS", "MMS", "FM Radio", "Music Player"],
+      "software": {"OS": "Symbian OS 8.1a", "UI": "Series 60 v2.1", "SecurityPatch": "N/A", "preinstalled_apps": ["RealPlayer", "Gallery"]},
+      "physical": {"weight": "126g", "dimensions": "112x49x21mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800/1900", "UMTS 2100", "Bluetooth", "Infrared"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N90",
+      "release_year": 2005,
+      "price": 600,
+      "hardware": {
+        "ram": "64MB",
+        "storage": ["30MB", "miniSD"],
+        "cpu": "ARM 9 220MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.1 inch", "resolution": "352x416", "refresh_rate": "N/A"},
+        "battery": {"capacity": "970mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "2MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Optical Zoom", "Video Recording"]},
+        "front": {"main": "QVGA", "features": ["Video Call"]}
+      },
+      "colors": ["Black"],
+      "features": ["3G", "Bluetooth", "Carl Zeiss Camera", "Rotating Screen"],
+      "software": {"OS": "Symbian OS 8.1a", "UI": "Series 60 v2.1", "SecurityPatch": "N/A", "preinstalled_apps": ["RealPlayer", "Gallery"]},
+      "physical": {"weight": "171g", "dimensions": "116x58x30mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800/1900", "UMTS 2100", "Bluetooth"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N95",
+      "release_year": 2007,
+      "price": 560,
+      "hardware": {
+        "ram": "64MB",
+        "storage": ["160MB", "microSD"],
+        "cpu": "ARM 11 332MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.6 inch", "resolution": "240x320", "refresh_rate": "N/A"},
+        "battery": {"capacity": "950mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Autofocus", "Flash", "Video Recording"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Silver", "Black"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "FM Radio", "Carl Zeiss Camera"],
+      "software": {"OS": "Symbian OS 9.2", "UI": "Series 60 v3.1", "SecurityPatch": "N/A", "preinstalled_apps": ["Maps", "Music Player", "RealPlayer"]},
+      "physical": {"weight": "120g", "dimensions": "99x53x21mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "UMTS 2100", "Wi-Fi b/g", "Bluetooth 2.0", "USB"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia E71",
+      "release_year": 2008,
+      "price": 420,
+      "hardware": {
+        "ram": "128MB",
+        "storage": ["110MB", "microSD"],
+        "cpu": "ARM 11 369MHz",
+        "gpu": "N/A",
+        "screen": {"size": "2.36 inch", "resolution": "320x240", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1500mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "3.2MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Steel Grey", "White"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "QWERTY Keyboard", "Email", "Office"],
+      "software": {"OS": "Symbian OS 9.2", "UI": "Series 60 v3.1 E-Series", "SecurityPatch": "N/A", "preinstalled_apps": ["Email", "Docs", "Maps"]},
+      "physical": {"weight": "127g", "dimensions": "114x57x10mm", "material": "Metal + Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "UMTS", "Wi-Fi", "Bluetooth 2.0", "USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock", "Remote Wipe"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N97",
+      "release_year": 2009,
+      "price": 600,
+      "hardware": {
+        "ram": "128MB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "ARM 11 434MHz",
+        "gpu": "N/A",
+        "screen": {"size": "3.5 inch", "resolution": "640x360", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1500mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Autofocus", "Flash"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Black", "White"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "QWERTY Slide", "Touch Screen", "FM Radio"],
+      "software": {"OS": "Symbian OS 9.3", "UI": "Series 60 v5.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Maps", "Music Player", "Email"]},
+      "physical": {"weight": "150g", "dimensions": "117.2x55.3x15.9mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "UMTS 900/2100", "Wi-Fi b/g", "Bluetooth 2.0", "USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock", "Remote Wipe"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 5800 XpressMusic",
+      "release_year": 2009,
+      "price": 280,
+      "hardware": {
+        "ram": "128MB",
+        "storage": ["81MB", "microSD"],
+        "cpu": "ARM 11 434MHz",
+        "gpu": "N/A",
+        "screen": {"size": "3.2 inch", "resolution": "360x640", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1320mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "3.2MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Flash"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Red", "Black", "Blue"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "FM Radio", "Touch Screen"],
+      "software": {"OS": "Symbian OS 9.4", "UI": "Series 60 v5.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Music Player", "Maps", "RealPlayer"]},
+      "physical": {"weight": "109g", "dimensions": "111x51.7x15.5mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "UMTS 2100", "Wi-Fi b/g", "Bluetooth 2.0", "USB"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia X6",
+      "release_year": 2009,
+      "price": 360,
+      "hardware": {
+        "ram": "128MB",
+        "storage": ["32GB"],
+        "cpu": "ARM 11 434MHz",
+        "gpu": "N/A",
+        "screen": {"size": "3.2 inch", "resolution": "360x640", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1320mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "5MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Autofocus", "Flash"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Black", "White", "Rose"],
+      "features": ["3G", "Wi-Fi", "GPS", "Bluetooth", "FM Radio", "Touch Screen", "32GB Internal"],
+      "software": {"OS": "Symbian OS 9.4", "UI": "Series 60 v5.0", "SecurityPatch": "N/A", "preinstalled_apps": ["Music Player", "Maps"]},
+      "physical": {"weight": "110g", "dimensions": "111.1x51.7x13.8mm", "material": "Plastic", "SIM": "Single"},
+      "sensors": ["Accelerometer", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "UMTS 2100", "Wi-Fi b/g", "Bluetooth 2.0", "USB"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["3GP", "MPEG-4"]},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia N8",
+      "release_year": 2010,
+      "price": 500,
+      "hardware": {
+        "ram": "256MB",
+        "storage": ["16GB", "microSD"],
+        "cpu": "ARM 11 680MHz",
+        "gpu": "PowerVR SGX530",
+        "screen": {"size": "3.5 inch", "resolution": "360x640", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1200mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Xenon Flash", "HD Video", "Autofocus"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Midnight Blue", "Silver White", "Volcanic Black", "Rose Gold", "Green"],
+      "features": ["3G HSPA", "Wi-Fi", "GPS", "Bluetooth", "FM Radio", "HDMI", "12MP Camera"],
+      "software": {"OS": "Symbian^3", "UI": "Anna/Belle", "SecurityPatch": "N/A", "preinstalled_apps": ["Maps", "Music Player", "Ovi Store"]},
+      "physical": {"weight": "135g", "dimensions": "113.5x59x12.9mm", "material": "Aluminum", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "HSPA 900/2100", "Wi-Fi b/g/n", "Bluetooth 3.0", "USB 2.0", "HDMI"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["720p@30fps", "MPEG-4", "H.264"]},
+      "security": ["PIN Lock", "Remote Wipe"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia E7",
+      "release_year": 2011,
+      "price": 580,
+      "hardware": {
+        "ram": "256MB",
+        "storage": ["16GB"],
+        "cpu": "ARM 11 680MHz",
+        "gpu": "PowerVR SGX530",
+        "screen": {"size": "4.0 inch", "resolution": "640x360 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1200mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Flash", "Autofocus"]},
+        "front": {"main": "VGA", "features": ["Video Call"]}
+      },
+      "colors": ["Chalk White", "Dark Grey", "Blue", "Orange"],
+      "features": ["3G HSPA", "Wi-Fi", "GPS", "Bluetooth", "HDMI", "QWERTY Slide", "AMOLED"],
+      "software": {"OS": "Symbian^3", "UI": "Anna", "SecurityPatch": "N/A", "preinstalled_apps": ["Maps", "Office", "Email"]},
+      "physical": {"weight": "176g", "dimensions": "123.7x62.4x13.6mm", "material": "Metal", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "HSPA 900/2100", "Wi-Fi b/g/n", "Bluetooth 3.0", "USB 2.0", "HDMI"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["720p", "MPEG-4", "H.264"]},
+      "security": ["PIN Lock", "Remote Wipe", "Encryption"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia Lumia 800",
+      "release_year": 2011,
+      "price": 480,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["16GB"],
+        "cpu": "Qualcomm Snapdragon S2 1.4GHz",
+        "gpu": "Adreno 205",
+        "screen": {"size": "3.7 inch", "resolution": "480x800 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1450mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Autofocus", "Flash", "720p Video"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Cyan", "Magenta", "Matte Black"],
+      "features": ["3G HSPA", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Windows Phone"],
+      "software": {"OS": "Windows Phone 7.5", "UI": "Metro", "SecurityPatch": "N/A", "preinstalled_apps": ["Office", "Zune", "Bing Maps"]},
+      "physical": {"weight": "142g", "dimensions": "116.5x61.2x12.1mm", "material": "Polycarbonate", "SIM": "Micro"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "HSPA 900/2100", "Wi-Fi b/g/n", "Bluetooth 2.1", "USB 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA"], "video": ["720p@30fps"]},
+      "security": ["PIN Lock", "Remote Wipe"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia Lumia 900",
+      "release_year": 2012,
+      "price": 450,
+      "hardware": {
+        "ram": "512MB",
+        "storage": ["16GB"],
+        "cpu": "Qualcomm Snapdragon S2 1.4GHz",
+        "gpu": "Adreno 205",
+        "screen": {"size": "4.3 inch", "resolution": "480x800 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1830mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Carl Zeiss Optics", "Autofocus", "Flash", "1080p Video"]},
+        "front": {"main": "1MP", "features": ["Video Call"]}
+      },
+      "colors": ["Cyan", "Magenta", "Matte Black", "White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Windows Phone"],
+      "software": {"OS": "Windows Phone 7.5", "UI": "Metro", "SecurityPatch": "N/A", "preinstalled_apps": ["Office", "Zune", "Bing Maps"]},
+      "physical": {"weight": "160g", "dimensions": "127.8x68.5x11.5mm", "material": "Polycarbonate", "SIM": "Micro"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS"],
+      "connectivity": ["GSM 850/900/1800/1900", "LTE", "Wi-Fi b/g/n", "Bluetooth 2.1", "USB 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock", "Remote Wipe"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia Lumia 920",
+      "release_year": 2012,
+      "price": 500,
+      "hardware": {
+        "ram": "1GB",
+        "storage": ["32GB"],
+        "cpu": "Qualcomm Snapdragon S4 1.5GHz Dual-Core",
+        "gpu": "Adreno 225",
+        "screen": {"size": "4.5 inch", "resolution": "768x1280 IPS LCD", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2000mAh", "fast_charging": "N/A", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "8.7MP PureView Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Carl Zeiss Optics", "Autofocus", "Flash", "1080p Video"]},
+        "front": {"main": "1.3MP", "features": ["Video Call"]}
+      },
+      "colors": ["Yellow", "Red", "Cyan", "White", "Black", "Gray"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Wireless Charging", "OIS Camera", "Windows Phone"],
+      "software": {"OS": "Windows Phone 8", "UI": "Metro", "SecurityPatch": "N/A", "preinstalled_apps": ["Office", "HERE Maps", "Music"]},
+      "physical": {"weight": "185g", "dimensions": "130.3x70.8x10.7mm", "material": "Polycarbonate", "SIM": "Micro"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM 850/900/1800/1900", "LTE", "Wi-Fi a/b/g/n", "Bluetooth 3.1", "USB 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock", "Remote Wipe", "BitLocker"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia Lumia 1020",
+      "release_year": 2013,
+      "price": 600,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["32GB"],
+        "cpu": "Qualcomm Snapdragon S4 1.5GHz Dual-Core",
+        "gpu": "Adreno 225",
+        "screen": {"size": "4.5 inch", "resolution": "768x1280 AMOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2000mAh", "fast_charging": "N/A", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "41MP PureView Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Carl Zeiss Optics", "Xenon Flash", "6x Lossless Zoom", "1080p Video"]},
+        "front": {"main": "1.2MP", "features": ["Video Call"]}
+      },
+      "colors": ["White", "Black", "Yellow"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Wireless Charging", "41MP PureView"],
+      "software": {"OS": "Windows Phone 8", "UI": "Metro", "SecurityPatch": "N/A", "preinstalled_apps": ["Office", "HERE Maps", "Nokia Camera"]},
+      "physical": {"weight": "158g", "dimensions": "130.4x71.4x10.4mm", "material": "Polycarbonate", "SIM": "Micro"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM 850/900/1800/1900", "LTE", "Wi-Fi a/b/g/n", "Bluetooth 3.0", "USB 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock", "Remote Wipe", "BitLocker"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia Lumia 1520",
+      "release_year": 2013,
+      "price": 650,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "32GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 800 2.2GHz Quad-Core",
+        "gpu": "Adreno 330",
+        "screen": {"size": "6.0 inch", "resolution": "1080x1920 IPS LCD", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3400mAh", "fast_charging": "N/A", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "20MP PureView Carl Zeiss", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["OIS", "Carl Zeiss Optics", "Flash", "4K Video"]},
+        "front": {"main": "1.2MP", "features": ["Video Call"]}
+      },
+      "colors": ["Black", "White", "Red", "Yellow"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Wireless Charging", "6 inch Display", "Windows Phone"],
+      "software": {"OS": "Windows Phone 8", "UI": "Metro", "SecurityPatch": "N/A", "preinstalled_apps": ["Office", "HERE Maps", "Nokia Camera"]},
+      "physical": {"weight": "209g", "dimensions": "162.8x85.4x8.7mm", "material": "Polycarbonate", "SIM": "Micro"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "GPS", "Ambient Light"],
+      "connectivity": ["GSM 850/900/1800/1900", "LTE", "Wi-Fi a/b/g/n", "Bluetooth 4.0", "USB 3.0"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "WMA", "FLAC"], "video": ["4K", "1080p@30fps"]},
+      "security": ["PIN Lock", "Remote Wipe", "BitLocker"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3310 (2017)",
+      "release_year": 2017,
+      "price": 50,
+      "hardware": {
+        "ram": "16MB",
+        "storage": ["16MB", "microSD"],
+        "cpu": "Mediatek",
+        "gpu": "N/A",
+        "screen": {"size": "2.4 inch", "resolution": "240x320", "refresh_rate": "N/A"},
+        "battery": {"capacity": "1200mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "2MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": []},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Warm Red", "Yellow", "Dark Blue", "Gray"],
+      "features": ["2G", "FM Radio", "Snake Game", "Bluetooth", "microSD"],
+      "software": {"OS": "Nokia Series 30+", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Snake", "Calculator", "Calendar"]},
+      "physical": {"weight": "79.6g", "dimensions": "115.6x51x12.8mm", "material": "Plastic", "SIM": "Nano"},
+      "sensors": ["None"],
+      "connectivity": ["GSM 900/1800", "Bluetooth 3.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3 (2017)",
+      "release_year": 2017,
+      "price": 139,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "microSD"],
+        "cpu": "MediaTek MT6737 1.3GHz Quad-Core",
+        "gpu": "Mali-T720",
+        "screen": {"size": "5.0 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "2630mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "8MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash"]},
+        "front": {"main": "8MP", "features": ["Front Flash"]}
+      },
+      "colors": ["Matte Black", "Silver White", "Tempered Blue"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One"],
+      "software": {"OS": "Android 7.0", "UI": "Stock Android", "SecurityPatch": "2017-04", "preinstalled_apps": []},
+      "physical": {"weight": "143g", "dimensions": "143.4x71.4x8.5mm", "material": "Aluminum + Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.1", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["PIN Lock", "Fingerprint"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 5 (2017)",
+      "release_year": 2017,
+      "price": 199,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["16GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 430 1.4GHz Octa-Core",
+        "gpu": "Adreno 505",
+        "screen": {"size": "5.2 inch", "resolution": "720x1280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Matte Black", "Silver", "Tempered Blue", "Copper"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Fingerprint"],
+      "software": {"OS": "Android 7.1.1", "UI": "Stock Android", "SecurityPatch": "2017-05", "preinstalled_apps": []},
+      "physical": {"weight": "160g", "dimensions": "149.7x75.8x8.05mm", "material": "Aluminum", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.1", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 6 (2017)",
+      "release_year": 2017,
+      "price": 229,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 430 1.4GHz Octa-Core",
+        "gpu": "Adreno 505",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Matte Black", "Silver", "Tempered Blue", "Copper"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Fingerprint", "Dolby Atmos"],
+      "software": {"OS": "Android 7.1.1", "UI": "Stock Android", "SecurityPatch": "2017-05", "preinstalled_apps": []},
+      "physical": {"weight": "169g", "dimensions": "154x75.8x8.4mm", "material": "Aluminum 6000 Series", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.1", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono + Dolby Atmos", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 8 (2017)",
+      "release_year": 2017,
+      "price": 449,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 835 2.5GHz Octa-Core",
+        "gpu": "Adreno 540",
+        "screen": {"size": "5.3 inch", "resolution": "1440x2560 IPS LCD", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3090mAh", "fast_charging": "Quick Charge 3.0", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP Zeiss Dual Lens", "ultrawide": "None", "telephoto": "13MP", "periscope": "None", "features": ["Zeiss Optics", "OIS", "Autofocus", "Flash", "Bothie Mode", "4K Video"]},
+        "front": {"main": "13MP Zeiss", "features": ["Bothie Mode", "1080p"]}
+      },
+      "colors": ["Polished Blue", "Tempered Blue", "Steel", "Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "USB-C", "Zeiss Camera", "Bothie Mode"],
+      "software": {"OS": "Android 7.1.2", "UI": "Stock Android (Android One)", "SecurityPatch": "2017-08", "preinstalled_apps": []},
+      "physical": {"weight": "160g", "dimensions": "151.5x73.7x7.3mm", "material": "Aluminum 6000 Series + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 7 Plus",
+      "release_year": 2018,
+      "price": 365,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 660 2.2GHz Octa-Core",
+        "gpu": "Adreno 512",
+        "screen": {"size": "6.0 inch", "resolution": "1080x2160 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3800mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "12MP Zeiss", "ultrawide": "None", "telephoto": "13MP", "periscope": "None", "features": ["Zeiss Optics", "OIS", "Autofocus", "Flash", "4K Video", "Dual Camera"]},
+        "front": {"main": "16MP", "features": ["1080p"]}
+      },
+      "colors": ["Black/Copper", "White/Copper"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "USB-C", "Android One", "Zeiss Dual Camera"],
+      "software": {"OS": "Android 8.1", "UI": "Stock Android (Android One)", "SecurityPatch": "2018-04", "preinstalled_apps": []},
+      "physical": {"weight": "183g", "dimensions": "158.4x75.6x8mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 8 Sirocco",
+      "release_year": 2018,
+      "price": 749,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB"],
+        "cpu": "Qualcomm Snapdragon 835 2.45GHz Octa-Core",
+        "gpu": "Adreno 540",
+        "screen": {"size": "5.5 inch", "resolution": "1440x2560 pOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3260mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP Zeiss OIS", "ultrawide": "None", "telephoto": "13MP", "periscope": "None", "features": ["Zeiss Optics", "Dual OIS", "Autofocus", "Flash", "4K Video"]},
+        "front": {"main": "5MP", "features": ["1080p"]}
+      },
+      "colors": ["Black", "Blue/Silver"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "IP67", "Wireless Charging", "OLED", "Android One"],
+      "software": {"OS": "Android 8.0", "UI": "Stock Android (Android One)", "SecurityPatch": "2018-03", "preinstalled_apps": []},
+      "physical": {"weight": "177g", "dimensions": "140.9x72.9x7.5mm", "material": "Stainless Steel + Gorilla Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock", "IP67"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 6.1",
+      "release_year": 2018,
+      "price": 269,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 630 2.2GHz Octa-Core",
+        "gpu": "Adreno 508",
+        "screen": {"size": "5.5 inch", "resolution": "1080x1920 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "16MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Black/Copper", "White/Iron", "Blue/Gold"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "USB-C", "Android One", "Fingerprint"],
+      "software": {"OS": "Android 8.1", "UI": "Stock Android (Android One)", "SecurityPatch": "2018-04", "preinstalled_apps": []},
+      "physical": {"weight": "166g", "dimensions": "151.8x75.8x8.15mm", "material": "Aluminum 6000 Series + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 9 PureView",
+      "release_year": 2019,
+      "price": 699,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB"],
+        "cpu": "Qualcomm Snapdragon 845 2.8GHz Octa-Core",
+        "gpu": "Adreno 630",
+        "screen": {"size": "5.99 inch", "resolution": "1440x2880 pOLED", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3320mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "12MP Zeiss Penta Lens", "ultrawide": "12MP", "telephoto": "None", "periscope": "None", "features": ["5 Cameras", "Zeiss Optics", "OIS", "HDR10", "RAW Capture", "Light Field"]},
+        "front": {"main": "20MP", "features": ["1080p"]}
+      },
+      "colors": ["Midnight Blue", "White"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "IP67", "Wireless Charging", "5 Cameras", "Android One", "Under Display Fingerprint"],
+      "software": {"OS": "Android 9.0", "UI": "Stock Android (Android One)", "SecurityPatch": "2019-03", "preinstalled_apps": []},
+      "physical": {"weight": "172g", "dimensions": "155x75x7.9mm", "material": "Gorilla Glass 5 + Aluminum", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Under-Display Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 3.1"],
+      "media": {"speakers": "Stereo", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Under-Display Fingerprint", "PIN Lock", "Face Unlock", "IP67"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 4.2",
+      "release_year": 2019,
+      "price": 149,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 439 1.95GHz Octa-Core",
+        "gpu": "Adreno 505",
+        "screen": {"size": "5.71 inch", "resolution": "720x1520 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Autofocus", "Flash", "Portrait Mode"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Black", "Pink"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Fingerprint", "Google Assistant Button"],
+      "software": {"OS": "Android 9.0", "UI": "Stock Android (Android One)", "SecurityPatch": "2019-04", "preinstalled_apps": []},
+      "physical": {"weight": "161g", "dimensions": "149x71x8.4mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.2", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 7.2",
+      "release_year": 2019,
+      "price": 299,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 660 2.2GHz Octa-Core",
+        "gpu": "Adreno 512",
+        "screen": {"size": "6.3 inch", "resolution": "1080x2280 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "3500mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP Zeiss", "ultrawide": "8MP", "telephoto": "5MP Depth", "periscope": "None", "features": ["Zeiss Optics", "OIS", "HDR", "4K Video", "Triple Camera"]},
+        "front": {"main": "20MP", "features": ["1080p"]}
+      },
+      "colors": ["Cyan Green", "Charcoal", "Ice"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "NFC", "Android One", "Zeiss Triple Camera", "Fingerprint"],
+      "software": {"OS": "Android 9.0", "UI": "Stock Android (Android One)", "SecurityPatch": "2019-09", "preinstalled_apps": []},
+      "physical": {"weight": "180g", "dimensions": "159.9x75.2x8.25mm", "material": "Aluminum + Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi a/b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 2.3",
+      "release_year": 2019,
+      "price": 109,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "MediaTek Helio A22 2.0GHz Quad-Core",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.2 inch", "resolution": "720x1520 IPS", "refresh_rate": "N/A"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Flash", "Portrait Mode"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Cyan Green", "Charcoal", "Sand"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Google Assistant Button", "4000mAh Battery"],
+      "software": {"OS": "Android 9.0", "UI": "Stock Android (Android One)", "SecurityPatch": "2019-12", "preinstalled_apps": []},
+      "physical": {"weight": "181g", "dimensions": "160.4x77.3x8.7mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Ambient Light", "Face Recognition"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.2", "GPS", "Micro-USB"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Face Unlock", "PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 8.3 5G",
+      "release_year": 2020,
+      "price": 549,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 765G 2.4GHz Octa-Core",
+        "gpu": "Adreno 620",
+        "screen": {"size": "6.81 inch", "resolution": "1080x2400 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "64MP Zeiss", "ultrawide": "12MP", "telephoto": "2MP Macro", "periscope": "2MP Depth", "features": ["Zeiss Optics", "OIS", "4K Video", "Quad Camera", "5G"]},
+        "front": {"main": "24MP", "features": ["4K Video"]}
+      },
+      "colors": ["Polar Night", "Ice"],
+      "features": ["5G", "4G LTE", "Wi-Fi 6", "GPS", "Bluetooth 5.0", "NFC", "Android One", "Zeiss Quad Camera"],
+      "software": {"OS": "Android 10", "UI": "Stock Android (Android One)", "SecurityPatch": "2020-09", "preinstalled_apps": []},
+      "physical": {"weight": "220g", "dimensions": "171.9x78.6x9mm", "material": "Aluminum + Gorilla Glass 3", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi 6", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo + OZO Audio", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 5.3",
+      "release_year": 2020,
+      "price": 199,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 665 2.0GHz Octa-Core",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.55 inch", "resolution": "720x1600 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "5MP", "telephoto": "2MP Macro", "periscope": "2MP Depth", "features": ["Quad Camera", "HDR", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Cyan", "Charcoal", "Sand", "Fjord"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Quad Camera", "Google Assistant Button"],
+      "software": {"OS": "Android 10", "UI": "Stock Android (Android One)", "SecurityPatch": "2020-07", "preinstalled_apps": []},
+      "physical": {"weight": "185g", "dimensions": "164.3x76.4x8.5mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 4.2", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3.4",
+      "release_year": 2020,
+      "price": 139,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "64GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 460 1.8GHz Octa-Core",
+        "gpu": "Adreno 610",
+        "screen": {"size": "6.39 inch", "resolution": "720x1560 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "5MP", "telephoto": "2MP Depth", "periscope": "None", "features": ["Triple Camera", "HDR", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Fjord", "Charcoal", "Dusk"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "Triple Camera", "Google Assistant Button"],
+      "software": {"OS": "Android 10", "UI": "Stock Android (Android One)", "SecurityPatch": "2020-10", "preinstalled_apps": []},
+      "physical": {"weight": "180g", "dimensions": "160.97x75.98x8.68mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Compass", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 4.2", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia XR20",
+      "release_year": 2021,
+      "price": 549,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 480 2.0GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.67 inch", "resolution": "1080x2400 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4630mAh", "fast_charging": "18W", "wireless_charging": true}
+      },
+      "camera": {
+        "rear": {"main": "48MP Zeiss", "ultrawide": "13MP Zeiss", "telephoto": "None", "periscope": "None", "features": ["Zeiss Optics", "4K Video", "Dual Camera"]},
+        "front": {"main": "8MP", "features": ["1080p"]}
+      },
+      "colors": ["Granite", "Ultra Blue"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.1", "NFC", "IP68", "MIL-STD-810H", "Wireless Charging", "Zeiss Camera", "Android One"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2021-07", "preinstalled_apps": []},
+      "physical": {"weight": "248g", "dimensions": "171.7x80.4x10.5mm", "material": "Recycled Aluminum + Gorilla Glass Victus", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi 6", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo + OZO Audio", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock", "IP68", "MIL-STD-810H"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G50",
+      "release_year": 2021,
+      "price": 229,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 480 2.0GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.82 inch", "resolution": "720x1600 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "5MP", "telephoto": "2MP Depth", "periscope": "None", "features": ["Triple Camera", "HDR", "4K Video"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Midnight Sun", "Ocean Blue"],
+      "features": ["5G", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "Android One", "90Hz Display", "5000mAh Battery"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2021-09", "preinstalled_apps": []},
+      "physical": {"weight": "220g", "dimensions": "169.7x79.3x8.7mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G20",
+      "release_year": 2021,
+      "price": 149,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "MediaTek Helio G35 2.3GHz Octa-Core",
+        "gpu": "PowerVR GE8320",
+        "screen": {"size": "6.52 inch", "resolution": "720x1600 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5050mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP", "ultrawide": "5MP", "telephoto": "2MP Macro", "periscope": "2MP Depth", "features": ["Quad Camera", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Midnight Sun", "Glacier"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth 5.0", "Android One", "90Hz Display", "5050mAh Battery"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2021-07", "preinstalled_apps": []},
+      "physical": {"weight": "190g", "dimensions": "165.5x76.3x8.9mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia C30",
+      "release_year": 2021,
+      "price": 109,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Unisoc SC9863A 1.6GHz Octa-Core",
+        "gpu": "IMG8322",
+        "screen": {"size": "6.82 inch", "resolution": "720x1600 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "6000mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "LED Flash"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["White", "Spruce"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "6000mAh Battery", "Big Screen"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2021-08", "preinstalled_apps": []},
+      "physical": {"weight": "202g", "dimensions": "174.6x79.1x9.4mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia X10",
+      "release_year": 2021,
+      "price": 299,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 480 2.0GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.67 inch", "resolution": "1080x2400 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "4470mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "48MP Zeiss", "ultrawide": "5MP", "telephoto": "2MP Macro", "periscope": "2MP Depth", "features": ["Zeiss Optics", "Quad Camera", "4K Video"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Forest", "Snow"],
+      "features": ["5G", "Wi-Fi", "GPS", "Bluetooth 5.0", "NFC", "Android One", "Zeiss Quad Camera"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2021-05", "preinstalled_apps": []},
+      "physical": {"weight": "220g", "dimensions": "168.9x79.7x9mm", "material": "Recycled Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G11",
+      "release_year": 2022,
+      "price": 119,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Unisoc T606 1.6GHz Octa-Core",
+        "gpu": "Mali-G57",
+        "screen": {"size": "6.5 inch", "resolution": "720x1600 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "Flash"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Ice", "Charcoal"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android 12", "90Hz Display", "5000mAh Battery"],
+      "software": {"OS": "Android 12", "UI": "Stock Android (Android One)", "SecurityPatch": "2022-01", "preinstalled_apps": []},
+      "physical": {"weight": "180g", "dimensions": "164.6x75.9x8.4mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G21",
+      "release_year": 2022,
+      "price": 169,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "Unisoc T606 1.6GHz Octa-Core",
+        "gpu": "Mali-G57",
+        "screen": {"size": "6.5 inch", "resolution": "720x1600 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5050mAh", "fast_charging": "18W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Nordic Blue", "Dusk"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android One", "90Hz Display", "3 Day Battery"],
+      "software": {"OS": "Android 11", "UI": "Stock Android (Android One)", "SecurityPatch": "2022-01", "preinstalled_apps": []},
+      "physical": {"weight": "190g", "dimensions": "165.2x76.2x8.69mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia X30 5G",
+      "release_year": 2022,
+      "price": 399,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "256GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 695 2.2GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.43 inch", "resolution": "1080x2400 AMOLED", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4200mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP Zeiss OIS", "ultrawide": "13MP Zeiss", "telephoto": "None", "periscope": "None", "features": ["Zeiss Optics", "OIS", "4K Video", "Dual Camera"]},
+        "front": {"main": "16MP", "features": ["1080p"]}
+      },
+      "colors": ["Ice", "Cloudy Blue"],
+      "features": ["5G", "Wi-Fi 5", "GPS", "Bluetooth 5.1", "NFC", "IP67", "Zeiss Dual Camera", "AMOLED", "Android One", "Recycled Materials"],
+      "software": {"OS": "Android 12", "UI": "Stock Android (Android One)", "SecurityPatch": "2022-09", "preinstalled_apps": []},
+      "physical": {"weight": "185g", "dimensions": "158.9x73.9x8mm", "material": "100% Recycled Polycarbonate + Gorilla Glass Victus", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo + OZO Audio", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock", "IP67"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G60 5G",
+      "release_year": 2022,
+      "price": 299,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 695 2.2GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.58 inch", "resolution": "1080x2408 IPS", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "20W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "5MP", "telephoto": "2MP Depth", "periscope": "None", "features": ["Triple Camera", "4K Video"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Ice", "Black"],
+      "features": ["5G", "Wi-Fi", "GPS", "Bluetooth 5.1", "NFC", "IP52", "Android One", "120Hz Display"],
+      "software": {"OS": "Android 12", "UI": "Stock Android (Android One)", "SecurityPatch": "2022-09", "preinstalled_apps": []},
+      "physical": {"weight": "199g", "dimensions": "165.6x76.2x8.7mm", "material": "Recycled Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock", "IP52"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia C32",
+      "release_year": 2023,
+      "price": 129,
+      "hardware": {
+        "ram": "3GB",
+        "storage": ["64GB", "128GB", "microSD"],
+        "cpu": "Unisoc T606 1.6GHz Octa-Core",
+        "gpu": "Mali-G57",
+        "screen": {"size": "6.52 inch", "resolution": "720x1600 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "Flash"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Autumn Leaves", "Beach Pink", "Charcoal", "Cyan Mist"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android 13", "90Hz Display", "5000mAh Battery"],
+      "software": {"OS": "Android 13", "UI": "Stock Android (Android One)", "SecurityPatch": "2023-04", "preinstalled_apps": []},
+      "physical": {"weight": "199g", "dimensions": "165.6x76.7x8.57mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n/ac", "Bluetooth 5.0", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G42 5G",
+      "release_year": 2023,
+      "price": 199,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 480+ 2.2GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.56 inch", "resolution": "720x1612 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4900mAh", "fast_charging": "20W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["So Pink", "So Blue", "So Grey"],
+      "features": ["5G", "Wi-Fi 5", "GPS", "Bluetooth 5.1", "NFC", "Android One", "User Repairable", "3 Years OS Updates"],
+      "software": {"OS": "Android 13", "UI": "Stock Android (Android One)", "SecurityPatch": "2023-07", "preinstalled_apps": []},
+      "physical": {"weight": "193g", "dimensions": "163.9x75.7x8.25mm", "material": "Recycled Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia X50",
+      "release_year": 2023,
+      "price": 499,
+      "hardware": {
+        "ram": "8GB",
+        "storage": ["256GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 695 2.2GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.7 inch", "resolution": "1080x2400 AMOLED", "refresh_rate": "120Hz"},
+        "battery": {"capacity": "4500mAh", "fast_charging": "33W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "108MP Zeiss", "ultrawide": "13MP Zeiss", "telephoto": "5MP Macro", "periscope": "None", "features": ["Zeiss Optics", "OIS", "4K Video", "Triple Camera"]},
+        "front": {"main": "32MP", "features": ["4K Video"]}
+      },
+      "colors": ["Polar Night", "Arctic Ice"],
+      "features": ["5G", "Wi-Fi 6", "GPS", "Bluetooth 5.3", "NFC", "IP52", "Zeiss Triple Camera", "120Hz AMOLED", "Android One"],
+      "software": {"OS": "Android 13", "UI": "Stock Android (Android One)", "SecurityPatch": "2023-07", "preinstalled_apps": []},
+      "physical": {"weight": "201g", "dimensions": "165.8x76.4x8.6mm", "material": "Recycled Polycarbonate + Gorilla Glass", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Barometer", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi 6", "Bluetooth 5.3", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Stereo + OZO Audio", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["4K@30fps", "1080p@60fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock", "IP52"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G310 5G",
+      "release_year": 2023,
+      "price": 149,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["64GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 4 Gen 1 2.0GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.56 inch", "resolution": "720x1612 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4470mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "1080p"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Fjord", "Rose"],
+      "features": ["5G", "Wi-Fi 5", "GPS", "Bluetooth 5.1", "Android 13", "90Hz Display"],
+      "software": {"OS": "Android 13", "UI": "Stock Android", "SecurityPatch": "2023-09", "preinstalled_apps": []},
+      "physical": {"weight": "189g", "dimensions": "163.1x74.6x8.3mm", "material": "Polycarbonate", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia C12 Pro",
+      "release_year": 2023,
+      "price": 99,
+      "hardware": {
+        "ram": "2GB",
+        "storage": ["32GB", "microSD"],
+        "cpu": "Unisoc SC9863A1 1.6GHz Octa-Core",
+        "gpu": "IMG8322",
+        "screen": {"size": "6.3 inch", "resolution": "720x1560 IPS", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "3000mAh", "fast_charging": "10W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "13MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "Flash"]},
+        "front": {"main": "5MP", "features": []}
+      },
+      "colors": ["Dark Cyan", "Light Mint", "Warm Gray"],
+      "features": ["4G LTE", "Wi-Fi", "GPS", "Bluetooth", "Android 12 Go", "Lightweight"],
+      "software": {"OS": "Android 12 Go Edition", "UI": "Stock Android Go", "SecurityPatch": "2023-02", "preinstalled_apps": []},
+      "physical": {"weight": "168g", "dimensions": "160.9x74.1x8.7mm", "material": "Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE", "Wi-Fi b/g/n", "Bluetooth 4.2", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia 3210 4G (2024)",
+      "release_year": 2024,
+      "price": 79,
+      "hardware": {
+        "ram": "48MB",
+        "storage": ["128MB", "microSD"],
+        "cpu": "Proprietary",
+        "gpu": "N/A",
+        "screen": {"size": "2.4 inch", "resolution": "240x320", "refresh_rate": "60Hz"},
+        "battery": {"capacity": "1450mAh", "fast_charging": "N/A", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "2MP", "ultrawide": "None", "telephoto": "None", "periscope": "None", "features": ["Fixed Focus"]},
+        "front": {"main": "None", "features": []}
+      },
+      "colors": ["Gravel", "Y2K Gold", "Beach Blue", "Pop Pink"],
+      "features": ["4G LTE", "Wi-Fi", "Bluetooth", "FM Radio", "Snake Game", "MP3 Player"],
+      "software": {"OS": "Nokia Series 30+", "UI": "Nokia UI", "SecurityPatch": "N/A", "preinstalled_apps": ["Snake", "Music Player"]},
+      "physical": {"weight": "99.7g", "dimensions": "124.7x53x13.6mm", "material": "Polycarbonate", "SIM": "Nano"},
+      "sensors": ["None"],
+      "connectivity": ["GSM/LTE", "Wi-Fi b/g/n", "Bluetooth 5.0", "USB-C"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC"], "video": []},
+      "security": ["PIN Lock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G42 5G (2024)",
+      "release_year": 2024,
+      "price": 229,
+      "hardware": {
+        "ram": "6GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 480+ 2.2GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.56 inch", "resolution": "720x1612 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "4900mAh", "fast_charging": "20W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "1080p"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["So Pink", "So Blue", "So Black"],
+      "features": ["5G", "Wi-Fi 5", "GPS", "Bluetooth 5.1", "NFC", "Android 14", "User Repairable", "3 Years OS Updates"],
+      "software": {"OS": "Android 14", "UI": "Stock Android (Android One)", "SecurityPatch": "2024-03", "preinstalled_apps": []},
+      "physical": {"weight": "193g", "dimensions": "163.9x75.7x8.25mm", "material": "Recycled Polycarbonate", "SIM": "Dual"},
+      "sensors": ["Accelerometer", "Gyroscope", "Proximity", "Compass", "Fingerprint", "Ambient Light", "NFC"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "NFC", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Side Fingerprint", "PIN Lock", "Face Unlock"]
+    },
+    {
+      "brand": "Nokia",
+      "model": "Nokia G310 5G (2024 Updated)",
+      "release_year": 2024,
+      "price": 169,
+      "hardware": {
+        "ram": "4GB",
+        "storage": ["128GB", "microSD"],
+        "cpu": "Qualcomm Snapdragon 4 Gen 1 2.0GHz Octa-Core",
+        "gpu": "Adreno 619",
+        "screen": {"size": "6.56 inch", "resolution": "720x1612 IPS", "refresh_rate": "90Hz"},
+        "battery": {"capacity": "5010mAh", "fast_charging": "15W", "wireless_charging": false}
+      },
+      "camera": {
+        "rear": {"main": "50MP", "ultrawide": "2MP Depth", "telephoto": "None", "periscope": "None", "features": ["Dual Camera", "1080p", "AI Camera"]},
+        "front": {"main": "8MP", "features": []}
+      },
+      "colors": ["Fjord", "Pink"],
+      "features": ["5G", "Wi-Fi 5", "GPS", "Bluetooth 5.1", "Android 14", "90Hz Display", "AI Camera"],
+      "software": {"OS": "Android 14", "UI": "Stock Android", "SecurityPatch": "2024-03", "preinstalled_apps": []},
+      "physical": {"weight": "186g", "dimensions": "163.3x74.8x8.35mm", "material": "Polycarbonate", "SIM": "Single"},
+      "sensors": ["Accelerometer", "Proximity", "Fingerprint", "Ambient Light"],
+      "connectivity": ["GSM/HSPA/LTE/5G", "Wi-Fi b/g/n/ac", "Bluetooth 5.1", "GPS", "USB-C 2.0"],
+      "media": {"speakers": "Mono", "audio": ["MP3", "AAC", "WAV", "FLAC"], "video": ["1080p@30fps"]},
+      "security": ["Fingerprint", "PIN Lock", "Face Unlock"]
+    }
+  ],
+  "metadata": {
+    "total_models": 48,
+    "era_breakdown": {
+      "feature_phone_era_1999_2010": 14,
+      "symbian_windows_phone_era_2010_2015": 7,
+      "modern_android_era_2017_2024": 27
+    },
+    "format_version": "1.0",
+    "last_updated": "2026-03-01",
+    "schema_based_on": "Samsung Galaxy S23 Ultra format",
+    "notes": "Includes all major Nokia models from 1999 to 2024 across feature phones, Symbian era, Windows Phone era, and modern Android era."
+  }
+}

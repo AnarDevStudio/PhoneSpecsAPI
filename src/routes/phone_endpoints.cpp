@@ -34,3 +34,8 @@ nlohmann::json PhoneBrandEndpoints::getXiaomi() {
 nlohmann::json PhoneBrandEndpoints::getGoogle() {
     return readJsonFile(file_path + "google_data.json");
 }
+
+nlohmann::json PhoneBrandEndpoints::getNokia() {
+    return readJsonFile(file_path + "nokia_data.json");
+}
+
