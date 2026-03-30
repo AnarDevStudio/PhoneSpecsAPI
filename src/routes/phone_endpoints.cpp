@@ -15,7 +15,6 @@ nlohmann::json PhoneBrandEndpoints::readJsonFile(const std::string& path) {
         throw std::runtime_error("JSON parse hatasi: " + std::string(e.what()));
     }
 
-
     return data;
 }
 

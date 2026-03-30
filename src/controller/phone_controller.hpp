@@ -2,7 +2,8 @@
 #include "../include/crow_all.h"
 #include "../routes/phone_endpoints.hpp"
 
-
+void registerAllRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);  //Selamma hahahahahah
+void registerRandomRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
 void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
 void registerAppleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);
 void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints);  //Selamma hahahahahah

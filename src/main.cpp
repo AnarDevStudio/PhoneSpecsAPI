@@ -5,6 +5,7 @@ int main() {
     crow::Crow<> app;
     PhoneBrandEndpoints phoneEndpoints;
 
+    registerAllRoute(app, phoneEndpoints);
     registerSamsungRoute(app, phoneEndpoints);
     registerAppleRoute(app, phoneEndpoints);
     registerXiaomiRoute(app, phoneEndpoints);

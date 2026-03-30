@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <sstream>
 #include <iomanip>
-
+#include <random>
 
 std::string urlDecode(const std::string& str) {
     std::string result;
@@ -40,7 +40,6 @@ static crow::response resolveModel(
     std::string decoded_model = urlDecode(model_param);
     std::string norm_query    = normalize(decoded_model);
 
-    // --- 1. Tam eşleşme ---
     for (auto& phone : full_json["phones"]) {
         if (normalize(phone["model"].get<std::string>()) == norm_query) {
             nlohmann::json response_json = phone;
@@ -73,7 +72,6 @@ static crow::response resolveModel(
     if (matches.empty())
         return crow::response(404, R"({"error":"Model not found"})");
 
-    // Tek sonuç varsa direkt döndür (query parametresi de geçerli)
     if (matches.size() == 1) {
         nlohmann::json response_json = matches[0];
 
@@ -93,7 +91,6 @@ static crow::response resolveModel(
         return res;
     }
 
-    // Birden fazla sonuç → eşleşen modellerin listesini döndür
     nlohmann::json suggestions = nlohmann::json::array();
     for (auto& m : matches)
         suggestions.push_back(m["model"]);
@@ -110,6 +107,68 @@ static crow::response resolveModel(
     return res;
 }
 
+void registerRandomRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
+    CROW_ROUTE(app, "/random")
+    ([&phoneEndpoints]() {
+        std::vector<nlohmann::json> allPhones;
+
+        auto collect = [&](const nlohmann::json& data) {
+            for (auto& phone : data["phones"]) {
+                allPhones.push_back(phone);
+            }
+        };
+
+        collect(phoneEndpoints.getSamsung());
+        collect(phoneEndpoints.getApple());
+        collect(phoneEndpoints.getXiaomi());
+        collect(phoneEndpoints.getGoogle());
+        collect(phoneEndpoints.getNokia());
+        collect(phoneEndpoints.getHuawei());
+
+        if (allPhones.empty()) {
+            return crow::response(404, R"({"error":"No phones available"})");
+        }
+
+        std::random_device rd;
+        std::mt19937 gen(rd());
+        std::uniform_int_distribution<> dist(0, allPhones.size() - 1);
+
+        nlohmann::json randomPhone = allPhones[dist(gen)];
+
+        crow::response res;
+        res.code = 200;
+        res.set_header("Content-Type", "application/json");
+        res.body = randomPhone.dump();
+        return res;
+    });
+}
+
+void registerAllRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
+    CROW_ROUTE(app, "/all")
+    ([&phoneEndpoints]() {
+        nlohmann::json result;
+        result["phones"] = nlohmann::json::array();
+
+        auto addPhones = [&](const nlohmann::json& data) {
+            for (auto& phone : data["phones"]) {
+                result["phones"].push_back(phone);
+            }
+        };
+
+        addPhones(phoneEndpoints.getSamsung());
+        addPhones(phoneEndpoints.getApple());
+        addPhones(phoneEndpoints.getXiaomi());
+        addPhones(phoneEndpoints.getGoogle());
+        addPhones(phoneEndpoints.getNokia());
+        addPhones(phoneEndpoints.getHuawei());
+
+        crow::response res;
+        res.code = 200;
+        res.set_header("Content-Type", "application/json");
+        res.body = result.dump();
+        return res;
+    });
+}
 
 void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/samsung")
