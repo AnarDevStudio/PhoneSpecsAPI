@@ -32,6 +32,63 @@ auto normalize = [](const std::string& s) {
     return result;
 };
 
+static const nlohmann::json* getNestedValue(const nlohmann::json& node, const std::string& path) {
+    const nlohmann::json* current = &node;
+    std::string segment;
+    std::istringstream stream(path);
+    while (std::getline(stream, segment, '.')) {
+        if (!current->is_object() || !current->contains(segment))
+            return nullptr;
+        current = &(*current)[segment];
+    }
+    return current;
+}
+
+static bool matchesFilters(const nlohmann::json& phone, const crow::request& req) {
+    for (auto& param : req.url_params.keys()) {
+        std::string key(param);
+        if (key == "query") continue;
+        auto raw_val = req.url_params.get(key);
+        if (!raw_val) continue;
+        std::string filter_val = urlDecode(std::string(raw_val));
+
+        const nlohmann::json* target = getNestedValue(phone, key);
+        if (!target) return false;
+
+        if (target->is_array()) {
+            bool found = false;
+            for (auto& elem : *target) {
+                std::string elem_str = elem.is_string() ? elem.get<std::string>() : elem.dump();
+                if (normalize(elem_str) == normalize(filter_val)) { found = true; break; }
+            }
+            if (!found) return false;
+        } else if (target->is_object()) {
+            return false;
+        } else {
+            std::string val_str = target->is_string() ? target->get<std::string>() : target->dump();
+            if (normalize(val_str) != normalize(filter_val)) return false;
+        }
+    }
+    return true;
+}
+
+static crow::response applyFiltersAndRespond(const crow::request& req, const nlohmann::json& full_json) {
+    nlohmann::json result = nlohmann::json::array();
+    for (auto& phone : full_json["phones"]) {
+        if (matchesFilters(phone, req))
+            result.push_back(phone);
+    }
+    if (result.empty())
+        return crow::response(404, R"({"error":"No phones match the given filters"})");
+    nlohmann::json response_json;
+    response_json["phones"] = result;
+    crow::response res;
+    res.code = 200;
+    res.set_header("Content-Type", "application/json");
+    res.body = response_json.dump();
+    return res;
+}
+
 static crow::response resolveModel(
     const crow::request& req,
     const nlohmann::json& full_json,
@@ -172,12 +229,11 @@ void registerAllRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
 
 void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/samsung")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getSamsung().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getSamsung();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/samsung/<string>")
@@ -188,12 +244,11 @@ void registerSamsungRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints
 
 void registerAppleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/apple")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getApple().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getApple();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/apple/<string>")
@@ -204,12 +259,11 @@ void registerAppleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) 
 
 void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/xiaomi")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getXiaomi().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getXiaomi();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/xiaomi/<string>")
@@ -220,12 +274,11 @@ void registerXiaomiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
 
 void registerGoogleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/google")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getGoogle().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getGoogle();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/google/<string>")
@@ -236,12 +289,11 @@ void registerGoogleRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints)
 
 void registerNokiaRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/nokia")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getNokia().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getNokia();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/nokia/<string>")
@@ -252,12 +304,11 @@ void registerNokiaRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) 
 
 void registerHuaweiRoute(crow::Crow<>& app, PhoneBrandEndpoints& phoneEndpoints) {
     CROW_ROUTE(app, "/huawei")
-    ([&phoneEndpoints]() {
-        crow::response res;
-        res.code = 200;
-        res.set_header("Content-Type", "application/json");
-        res.body = phoneEndpoints.getHuawei().dump();
-        return res;
+    ([&phoneEndpoints](const crow::request& req) {
+        auto data = phoneEndpoints.getHuawei();
+        if (req.url_params.keys().empty())
+            return crow::response(200, data.dump());
+        return applyFiltersAndRespond(req, data);
     });
 
     CROW_ROUTE(app, "/huawei/<string>")
